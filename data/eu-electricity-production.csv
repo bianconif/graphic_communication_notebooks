@@ -1,0 +1,6022 @@
+Area,Year,Source,Value
+Austria,2000,Bioenergy,1.53
+Austria,2000,Coal,5.72
+Austria,2000,Gas,7.85
+Austria,2000,Hydro,41.84
+Austria,2000,Nuclear,0.0
+Austria,2000,Other Fossil,2.63
+Austria,2000,Other Renewables,0.0
+Austria,2000,Solar,0.0
+Austria,2000,Wind,0.07
+Austria,2001,Bioenergy,1.67
+Austria,2001,Coal,6.89
+Austria,2001,Gas,8.75
+Austria,2001,Hydro,40.46
+Austria,2001,Nuclear,0.0
+Austria,2001,Other Fossil,3.1
+Austria,2001,Other Renewables,0.0
+Austria,2001,Solar,0.01
+Austria,2001,Wind,0.1
+Austria,2002,Bioenergy,1.52
+Austria,2002,Coal,6.61
+Austria,2002,Gas,9.31
+Austria,2002,Hydro,40.23
+Austria,2002,Nuclear,0.0
+Austria,2002,Other Fossil,2.81
+Austria,2002,Other Renewables,0.0
+Austria,2002,Solar,0.01
+Austria,2002,Wind,0.14
+Austria,2003,Bioenergy,1.65
+Austria,2003,Coal,8.44
+Austria,2003,Gas,11.16
+Austria,2003,Hydro,33.21
+Austria,2003,Nuclear,0.0
+Austria,2003,Other Fossil,3.13
+Austria,2003,Other Renewables,0.0
+Austria,2003,Solar,0.01
+Austria,2003,Wind,0.37
+Austria,2004,Bioenergy,1.91
+Austria,2004,Coal,7.91
+Austria,2004,Gas,10.95
+Austria,2004,Hydro,36.76
+Austria,2004,Nuclear,0.0
+Austria,2004,Other Fossil,3.37
+Austria,2004,Other Renewables,0.0
+Austria,2004,Solar,0.02
+Austria,2004,Wind,0.93
+Austria,2005,Bioenergy,2.43
+Austria,2005,Coal,7.17
+Austria,2005,Gas,13.03
+Austria,2005,Hydro,37.1
+Austria,2005,Nuclear,0.0
+Austria,2005,Other Fossil,3.29
+Austria,2005,Other Renewables,0.0
+Austria,2005,Solar,0.02
+Austria,2005,Wind,1.33
+Austria,2006,Bioenergy,3.23
+Austria,2006,Coal,7.37
+Austria,2006,Gas,10.67
+Austria,2006,Hydro,35.66
+Austria,2006,Nuclear,0.0
+Austria,2006,Other Fossil,3.51
+Austria,2006,Other Renewables,0.0
+Austria,2006,Solar,0.02
+Austria,2006,Wind,1.75
+Austria,2007,Bioenergy,4.06
+Austria,2007,Coal,6.6
+Austria,2007,Gas,9.9
+Austria,2007,Hydro,37.05
+Austria,2007,Nuclear,0.0
+Austria,2007,Other Fossil,3.16
+Austria,2007,Other Renewables,0.0
+Austria,2007,Solar,0.02
+Austria,2007,Wind,2.04
+Austria,2008,Bioenergy,4.16
+Austria,2008,Coal,5.53
+Austria,2008,Gas,11.18
+Austria,2008,Hydro,38.33
+Austria,2008,Nuclear,0.0
+Austria,2008,Other Fossil,3.14
+Austria,2008,Other Renewables,0.0
+Austria,2008,Solar,0.03
+Austria,2008,Wind,2.01
+Austria,2009,Bioenergy,4.28
+Austria,2009,Coal,3.76
+Austria,2009,Gas,12.34
+Austria,2009,Hydro,40.9
+Austria,2009,Nuclear,0.0
+Austria,2009,Other Fossil,2.93
+Austria,2009,Other Renewables,0.0
+Austria,2009,Solar,0.05
+Austria,2009,Wind,1.95
+Austria,2010,Bioenergy,4.48
+Austria,2010,Coal,4.92
+Austria,2010,Gas,14.35
+Austria,2010,Hydro,38.36
+Austria,2010,Nuclear,0.0
+Austria,2010,Other Fossil,3.56
+Austria,2010,Other Renewables,0.0
+Austria,2010,Solar,0.09
+Austria,2010,Wind,2.06
+Austria,2011,Bioenergy,4.56
+Austria,2011,Coal,5.43
+Austria,2011,Gas,12.44
+Austria,2011,Hydro,34.24
+Austria,2011,Nuclear,0.0
+Austria,2011,Other Fossil,3.42
+Austria,2011,Other Renewables,0.0
+Austria,2011,Solar,0.17
+Austria,2011,Wind,1.94
+Austria,2012,Bioenergy,4.68
+Austria,2012,Coal,4.39
+Austria,2012,Gas,9.71
+Austria,2012,Hydro,43.85
+Austria,2012,Nuclear,0.0
+Austria,2012,Other Fossil,3.22
+Austria,2012,Other Renewables,0.0
+Austria,2012,Solar,0.34
+Austria,2012,Wind,2.46
+Austria,2013,Bioenergy,4.7
+Austria,2013,Coal,4.21
+Austria,2013,Gas,6.65
+Austria,2013,Hydro,42.02
+Austria,2013,Nuclear,0.0
+Austria,2013,Other Fossil,3.19
+Austria,2013,Other Renewables,0.0
+Austria,2013,Solar,0.63
+Austria,2013,Wind,3.15
+Austria,2014,Bioenergy,4.55
+Austria,2014,Coal,2.94
+Austria,2014,Gas,5.32
+Austria,2014,Hydro,41.01
+Austria,2014,Nuclear,0.0
+Austria,2014,Other Fossil,3.09
+Austria,2014,Other Renewables,0.0
+Austria,2014,Solar,0.79
+Austria,2014,Wind,3.85
+Austria,2015,Bioenergy,4.65
+Austria,2015,Coal,2.95
+Austria,2015,Gas,7.66
+Austria,2015,Hydro,37.16
+Austria,2015,Nuclear,0.0
+Austria,2015,Other Fossil,3.58
+Austria,2015,Other Renewables,0.0
+Austria,2015,Solar,0.94
+Austria,2015,Wind,4.84
+Austria,2016,Bioenergy,4.78
+Austria,2016,Coal,2.04
+Austria,2016,Gas,8.49
+Austria,2016,Hydro,39.97
+Austria,2016,Nuclear,0.0
+Austria,2016,Other Fossil,3.26
+Austria,2016,Other Renewables,0.0
+Austria,2016,Solar,1.1
+Austria,2016,Wind,5.23
+Austria,2017,Bioenergy,4.92
+Austria,2017,Coal,1.76
+Austria,2017,Gas,10.91
+Austria,2017,Hydro,38.29
+Austria,2017,Nuclear,0.0
+Austria,2017,Other Fossil,3.37
+Austria,2017,Other Renewables,0.0
+Austria,2017,Solar,1.27
+Austria,2017,Wind,6.57
+Austria,2018,Bioenergy,4.93
+Austria,2018,Coal,1.81
+Austria,2018,Gas,9.92
+Austria,2018,Hydro,37.64
+Austria,2018,Nuclear,0.0
+Austria,2018,Other Fossil,2.88
+Austria,2018,Other Renewables,0.0
+Austria,2018,Solar,1.46
+Austria,2018,Wind,6.03
+Austria,2019,Bioenergy,4.66
+Austria,2019,Coal,1.5
+Austria,2019,Gas,11.32
+Austria,2019,Hydro,40.83
+Austria,2019,Nuclear,0.0
+Austria,2019,Other Fossil,3.23
+Austria,2019,Other Renewables,0.0
+Austria,2019,Solar,1.7
+Austria,2019,Wind,7.45
+Austria,2020,Bioenergy,4.59
+Austria,2020,Coal,0.56
+Austria,2020,Gas,9.95
+Austria,2020,Hydro,42.0
+Austria,2020,Nuclear,0.0
+Austria,2020,Other Fossil,3.11
+Austria,2020,Other Renewables,0.0
+Austria,2020,Solar,2.04
+Austria,2020,Wind,6.79
+Austria,2021,Bioenergy,4.48
+Austria,2021,Coal,0.0
+Austria,2021,Gas,10.62
+Austria,2021,Hydro,38.89
+Austria,2021,Nuclear,0.0
+Austria,2021,Other Fossil,3.31
+Austria,2021,Other Renewables,0.0
+Austria,2021,Solar,2.77
+Austria,2021,Wind,6.74
+Austria,2022,Bioenergy,4.76
+Austria,2022,Coal,0.0
+Austria,2022,Gas,10.87
+Austria,2022,Hydro,34.63
+Austria,2022,Nuclear,0.0
+Austria,2022,Other Fossil,3.22
+Austria,2022,Other Renewables,0.0
+Austria,2022,Solar,3.78
+Austria,2022,Wind,7.25
+Austria,2023,Bioenergy,4.56
+Austria,2023,Coal,0.0
+Austria,2023,Gas,7.5
+Austria,2023,Hydro,40.67
+Austria,2023,Nuclear,0.0
+Austria,2023,Other Fossil,3.32
+Austria,2023,Other Renewables,0.0
+Austria,2023,Solar,6.39
+Austria,2023,Wind,8.34
+Austria,2024,Bioenergy,5.09
+Austria,2024,Coal,0.0
+Austria,2024,Gas,6.93
+Austria,2024,Hydro,44.76
+Austria,2024,Nuclear,0.0
+Austria,2024,Other Fossil,3.32
+Austria,2024,Other Renewables,0.0
+Austria,2024,Solar,8.82
+Austria,2024,Wind,9.44
+Belgium,2000,Bioenergy,0.57
+Belgium,2000,Coal,12.92
+Belgium,2000,Gas,15.98
+Belgium,2000,Hydro,0.46
+Belgium,2000,Nuclear,48.16
+Belgium,2000,Other Fossil,4.68
+Belgium,2000,Other Renewables,0.0
+Belgium,2000,Solar,0.0
+Belgium,2000,Wind,0.02
+Belgium,2001,Bioenergy,0.6
+Belgium,2001,Coal,9.94
+Belgium,2001,Gas,15.78
+Belgium,2001,Hydro,0.44
+Belgium,2001,Nuclear,46.35
+Belgium,2001,Other Fossil,5.48
+Belgium,2001,Other Renewables,0.0
+Belgium,2001,Solar,0.0
+Belgium,2001,Wind,0.04
+Belgium,2002,Bioenergy,0.72
+Belgium,2002,Coal,10.03
+Belgium,2002,Gas,17.87
+Belgium,2002,Hydro,0.36
+Belgium,2002,Nuclear,47.36
+Belgium,2002,Other Fossil,4.54
+Belgium,2002,Other Renewables,0.0
+Belgium,2002,Solar,0.0
+Belgium,2002,Wind,0.06
+Belgium,2003,Bioenergy,0.86
+Belgium,2003,Coal,9.64
+Belgium,2003,Gas,21.61
+Belgium,2003,Hydro,0.25
+Belgium,2003,Nuclear,47.38
+Belgium,2003,Other Fossil,3.74
+Belgium,2003,Other Renewables,0.0
+Belgium,2003,Solar,0.0
+Belgium,2003,Wind,0.09
+Belgium,2004,Bioenergy,1.04
+Belgium,2004,Coal,9.15
+Belgium,2004,Gas,20.04
+Belgium,2004,Hydro,0.32
+Belgium,2004,Nuclear,47.31
+Belgium,2004,Other Fossil,4.91
+Belgium,2004,Other Renewables,0.0
+Belgium,2004,Solar,0.0
+Belgium,2004,Wind,0.14
+Belgium,2005,Bioenergy,1.59
+Belgium,2005,Coal,8.2
+Belgium,2005,Gas,21.5
+Belgium,2005,Hydro,0.29
+Belgium,2005,Nuclear,47.6
+Belgium,2005,Other Fossil,4.97
+Belgium,2005,Other Renewables,0.0
+Belgium,2005,Solar,0.0
+Belgium,2005,Wind,0.23
+Belgium,2006,Bioenergy,2.23
+Belgium,2006,Coal,6.85
+Belgium,2006,Gas,21.99
+Belgium,2006,Hydro,0.36
+Belgium,2006,Nuclear,46.65
+Belgium,2006,Other Fossil,4.89
+Belgium,2006,Other Renewables,0.0
+Belgium,2006,Solar,0.0
+Belgium,2006,Wind,0.37
+Belgium,2007,Bioenergy,2.6
+Belgium,2007,Coal,6.47
+Belgium,2007,Gas,24.66
+Belgium,2007,Hydro,0.39
+Belgium,2007,Nuclear,48.23
+Belgium,2007,Other Fossil,3.96
+Belgium,2007,Other Renewables,0.0
+Belgium,2007,Solar,0.01
+Belgium,2007,Wind,0.49
+Belgium,2008,Bioenergy,3.33
+Belgium,2008,Coal,5.55
+Belgium,2008,Gas,24.11
+Belgium,2008,Hydro,0.41
+Belgium,2008,Nuclear,45.57
+Belgium,2008,Other Fossil,3.41
+Belgium,2008,Other Renewables,0.0
+Belgium,2008,Solar,0.04
+Belgium,2008,Wind,0.64
+Belgium,2009,Bioenergy,3.95
+Belgium,2009,Coal,5.18
+Belgium,2009,Gas,29.25
+Belgium,2009,Hydro,0.33
+Belgium,2009,Nuclear,47.22
+Belgium,2009,Other Fossil,2.67
+Belgium,2009,Other Renewables,0.0
+Belgium,2009,Solar,0.17
+Belgium,2009,Wind,0.99
+Belgium,2010,Bioenergy,4.38
+Belgium,2010,Coal,4.2
+Belgium,2010,Gas,30.84
+Belgium,2010,Hydro,0.31
+Belgium,2010,Nuclear,47.94
+Belgium,2010,Other Fossil,3.49
+Belgium,2010,Other Renewables,0.0
+Belgium,2010,Solar,0.58
+Belgium,2010,Wind,1.29
+Belgium,2011,Bioenergy,4.63
+Belgium,2011,Coal,3.48
+Belgium,2011,Gas,25.44
+Belgium,2011,Hydro,0.2
+Belgium,2011,Nuclear,48.23
+Belgium,2011,Other Fossil,3.77
+Belgium,2011,Other Renewables,0.0
+Belgium,2011,Solar,1.21
+Belgium,2011,Wind,2.31
+Belgium,2012,Bioenergy,5.24
+Belgium,2012,Coal,3.39
+Belgium,2012,Gas,23.57
+Belgium,2012,Hydro,0.36
+Belgium,2012,Nuclear,40.29
+Belgium,2012,Other Fossil,3.75
+Belgium,2012,Other Renewables,0.0
+Belgium,2012,Solar,2.15
+Belgium,2012,Wind,2.76
+Belgium,2013,Bioenergy,5.03
+Belgium,2013,Coal,3.01
+Belgium,2013,Gas,20.8
+Belgium,2013,Hydro,0.38
+Belgium,2013,Nuclear,42.64
+Belgium,2013,Other Fossil,3.78
+Belgium,2013,Other Renewables,0.0
+Belgium,2013,Solar,2.64
+Belgium,2013,Wind,3.67
+Belgium,2014,Bioenergy,4.41
+Belgium,2014,Coal,2.09
+Belgium,2014,Gas,19.34
+Belgium,2014,Hydro,0.29
+Belgium,2014,Nuclear,33.7
+Belgium,2014,Other Fossil,3.86
+Belgium,2014,Other Renewables,0.0
+Belgium,2014,Solar,2.89
+Belgium,2014,Wind,4.62
+Belgium,2015,Bioenergy,5.49
+Belgium,2015,Coal,2.07
+Belgium,2015,Gas,22.02
+Belgium,2015,Hydro,0.32
+Belgium,2015,Nuclear,26.1
+Belgium,2015,Other Fossil,3.8
+Belgium,2015,Other Renewables,0.0
+Belgium,2015,Solar,3.06
+Belgium,2015,Wind,5.57
+Belgium,2016,Bioenergy,5.36
+Belgium,2016,Coal,0.39
+Belgium,2016,Gas,22.07
+Belgium,2016,Hydro,0.37
+Belgium,2016,Nuclear,43.52
+Belgium,2016,Other Fossil,4.08
+Belgium,2016,Other Renewables,0.0
+Belgium,2016,Solar,3.1
+Belgium,2016,Wind,5.42
+Belgium,2017,Bioenergy,5.7
+Belgium,2017,Coal,0.0
+Belgium,2017,Gas,23.02
+Belgium,2017,Hydro,0.27
+Belgium,2017,Nuclear,42.23
+Belgium,2017,Other Fossil,4.29
+Belgium,2017,Other Renewables,0.0
+Belgium,2017,Solar,3.31
+Belgium,2017,Wind,6.52
+Belgium,2018,Bioenergy,5.4
+Belgium,2018,Coal,0.0
+Belgium,2018,Gas,23.99
+Belgium,2018,Hydro,0.29
+Belgium,2018,Nuclear,28.6
+Belgium,2018,Other Fossil,4.12
+Belgium,2018,Other Renewables,0.0
+Belgium,2018,Solar,3.9
+Belgium,2018,Wind,7.57
+Belgium,2019,Bioenergy,5.15
+Belgium,2019,Coal,0.0
+Belgium,2019,Gas,25.54
+Belgium,2019,Hydro,0.3
+Belgium,2019,Nuclear,43.52
+Belgium,2019,Other Fossil,4.18
+Belgium,2019,Other Renewables,0.0
+Belgium,2019,Solar,4.25
+Belgium,2019,Wind,9.75
+Belgium,2020,Bioenergy,5.26
+Belgium,2020,Coal,0.0
+Belgium,2020,Gas,26.78
+Belgium,2020,Hydro,0.27
+Belgium,2020,Nuclear,34.43
+Belgium,2020,Other Fossil,3.63
+Belgium,2020,Other Renewables,0.0
+Belgium,2020,Solar,5.11
+Belgium,2020,Wind,12.81
+Belgium,2021,Bioenergy,4.7
+Belgium,2021,Coal,0.0
+Belgium,2021,Gas,22.52
+Belgium,2021,Hydro,0.42
+Belgium,2021,Nuclear,50.33
+Belgium,2021,Other Fossil,3.8
+Belgium,2021,Other Renewables,0.0
+Belgium,2021,Solar,5.62
+Belgium,2021,Wind,12.0
+Belgium,2022,Bioenergy,4.93
+Belgium,2022,Coal,0.0
+Belgium,2022,Gas,21.95
+Belgium,2022,Hydro,0.27
+Belgium,2022,Nuclear,43.88
+Belgium,2022,Other Fossil,4.07
+Belgium,2022,Other Renewables,0.0
+Belgium,2022,Solar,6.88
+Belgium,2022,Wind,12.35
+Belgium,2023,Bioenergy,3.8
+Belgium,2023,Coal,0.0
+Belgium,2023,Gas,18.3
+Belgium,2023,Hydro,0.41
+Belgium,2023,Nuclear,32.93
+Belgium,2023,Other Fossil,3.48
+Belgium,2023,Other Renewables,0.0
+Belgium,2023,Solar,7.82
+Belgium,2023,Wind,15.46
+Belgium,2024,Bioenergy,3.5
+Belgium,2024,Coal,0.0
+Belgium,2024,Gas,13.95
+Belgium,2024,Hydro,0.33
+Belgium,2024,Nuclear,31.41
+Belgium,2024,Other Fossil,2.64
+Belgium,2024,Other Renewables,0.0
+Belgium,2024,Solar,8.93
+Belgium,2024,Wind,14.0
+Bulgaria,2000,Bioenergy,0.0
+Bulgaria,2000,Coal,16.94
+Bulgaria,2000,Gas,1.91
+Bulgaria,2000,Hydro,2.63
+Bulgaria,2000,Nuclear,18.18
+Bulgaria,2000,Other Fossil,0.93
+Bulgaria,2000,Other Renewables,0.0
+Bulgaria,2000,Solar,0.0
+Bulgaria,2001,Bioenergy,0.0
+Bulgaria,2001,Coal,19.5
+Bulgaria,2001,Gas,1.91
+Bulgaria,2001,Hydro,1.65
+Bulgaria,2001,Nuclear,19.55
+Bulgaria,2001,Other Fossil,0.83
+Bulgaria,2001,Other Renewables,0.0
+Bulgaria,2001,Solar,0.0
+Bulgaria,2002,Bioenergy,0.0
+Bulgaria,2002,Coal,17.18
+Bulgaria,2002,Gas,1.54
+Bulgaria,2002,Hydro,2.12
+Bulgaria,2002,Nuclear,20.22
+Bulgaria,2002,Other Fossil,1.02
+Bulgaria,2002,Other Renewables,0.0
+Bulgaria,2002,Solar,0.0
+Bulgaria,2003,Bioenergy,0.0
+Bulgaria,2003,Coal,19.24
+Bulgaria,2003,Gas,1.76
+Bulgaria,2003,Hydro,2.99
+Bulgaria,2003,Nuclear,17.28
+Bulgaria,2003,Other Fossil,1.01
+Bulgaria,2003,Other Renewables,0.0
+Bulgaria,2003,Solar,0.0
+Bulgaria,2004,Bioenergy,0.0
+Bulgaria,2004,Coal,18.9
+Bulgaria,2004,Gas,1.49
+Bulgaria,2004,Hydro,3.14
+Bulgaria,2004,Nuclear,16.82
+Bulgaria,2004,Other Fossil,1.01
+Bulgaria,2004,Other Renewables,0.0
+Bulgaria,2004,Solar,0.0
+Bulgaria,2004,Wind,0.0
+Bulgaria,2005,Bioenergy,0.0
+Bulgaria,2005,Coal,18.46
+Bulgaria,2005,Gas,1.73
+Bulgaria,2005,Hydro,4.3
+Bulgaria,2005,Nuclear,18.65
+Bulgaria,2005,Other Fossil,0.75
+Bulgaria,2005,Other Renewables,0.0
+Bulgaria,2005,Solar,0.0
+Bulgaria,2005,Wind,0.0
+Bulgaria,2006,Bioenergy,0.0
+Bulgaria,2006,Coal,19.09
+Bulgaria,2006,Gas,2.16
+Bulgaria,2006,Hydro,4.21
+Bulgaria,2006,Nuclear,19.49
+Bulgaria,2006,Other Fossil,0.47
+Bulgaria,2006,Other Renewables,0.0
+Bulgaria,2006,Solar,0.0
+Bulgaria,2006,Wind,0.02
+Bulgaria,2007,Bioenergy,0.0
+Bulgaria,2007,Coal,22.37
+Bulgaria,2007,Gas,2.34
+Bulgaria,2007,Hydro,2.83
+Bulgaria,2007,Nuclear,14.64
+Bulgaria,2007,Other Fossil,0.59
+Bulgaria,2007,Other Renewables,0.0
+Bulgaria,2007,Solar,0.0
+Bulgaria,2007,Wind,0.05
+Bulgaria,2008,Bioenergy,0.02
+Bulgaria,2008,Coal,23.18
+Bulgaria,2008,Gas,2.36
+Bulgaria,2008,Hydro,2.79
+Bulgaria,2008,Nuclear,15.77
+Bulgaria,2008,Other Fossil,0.25
+Bulgaria,2008,Other Renewables,0.0
+Bulgaria,2008,Solar,0.0
+Bulgaria,2008,Wind,0.12
+Bulgaria,2009,Bioenergy,0.01
+Bulgaria,2009,Coal,21.1
+Bulgaria,2009,Gas,1.96
+Bulgaria,2009,Hydro,3.43
+Bulgaria,2009,Nuclear,15.26
+Bulgaria,2009,Other Fossil,0.31
+Bulgaria,2009,Other Renewables,0.0
+Bulgaria,2009,Solar,0.0
+Bulgaria,2009,Wind,0.24
+Bulgaria,2010,Bioenergy,0.04
+Bulgaria,2010,Coal,22.61
+Bulgaria,2010,Gas,1.97
+Bulgaria,2010,Hydro,5.03
+Bulgaria,2010,Nuclear,15.25
+Bulgaria,2010,Other Fossil,0.34
+Bulgaria,2010,Other Renewables,0.0
+Bulgaria,2010,Solar,0.01
+Bulgaria,2010,Wind,0.68
+Bulgaria,2011,Bioenergy,0.06
+Bulgaria,2011,Coal,27.53
+Bulgaria,2011,Gas,2.08
+Bulgaria,2011,Hydro,2.87
+Bulgaria,2011,Nuclear,16.31
+Bulgaria,2011,Other Fossil,0.15
+Bulgaria,2011,Other Renewables,0.0
+Bulgaria,2011,Solar,0.1
+Bulgaria,2011,Wind,0.86
+Bulgaria,2012,Bioenergy,0.07
+Bulgaria,2012,Coal,22.87
+Bulgaria,2012,Gas,2.36
+Bulgaria,2012,Hydro,3.18
+Bulgaria,2012,Nuclear,15.78
+Bulgaria,2012,Other Fossil,0.2
+Bulgaria,2012,Other Renewables,0.0
+Bulgaria,2012,Solar,0.78
+Bulgaria,2012,Wind,1.22
+Bulgaria,2013,Bioenergy,0.11
+Bulgaria,2013,Coal,19.39
+Bulgaria,2013,Gas,2.34
+Bulgaria,2013,Hydro,4.04
+Bulgaria,2013,Nuclear,14.17
+Bulgaria,2013,Other Fossil,0.21
+Bulgaria,2013,Other Renewables,0.0
+Bulgaria,2013,Solar,1.39
+Bulgaria,2013,Wind,1.37
+Bulgaria,2014,Bioenergy,0.2
+Bulgaria,2014,Coal,21.31
+Bulgaria,2014,Gas,2.14
+Bulgaria,2014,Hydro,4.6
+Bulgaria,2014,Nuclear,15.87
+Bulgaria,2014,Other Fossil,0.21
+Bulgaria,2014,Other Renewables,0.0
+Bulgaria,2014,Solar,1.26
+Bulgaria,2014,Wind,1.33
+Bulgaria,2015,Bioenergy,0.27
+Bulgaria,2015,Coal,22.53
+Bulgaria,2015,Gas,1.86
+Bulgaria,2015,Hydro,5.65
+Bulgaria,2015,Nuclear,15.38
+Bulgaria,2015,Other Fossil,0.19
+Bulgaria,2015,Other Renewables,0.0
+Bulgaria,2015,Solar,1.38
+Bulgaria,2015,Wind,1.45
+Bulgaria,2016,Bioenergy,0.35
+Bulgaria,2016,Coal,19.37
+Bulgaria,2016,Gas,2.05
+Bulgaria,2016,Hydro,3.88
+Bulgaria,2016,Nuclear,15.78
+Bulgaria,2016,Other Fossil,0.29
+Bulgaria,2016,Other Renewables,0.0
+Bulgaria,2016,Solar,1.39
+Bulgaria,2016,Wind,1.42
+Bulgaria,2017,Bioenergy,0.4
+Bulgaria,2017,Coal,20.92
+Bulgaria,2017,Gas,1.93
+Bulgaria,2017,Hydro,2.83
+Bulgaria,2017,Nuclear,15.55
+Bulgaria,2017,Other Fossil,0.31
+Bulgaria,2017,Other Renewables,0.0
+Bulgaria,2017,Solar,1.4
+Bulgaria,2017,Wind,1.5
+Bulgaria,2018,Bioenergy,1.57
+Bulgaria,2018,Coal,18.66
+Bulgaria,2018,Gas,2.02
+Bulgaria,2018,Hydro,5.15
+Bulgaria,2018,Nuclear,16.13
+Bulgaria,2018,Other Fossil,0.32
+Bulgaria,2018,Other Renewables,0.0
+Bulgaria,2018,Solar,1.34
+Bulgaria,2018,Wind,1.32
+Bulgaria,2019,Bioenergy,1.82
+Bulgaria,2019,Coal,17.2
+Bulgaria,2019,Gas,2.15
+Bulgaria,2019,Hydro,2.93
+Bulgaria,2019,Nuclear,16.56
+Bulgaria,2019,Other Fossil,0.32
+Bulgaria,2019,Other Renewables,0.0
+Bulgaria,2019,Solar,1.42
+Bulgaria,2019,Wind,1.32
+Bulgaria,2020,Bioenergy,1.7
+Bulgaria,2020,Coal,13.51
+Bulgaria,2020,Gas,2.29
+Bulgaria,2020,Hydro,2.82
+Bulgaria,2020,Nuclear,16.63
+Bulgaria,2020,Other Fossil,0.24
+Bulgaria,2020,Other Renewables,0.0
+Bulgaria,2020,Solar,1.47
+Bulgaria,2020,Wind,1.48
+Bulgaria,2021,Bioenergy,2.59
+Bulgaria,2021,Coal,17.09
+Bulgaria,2021,Gas,3.05
+Bulgaria,2021,Hydro,4.82
+Bulgaria,2021,Nuclear,16.49
+Bulgaria,2021,Other Fossil,0.28
+Bulgaria,2021,Other Renewables,0.0
+Bulgaria,2021,Solar,1.47
+Bulgaria,2021,Wind,1.43
+Bulgaria,2022,Bioenergy,2.24
+Bulgaria,2022,Coal,21.79
+Bulgaria,2022,Gas,2.05
+Bulgaria,2022,Hydro,3.8
+Bulgaria,2022,Nuclear,16.46
+Bulgaria,2022,Other Fossil,0.35
+Bulgaria,2022,Other Renewables,0.0
+Bulgaria,2022,Solar,2.09
+Bulgaria,2022,Wind,1.5
+Bulgaria,2023,Bioenergy,1.87
+Bulgaria,2023,Coal,11.73
+Bulgaria,2023,Gas,1.94
+Bulgaria,2023,Hydro,3.08
+Bulgaria,2023,Nuclear,16.16
+Bulgaria,2023,Other Fossil,0.2
+Bulgaria,2023,Other Renewables,0.0
+Bulgaria,2023,Solar,3.52
+Bulgaria,2023,Wind,1.61
+Bulgaria,2024,Bioenergy,1.82
+Bulgaria,2024,Coal,8.01
+Bulgaria,2024,Gas,1.86
+Bulgaria,2024,Hydro,2.9
+Bulgaria,2024,Nuclear,15.52
+Bulgaria,2024,Other Fossil,0.2
+Bulgaria,2024,Other Renewables,0.0
+Bulgaria,2024,Solar,5.34
+Bulgaria,2024,Wind,1.47
+Croatia,2000,Bioenergy,0.0
+Croatia,2000,Coal,1.55
+Croatia,2000,Gas,1.57
+Croatia,2000,Hydro,6.45
+Croatia,2000,Nuclear,0.0
+Croatia,2000,Other Fossil,1.64
+Croatia,2000,Other Renewables,0.0
+Croatia,2000,Solar,0.0
+Croatia,2001,Bioenergy,0.0
+Croatia,2001,Coal,1.64
+Croatia,2001,Gas,1.83
+Croatia,2001,Hydro,7.18
+Croatia,2001,Nuclear,0.0
+Croatia,2001,Other Fossil,2.1
+Croatia,2001,Other Renewables,0.0
+Croatia,2001,Solar,0.0
+Croatia,2002,Bioenergy,0.0
+Croatia,2002,Coal,2.11
+Croatia,2002,Gas,2.53
+Croatia,2002,Hydro,5.85
+Croatia,2002,Nuclear,0.0
+Croatia,2002,Other Fossil,2.2
+Croatia,2002,Other Renewables,0.0
+Croatia,2002,Solar,0.0
+Croatia,2003,Bioenergy,0.0
+Croatia,2003,Coal,2.4
+Croatia,2003,Gas,2.06
+Croatia,2003,Hydro,5.46
+Croatia,2003,Nuclear,0.0
+Croatia,2003,Other Fossil,3.24
+Croatia,2003,Other Renewables,0.0
+Croatia,2003,Solar,0.0
+Croatia,2004,Bioenergy,0.0
+Croatia,2004,Coal,2.14
+Croatia,2004,Gas,2.46
+Croatia,2004,Hydro,7.63
+Croatia,2004,Nuclear,0.0
+Croatia,2004,Other Fossil,1.64
+Croatia,2004,Other Renewables,0.0
+Croatia,2004,Solar,0.0
+Croatia,2004,Wind,0.0
+Croatia,2005,Bioenergy,0.01
+Croatia,2005,Coal,2.33
+Croatia,2005,Gas,1.82
+Croatia,2005,Hydro,7.04
+Croatia,2005,Nuclear,0.0
+Croatia,2005,Other Fossil,1.84
+Croatia,2005,Other Renewables,0.0
+Croatia,2005,Solar,0.0
+Croatia,2005,Wind,0.01
+Croatia,2006,Bioenergy,0.01
+Croatia,2006,Coal,2.25
+Croatia,2006,Gas,2.06
+Croatia,2006,Hydro,6.62
+Croatia,2006,Nuclear,0.0
+Croatia,2006,Other Fossil,1.95
+Croatia,2006,Other Renewables,0.0
+Croatia,2006,Solar,0.0
+Croatia,2006,Wind,0.02
+Croatia,2007,Bioenergy,0.01
+Croatia,2007,Coal,2.42
+Croatia,2007,Gas,3.07
+Croatia,2007,Hydro,4.7
+Croatia,2007,Nuclear,0.0
+Croatia,2007,Other Fossil,2.31
+Croatia,2007,Other Renewables,0.0
+Croatia,2007,Solar,0.0
+Croatia,2007,Wind,0.03
+Croatia,2008,Bioenergy,0.02
+Croatia,2008,Coal,2.49
+Croatia,2008,Gas,2.46
+Croatia,2008,Hydro,5.78
+Croatia,2008,Nuclear,0.0
+Croatia,2008,Other Fossil,1.99
+Croatia,2008,Other Renewables,0.0
+Croatia,2008,Solar,0.0
+Croatia,2008,Wind,0.04
+Croatia,2009,Bioenergy,0.02
+Croatia,2009,Coal,1.65
+Croatia,2009,Gas,2.21
+Croatia,2009,Hydro,7.41
+Croatia,2009,Nuclear,0.0
+Croatia,2009,Other Fossil,2.01
+Croatia,2009,Other Renewables,0.0
+Croatia,2009,Solar,0.0
+Croatia,2009,Wind,0.05
+Croatia,2010,Bioenergy,0.03
+Croatia,2010,Coal,2.38
+Croatia,2010,Gas,2.55
+Croatia,2010,Hydro,9.13
+Croatia,2010,Nuclear,0.0
+Croatia,2010,Other Fossil,0.56
+Croatia,2010,Other Renewables,0.0
+Croatia,2010,Solar,0.0
+Croatia,2010,Wind,0.14
+Croatia,2011,Bioenergy,0.05
+Croatia,2011,Coal,2.58
+Croatia,2011,Gas,2.62
+Croatia,2011,Hydro,5.03
+Croatia,2011,Nuclear,0.0
+Croatia,2011,Other Fossil,0.75
+Croatia,2011,Other Renewables,0.0
+Croatia,2011,Solar,0.0
+Croatia,2011,Wind,0.2
+Croatia,2012,Bioenergy,0.09
+Croatia,2012,Coal,2.24
+Croatia,2012,Gas,2.51
+Croatia,2012,Hydro,4.84
+Croatia,2012,Nuclear,0.0
+Croatia,2012,Other Fossil,0.56
+Croatia,2012,Other Renewables,0.0
+Croatia,2012,Solar,0.0
+Croatia,2012,Wind,0.33
+Croatia,2013,Bioenergy,0.13
+Croatia,2013,Coal,2.42
+Croatia,2013,Gas,2.02
+Croatia,2013,Hydro,8.62
+Croatia,2013,Nuclear,0.0
+Croatia,2013,Other Fossil,0.22
+Croatia,2013,Other Renewables,0.0
+Croatia,2013,Solar,0.01
+Croatia,2013,Wind,0.52
+Croatia,2014,Bioenergy,0.16
+Croatia,2014,Coal,2.37
+Croatia,2014,Gas,1.0
+Croatia,2014,Hydro,9.01
+Croatia,2014,Nuclear,0.0
+Croatia,2014,Other Fossil,0.12
+Croatia,2014,Other Renewables,0.0
+Croatia,2014,Solar,0.04
+Croatia,2014,Wind,0.73
+Croatia,2015,Bioenergy,0.27
+Croatia,2015,Coal,2.31
+Croatia,2015,Gas,1.2
+Croatia,2015,Hydro,6.39
+Croatia,2015,Nuclear,0.0
+Croatia,2015,Other Fossil,0.21
+Croatia,2015,Other Renewables,0.0
+Croatia,2015,Solar,0.06
+Croatia,2015,Wind,0.8
+Croatia,2016,Bioenergy,0.43
+Croatia,2016,Coal,2.6
+Croatia,2016,Gas,1.59
+Croatia,2016,Hydro,6.85
+Croatia,2016,Nuclear,0.0
+Croatia,2016,Other Fossil,0.05
+Croatia,2016,Other Renewables,0.0
+Croatia,2016,Solar,0.07
+Croatia,2016,Wind,1.01
+Croatia,2017,Bioenergy,0.53
+Croatia,2017,Coal,1.37
+Croatia,2017,Gas,3.09
+Croatia,2017,Hydro,5.31
+Croatia,2017,Nuclear,0.0
+Croatia,2017,Other Fossil,0.19
+Croatia,2017,Other Renewables,0.0
+Croatia,2017,Solar,0.08
+Croatia,2017,Wind,1.2
+Croatia,2018,Bioenergy,0.67
+Croatia,2018,Coal,1.45
+Croatia,2018,Gas,2.25
+Croatia,2018,Hydro,7.7
+Croatia,2018,Nuclear,0.0
+Croatia,2018,Other Fossil,0.04
+Croatia,2018,Other Renewables,0.0
+Croatia,2018,Solar,0.07
+Croatia,2018,Wind,1.34
+Croatia,2019,Bioenergy,0.88
+Croatia,2019,Coal,1.64
+Croatia,2019,Gas,2.63
+Croatia,2019,Hydro,5.83
+Croatia,2019,Nuclear,0.0
+Croatia,2019,Other Fossil,0.03
+Croatia,2019,Other Renewables,0.09
+Croatia,2019,Solar,0.08
+Croatia,2019,Wind,1.47
+Croatia,2020,Bioenergy,0.98
+Croatia,2020,Coal,1.22
+Croatia,2020,Gas,3.44
+Croatia,2020,Hydro,5.66
+Croatia,2020,Nuclear,0.0
+Croatia,2020,Other Fossil,0.02
+Croatia,2020,Other Renewables,0.09
+Croatia,2020,Solar,0.1
+Croatia,2020,Wind,1.72
+Croatia,2021,Bioenergy,1.1
+Croatia,2021,Coal,1.46
+Croatia,2021,Gas,3.1
+Croatia,2021,Hydro,7.13
+Croatia,2021,Nuclear,0.0
+Croatia,2021,Other Fossil,0.02
+Croatia,2021,Other Renewables,0.09
+Croatia,2021,Solar,0.15
+Croatia,2021,Wind,2.06
+Croatia,2022,Bioenergy,1.13
+Croatia,2022,Coal,1.56
+Croatia,2022,Gas,3.51
+Croatia,2022,Hydro,5.46
+Croatia,2022,Nuclear,0.0
+Croatia,2022,Other Fossil,0.08
+Croatia,2022,Other Renewables,0.07
+Croatia,2022,Solar,0.15
+Croatia,2022,Wind,2.14
+Croatia,2023,Bioenergy,1.05
+Croatia,2023,Coal,1.33
+Croatia,2023,Gas,3.86
+Croatia,2023,Hydro,8.16
+Croatia,2023,Nuclear,0.0
+Croatia,2023,Other Fossil,0.02
+Croatia,2023,Other Renewables,0.02
+Croatia,2023,Solar,0.41
+Croatia,2023,Wind,2.38
+Croatia,2024,Bioenergy,1.04
+Croatia,2024,Coal,0.85
+Croatia,2024,Gas,3.32
+Croatia,2024,Hydro,6.79
+Croatia,2024,Nuclear,0.0
+Croatia,2024,Other Fossil,0.0
+Croatia,2024,Other Renewables,0.03
+Croatia,2024,Solar,0.86
+Croatia,2024,Wind,2.47
+Cyprus,2000,Bioenergy,0.0
+Cyprus,2000,Coal,0.0
+Cyprus,2000,Gas,0.0
+Cyprus,2000,Hydro,0.0
+Cyprus,2000,Nuclear,0.0
+Cyprus,2000,Other Fossil,3.37
+Cyprus,2000,Other Renewables,0.0
+Cyprus,2000,Solar,0.0
+Cyprus,2001,Bioenergy,0.0
+Cyprus,2001,Coal,0.0
+Cyprus,2001,Gas,0.0
+Cyprus,2001,Hydro,0.0
+Cyprus,2001,Nuclear,0.0
+Cyprus,2001,Other Fossil,3.55
+Cyprus,2001,Other Renewables,0.0
+Cyprus,2001,Solar,0.0
+Cyprus,2002,Bioenergy,0.0
+Cyprus,2002,Coal,0.0
+Cyprus,2002,Gas,0.0
+Cyprus,2002,Hydro,0.0
+Cyprus,2002,Nuclear,0.0
+Cyprus,2002,Other Fossil,3.79
+Cyprus,2002,Other Renewables,0.0
+Cyprus,2002,Solar,0.0
+Cyprus,2003,Bioenergy,0.0
+Cyprus,2003,Coal,0.0
+Cyprus,2003,Gas,0.0
+Cyprus,2003,Hydro,0.0
+Cyprus,2003,Nuclear,0.0
+Cyprus,2003,Other Fossil,4.05
+Cyprus,2003,Other Renewables,0.0
+Cyprus,2003,Solar,0.0
+Cyprus,2004,Bioenergy,0.0
+Cyprus,2004,Coal,0.0
+Cyprus,2004,Gas,0.0
+Cyprus,2004,Hydro,0.0
+Cyprus,2004,Nuclear,0.0
+Cyprus,2004,Other Fossil,4.2
+Cyprus,2004,Other Renewables,0.0
+Cyprus,2004,Solar,0.0
+Cyprus,2004,Wind,0.0
+Cyprus,2005,Bioenergy,0.0
+Cyprus,2005,Coal,0.0
+Cyprus,2005,Gas,0.0
+Cyprus,2005,Hydro,0.0
+Cyprus,2005,Nuclear,0.0
+Cyprus,2005,Other Fossil,4.38
+Cyprus,2005,Other Renewables,0.0
+Cyprus,2005,Solar,0.0
+Cyprus,2005,Wind,0.0
+Cyprus,2006,Bioenergy,0.0
+Cyprus,2006,Coal,0.0
+Cyprus,2006,Gas,0.0
+Cyprus,2006,Hydro,0.0
+Cyprus,2006,Nuclear,0.0
+Cyprus,2006,Other Fossil,4.65
+Cyprus,2006,Other Renewables,0.0
+Cyprus,2006,Solar,0.0
+Cyprus,2006,Wind,0.0
+Cyprus,2007,Bioenergy,0.0
+Cyprus,2007,Coal,0.0
+Cyprus,2007,Gas,0.0
+Cyprus,2007,Hydro,0.0
+Cyprus,2007,Nuclear,0.0
+Cyprus,2007,Other Fossil,4.87
+Cyprus,2007,Other Renewables,0.0
+Cyprus,2007,Solar,0.0
+Cyprus,2007,Wind,0.0
+Cyprus,2008,Bioenergy,0.01
+Cyprus,2008,Coal,0.0
+Cyprus,2008,Gas,0.0
+Cyprus,2008,Hydro,0.0
+Cyprus,2008,Nuclear,0.0
+Cyprus,2008,Other Fossil,5.06
+Cyprus,2008,Other Renewables,0.0
+Cyprus,2008,Solar,0.0
+Cyprus,2008,Wind,0.0
+Cyprus,2009,Bioenergy,0.03
+Cyprus,2009,Coal,0.0
+Cyprus,2009,Gas,0.0
+Cyprus,2009,Hydro,0.0
+Cyprus,2009,Nuclear,0.0
+Cyprus,2009,Other Fossil,5.18
+Cyprus,2009,Other Renewables,0.0
+Cyprus,2009,Solar,0.0
+Cyprus,2009,Wind,0.0
+Cyprus,2010,Bioenergy,0.04
+Cyprus,2010,Coal,0.0
+Cyprus,2010,Gas,0.0
+Cyprus,2010,Hydro,0.0
+Cyprus,2010,Nuclear,0.0
+Cyprus,2010,Other Fossil,5.25
+Cyprus,2010,Other Renewables,0.0
+Cyprus,2010,Solar,0.01
+Cyprus,2010,Wind,0.03
+Cyprus,2011,Bioenergy,0.05
+Cyprus,2011,Coal,0.0
+Cyprus,2011,Gas,0.0
+Cyprus,2011,Hydro,0.0
+Cyprus,2011,Nuclear,0.0
+Cyprus,2011,Other Fossil,4.75
+Cyprus,2011,Other Renewables,0.0
+Cyprus,2011,Solar,0.01
+Cyprus,2011,Wind,0.11
+Cyprus,2012,Bioenergy,0.05
+Cyprus,2012,Coal,0.0
+Cyprus,2012,Gas,0.0
+Cyprus,2012,Hydro,0.0
+Cyprus,2012,Nuclear,0.0
+Cyprus,2012,Other Fossil,4.46
+Cyprus,2012,Other Renewables,0.0
+Cyprus,2012,Solar,0.02
+Cyprus,2012,Wind,0.19
+Cyprus,2013,Bioenergy,0.05
+Cyprus,2013,Coal,0.0
+Cyprus,2013,Gas,0.0
+Cyprus,2013,Hydro,0.0
+Cyprus,2013,Nuclear,0.0
+Cyprus,2013,Other Fossil,3.96
+Cyprus,2013,Other Renewables,0.0
+Cyprus,2013,Solar,0.05
+Cyprus,2013,Wind,0.23
+Cyprus,2014,Bioenergy,0.05
+Cyprus,2014,Coal,0.0
+Cyprus,2014,Gas,0.0
+Cyprus,2014,Hydro,0.0
+Cyprus,2014,Nuclear,0.0
+Cyprus,2014,Other Fossil,4.03
+Cyprus,2014,Other Renewables,0.0
+Cyprus,2014,Solar,0.08
+Cyprus,2014,Wind,0.18
+Cyprus,2015,Bioenergy,0.05
+Cyprus,2015,Coal,0.0
+Cyprus,2015,Gas,0.0
+Cyprus,2015,Hydro,0.0
+Cyprus,2015,Nuclear,0.0
+Cyprus,2015,Other Fossil,4.14
+Cyprus,2015,Other Renewables,0.0
+Cyprus,2015,Solar,0.13
+Cyprus,2015,Wind,0.22
+Cyprus,2016,Bioenergy,0.05
+Cyprus,2016,Coal,0.0
+Cyprus,2016,Gas,0.0
+Cyprus,2016,Hydro,0.0
+Cyprus,2016,Nuclear,0.0
+Cyprus,2016,Other Fossil,4.46
+Cyprus,2016,Other Renewables,0.0
+Cyprus,2016,Solar,0.15
+Cyprus,2016,Wind,0.23
+Cyprus,2017,Bioenergy,0.05
+Cyprus,2017,Coal,0.0
+Cyprus,2017,Gas,0.0
+Cyprus,2017,Hydro,0.0
+Cyprus,2017,Nuclear,0.0
+Cyprus,2017,Other Fossil,4.57
+Cyprus,2017,Other Renewables,0.0
+Cyprus,2017,Solar,0.17
+Cyprus,2017,Wind,0.21
+Cyprus,2018,Bioenergy,0.06
+Cyprus,2018,Coal,0.0
+Cyprus,2018,Gas,0.0
+Cyprus,2018,Hydro,0.0
+Cyprus,2018,Nuclear,0.0
+Cyprus,2018,Other Fossil,4.58
+Cyprus,2018,Other Renewables,0.0
+Cyprus,2018,Solar,0.2
+Cyprus,2018,Wind,0.22
+Cyprus,2019,Bioenergy,0.06
+Cyprus,2019,Coal,0.0
+Cyprus,2019,Gas,0.0
+Cyprus,2019,Hydro,0.0
+Cyprus,2019,Nuclear,0.0
+Cyprus,2019,Other Fossil,4.63
+Cyprus,2019,Other Renewables,0.0
+Cyprus,2019,Solar,0.22
+Cyprus,2019,Wind,0.24
+Cyprus,2020,Bioenergy,0.06
+Cyprus,2020,Coal,0.0
+Cyprus,2020,Gas,0.0
+Cyprus,2020,Hydro,0.0
+Cyprus,2020,Nuclear,0.0
+Cyprus,2020,Other Fossil,4.25
+Cyprus,2020,Other Renewables,0.0
+Cyprus,2020,Solar,0.3
+Cyprus,2020,Wind,0.24
+Cyprus,2021,Bioenergy,0.06
+Cyprus,2021,Coal,0.0
+Cyprus,2021,Gas,0.0
+Cyprus,2021,Hydro,0.0
+Cyprus,2021,Nuclear,0.0
+Cyprus,2021,Other Fossil,4.34
+Cyprus,2021,Other Renewables,0.0
+Cyprus,2021,Solar,0.47
+Cyprus,2021,Wind,0.25
+Cyprus,2022,Bioenergy,0.06
+Cyprus,2022,Coal,0.0
+Cyprus,2022,Gas,0.0
+Cyprus,2022,Hydro,0.0
+Cyprus,2022,Nuclear,0.0
+Cyprus,2022,Other Fossil,4.38
+Cyprus,2022,Other Renewables,0.0
+Cyprus,2022,Solar,0.6
+Cyprus,2022,Wind,0.22
+Cyprus,2023,Bioenergy,0.05
+Cyprus,2023,Coal,0.0
+Cyprus,2023,Gas,0.0
+Cyprus,2023,Hydro,0.0
+Cyprus,2023,Nuclear,0.0
+Cyprus,2023,Other Fossil,4.24
+Cyprus,2023,Other Renewables,0.0
+Cyprus,2023,Solar,0.83
+Cyprus,2023,Wind,0.19
+Cyprus,2024,Bioenergy,0.05
+Cyprus,2024,Coal,0.0
+Cyprus,2024,Gas,0.0
+Cyprus,2024,Hydro,0.0
+Cyprus,2024,Nuclear,0.0
+Cyprus,2024,Other Fossil,4.36
+Cyprus,2024,Other Renewables,0.0
+Cyprus,2024,Solar,1.11
+Cyprus,2024,Wind,0.2
+Czechia,2000,Bioenergy,0.52
+Czechia,2000,Coal,52.75
+Czechia,2000,Gas,1.69
+Czechia,2000,Hydro,1.76
+Czechia,2000,Nuclear,13.59
+Czechia,2000,Other Fossil,2.59
+Czechia,2000,Other Renewables,0.0
+Czechia,2000,Solar,0.0
+Czechia,2000,Wind,0.0
+Czechia,2001,Bioenergy,0.52
+Czechia,2001,Coal,52.59
+Czechia,2001,Gas,1.58
+Czechia,2001,Hydro,2.05
+Czechia,2001,Nuclear,14.75
+Czechia,2001,Other Fossil,2.73
+Czechia,2001,Other Renewables,0.0
+Czechia,2001,Solar,0.0
+Czechia,2002,Bioenergy,0.5
+Czechia,2002,Coal,49.91
+Czechia,2002,Gas,1.61
+Czechia,2002,Hydro,2.49
+Czechia,2002,Nuclear,18.74
+Czechia,2002,Other Fossil,2.75
+Czechia,2002,Other Renewables,0.0
+Czechia,2002,Solar,0.0
+Czechia,2002,Wind,0.0
+Czechia,2003,Bioenergy,0.49
+Czechia,2003,Coal,50.77
+Czechia,2003,Gas,1.58
+Czechia,2003,Hydro,1.38
+Czechia,2003,Nuclear,25.87
+Czechia,2003,Other Fossil,2.7
+Czechia,2003,Other Renewables,0.0
+Czechia,2003,Solar,0.0
+Czechia,2003,Wind,0.0
+Czechia,2004,Bioenergy,0.71
+Czechia,2004,Coal,50.31
+Czechia,2004,Gas,1.54
+Czechia,2004,Hydro,2.02
+Czechia,2004,Nuclear,26.33
+Czechia,2004,Other Fossil,2.87
+Czechia,2004,Other Renewables,0.0
+Czechia,2004,Solar,0.0
+Czechia,2004,Wind,0.01
+Czechia,2005,Bioenergy,0.73
+Czechia,2005,Coal,49.52
+Czechia,2005,Gas,1.47
+Czechia,2005,Hydro,2.38
+Czechia,2005,Nuclear,24.73
+Czechia,2005,Other Fossil,3.08
+Czechia,2005,Other Renewables,0.0
+Czechia,2005,Solar,0.0
+Czechia,2005,Wind,0.02
+Czechia,2006,Bioenergy,0.92
+Czechia,2006,Coal,49.65
+Czechia,2006,Gas,1.57
+Czechia,2006,Hydro,2.55
+Czechia,2006,Nuclear,26.05
+Czechia,2006,Other Fossil,2.87
+Czechia,2006,Other Renewables,0.0
+Czechia,2006,Solar,0.0
+Czechia,2006,Wind,0.05
+Czechia,2007,Bioenergy,1.2
+Czechia,2007,Coal,53.79
+Czechia,2007,Gas,1.37
+Czechia,2007,Hydro,2.09
+Czechia,2007,Nuclear,26.17
+Czechia,2007,Other Fossil,3.02
+Czechia,2007,Other Renewables,0.0
+Czechia,2007,Solar,0.0
+Czechia,2007,Wind,0.13
+Czechia,2008,Bioenergy,1.45
+Czechia,2008,Coal,48.77
+Czechia,2008,Gas,1.02
+Czechia,2008,Hydro,2.02
+Czechia,2008,Nuclear,26.55
+Czechia,2008,Other Fossil,3.22
+Czechia,2008,Other Renewables,0.0
+Czechia,2008,Solar,0.01
+Czechia,2008,Wind,0.24
+Czechia,2009,Bioenergy,1.85
+Czechia,2009,Coal,45.94
+Czechia,2009,Gas,0.98
+Czechia,2009,Hydro,2.43
+Czechia,2009,Nuclear,27.21
+Czechia,2009,Other Fossil,2.85
+Czechia,2009,Other Renewables,0.0
+Czechia,2009,Solar,0.09
+Czechia,2009,Wind,0.29
+Czechia,2010,Bioenergy,2.16
+Czechia,2010,Coal,46.9
+Czechia,2010,Gas,1.38
+Czechia,2010,Hydro,2.79
+Czechia,2010,Nuclear,28.0
+Czechia,2010,Other Fossil,3.03
+Czechia,2010,Other Renewables,0.0
+Czechia,2010,Solar,0.62
+Czechia,2010,Wind,0.34
+Czechia,2011,Bioenergy,2.7
+Czechia,2011,Coal,46.68
+Czechia,2011,Gas,1.41
+Czechia,2011,Hydro,1.96
+Czechia,2011,Nuclear,28.28
+Czechia,2011,Other Fossil,3.03
+Czechia,2011,Other Renewables,0.0
+Czechia,2011,Solar,2.18
+Czechia,2011,Wind,0.4
+Czechia,2012,Bioenergy,3.37
+Czechia,2012,Coal,43.98
+Czechia,2012,Gas,1.49
+Czechia,2012,Hydro,2.13
+Czechia,2012,Nuclear,30.32
+Czechia,2012,Other Fossil,2.72
+Czechia,2012,Other Renewables,0.0
+Czechia,2012,Solar,2.15
+Czechia,2012,Wind,0.42
+Czechia,2013,Bioenergy,4.06
+Czechia,2013,Coal,41.12
+Czechia,2013,Gas,2.04
+Czechia,2013,Hydro,2.73
+Czechia,2013,Nuclear,30.75
+Czechia,2013,Other Fossil,2.7
+Czechia,2013,Other Renewables,0.0
+Czechia,2013,Solar,2.03
+Czechia,2013,Wind,0.48
+Czechia,2014,Bioenergy,4.66
+Czechia,2014,Coal,40.73
+Czechia,2014,Gas,1.82
+Czechia,2014,Hydro,1.91
+Czechia,2014,Nuclear,30.33
+Czechia,2014,Other Fossil,2.93
+Czechia,2014,Other Renewables,0.0
+Czechia,2014,Solar,2.12
+Czechia,2014,Wind,0.48
+Czechia,2015,Bioenergy,4.79
+Czechia,2015,Coal,41.14
+Czechia,2015,Gas,2.28
+Czechia,2015,Hydro,1.79
+Czechia,2015,Nuclear,26.84
+Czechia,2015,Other Fossil,2.82
+Czechia,2015,Other Renewables,0.0
+Czechia,2015,Solar,2.26
+Czechia,2015,Wind,0.57
+Czechia,2016,Bioenergy,4.76
+Czechia,2016,Coal,41.97
+Czechia,2016,Gas,3.73
+Czechia,2016,Hydro,2.0
+Czechia,2016,Nuclear,24.1
+Czechia,2016,Other Fossil,2.81
+Czechia,2016,Other Renewables,0.0
+Czechia,2016,Solar,2.13
+Czechia,2016,Wind,0.5
+Czechia,2017,Bioenergy,4.97
+Czechia,2017,Coal,41.44
+Czechia,2017,Gas,3.7
+Czechia,2017,Hydro,1.87
+Czechia,2017,Nuclear,28.34
+Czechia,2017,Other Fossil,2.65
+Czechia,2017,Other Renewables,0.0
+Czechia,2017,Solar,2.2
+Czechia,2017,Wind,0.59
+Czechia,2018,Bioenergy,4.83
+Czechia,2018,Coal,41.2
+Czechia,2018,Gas,3.77
+Czechia,2018,Hydro,1.63
+Czechia,2018,Nuclear,29.92
+Czechia,2018,Other Fossil,2.52
+Czechia,2018,Other Renewables,0.0
+Czechia,2018,Solar,2.36
+Czechia,2018,Wind,0.61
+Czechia,2019,Bioenergy,5.03
+Czechia,2019,Coal,37.33
+Czechia,2019,Gas,5.81
+Czechia,2019,Hydro,2.01
+Czechia,2019,Nuclear,30.25
+Czechia,2019,Other Fossil,2.27
+Czechia,2019,Other Renewables,0.0
+Czechia,2019,Solar,2.32
+Czechia,2019,Wind,0.7
+Czechia,2020,Bioenergy,5.21
+Czechia,2020,Coal,31.0
+Czechia,2020,Gas,6.87
+Czechia,2020,Hydro,2.14
+Czechia,2020,Nuclear,30.04
+Czechia,2020,Other Fossil,1.85
+Czechia,2020,Other Renewables,0.0
+Czechia,2020,Solar,2.29
+Czechia,2020,Wind,0.7
+Czechia,2021,Bioenergy,5.38
+Czechia,2021,Coal,34.18
+Czechia,2021,Gas,7.31
+Czechia,2021,Hydro,2.41
+Czechia,2021,Nuclear,30.73
+Czechia,2021,Other Fossil,0.8
+Czechia,2021,Other Renewables,0.0
+Czechia,2021,Solar,2.25
+Czechia,2021,Wind,0.6
+Czechia,2022,Bioenergy,5.41
+Czechia,2022,Coal,36.88
+Czechia,2022,Gas,4.33
+Czechia,2022,Hydro,2.09
+Czechia,2022,Nuclear,31.02
+Czechia,2022,Other Fossil,0.73
+Czechia,2022,Other Renewables,0.0
+Czechia,2022,Solar,2.63
+Czechia,2022,Wind,0.64
+Czechia,2023,Bioenergy,5.19
+Czechia,2023,Coal,29.94
+Czechia,2023,Gas,3.68
+Czechia,2023,Hydro,2.36
+Czechia,2023,Nuclear,30.41
+Czechia,2023,Other Fossil,0.63
+Czechia,2023,Other Renewables,0.0
+Czechia,2023,Solar,2.89
+Czechia,2023,Wind,0.71
+Czechia,2024,Bioenergy,5.18
+Czechia,2024,Coal,26.67
+Czechia,2024,Gas,3.73
+Czechia,2024,Hydro,2.61
+Czechia,2024,Nuclear,29.75
+Czechia,2024,Other Fossil,0.38
+Czechia,2024,Other Renewables,0.02
+Czechia,2024,Solar,4.0
+Czechia,2024,Wind,0.68
+Denmark,2000,Bioenergy,1.3
+Denmark,2000,Coal,16.67
+Denmark,2000,Gas,8.77
+Denmark,2000,Hydro,0.03
+Denmark,2000,Nuclear,0.0
+Denmark,2000,Other Fossil,4.84
+Denmark,2000,Other Renewables,0.0
+Denmark,2000,Solar,0.0
+Denmark,2000,Wind,4.24
+Denmark,2001,Bioenergy,1.51
+Denmark,2001,Coal,17.82
+Denmark,2001,Gas,9.27
+Denmark,2001,Hydro,0.03
+Denmark,2001,Nuclear,0.0
+Denmark,2001,Other Fossil,4.6
+Denmark,2001,Other Renewables,0.0
+Denmark,2001,Solar,0.0
+Denmark,2001,Wind,4.31
+Denmark,2002,Bioenergy,1.88
+Denmark,2002,Coal,18.26
+Denmark,2002,Gas,9.59
+Denmark,2002,Hydro,0.03
+Denmark,2002,Nuclear,0.0
+Denmark,2002,Other Fossil,4.46
+Denmark,2002,Other Renewables,0.0
+Denmark,2002,Solar,0.0
+Denmark,2002,Wind,4.88
+Denmark,2003,Bioenergy,2.49
+Denmark,2003,Coal,25.31
+Denmark,2003,Gas,9.76
+Denmark,2003,Hydro,0.02
+Denmark,2003,Nuclear,0.0
+Denmark,2003,Other Fossil,2.83
+Denmark,2003,Other Renewables,0.0
+Denmark,2003,Solar,0.0
+Denmark,2003,Wind,5.56
+Denmark,2004,Bioenergy,2.91
+Denmark,2004,Coal,18.67
+Denmark,2004,Gas,9.94
+Denmark,2004,Hydro,0.03
+Denmark,2004,Nuclear,0.0
+Denmark,2004,Other Fossil,2.1
+Denmark,2004,Other Renewables,0.0
+Denmark,2004,Solar,0.0
+Denmark,2004,Wind,6.59
+Denmark,2005,Bioenergy,3.17
+Denmark,2005,Coal,15.46
+Denmark,2005,Gas,8.78
+Denmark,2005,Hydro,0.02
+Denmark,2005,Nuclear,0.0
+Denmark,2005,Other Fossil,2.04
+Denmark,2005,Other Renewables,0.0
+Denmark,2005,Solar,0.0
+Denmark,2005,Wind,6.61
+Denmark,2006,Bioenergy,3.07
+Denmark,2006,Coal,24.57
+Denmark,2006,Gas,9.4
+Denmark,2006,Hydro,0.02
+Denmark,2006,Nuclear,0.0
+Denmark,2006,Other Fossil,2.28
+Denmark,2006,Other Renewables,0.0
+Denmark,2006,Solar,0.0
+Denmark,2006,Wind,6.1
+Denmark,2007,Bioenergy,3.1
+Denmark,2007,Coal,19.89
+Denmark,2007,Gas,7.04
+Denmark,2007,Hydro,0.03
+Denmark,2007,Nuclear,0.0
+Denmark,2007,Other Fossil,1.91
+Denmark,2007,Other Renewables,0.0
+Denmark,2007,Solar,0.0
+Denmark,2007,Wind,7.17
+Denmark,2008,Bioenergy,3.14
+Denmark,2008,Coal,17.46
+Denmark,2008,Gas,7.08
+Denmark,2008,Hydro,0.03
+Denmark,2008,Nuclear,0.0
+Denmark,2008,Other Fossil,1.84
+Denmark,2008,Other Renewables,0.0
+Denmark,2008,Solar,0.0
+Denmark,2008,Wind,6.93
+Denmark,2009,Bioenergy,3.32
+Denmark,2009,Coal,17.69
+Denmark,2009,Gas,6.67
+Denmark,2009,Hydro,0.02
+Denmark,2009,Nuclear,0.0
+Denmark,2009,Other Fossil,1.82
+Denmark,2009,Other Renewables,0.0
+Denmark,2009,Solar,0.0
+Denmark,2009,Wind,6.73
+Denmark,2010,Bioenergy,4.59
+Denmark,2010,Coal,17.01
+Denmark,2010,Gas,7.91
+Denmark,2010,Hydro,0.02
+Denmark,2010,Nuclear,0.0
+Denmark,2010,Other Fossil,1.4
+Denmark,2010,Other Renewables,0.0
+Denmark,2010,Solar,0.01
+Denmark,2010,Wind,7.81
+Denmark,2011,Bioenergy,4.37
+Denmark,2011,Coal,13.98
+Denmark,2011,Gas,5.84
+Denmark,2011,Hydro,0.02
+Denmark,2011,Nuclear,0.0
+Denmark,2011,Other Fossil,1.12
+Denmark,2011,Other Renewables,0.0
+Denmark,2011,Solar,0.01
+Denmark,2011,Wind,9.77
+Denmark,2012,Bioenergy,4.45
+Denmark,2012,Coal,10.54
+Denmark,2012,Gas,4.19
+Denmark,2012,Hydro,0.02
+Denmark,2012,Nuclear,0.0
+Denmark,2012,Other Fossil,1.0
+Denmark,2012,Other Renewables,0.0
+Denmark,2012,Solar,0.1
+Denmark,2012,Wind,10.27
+Denmark,2013,Bioenergy,4.31
+Denmark,2013,Coal,14.29
+Denmark,2013,Gas,3.42
+Denmark,2013,Hydro,0.01
+Denmark,2013,Nuclear,0.0
+Denmark,2013,Other Fossil,0.94
+Denmark,2013,Other Renewables,0.0
+Denmark,2013,Solar,0.52
+Denmark,2013,Wind,11.12
+Denmark,2014,Bioenergy,4.29
+Denmark,2014,Coal,11.06
+Denmark,2014,Gas,2.1
+Denmark,2014,Hydro,0.02
+Denmark,2014,Nuclear,0.0
+Denmark,2014,Other Fossil,0.89
+Denmark,2014,Other Renewables,0.0
+Denmark,2014,Solar,0.6
+Denmark,2014,Wind,13.08
+Denmark,2015,Bioenergy,4.18
+Denmark,2015,Coal,7.11
+Denmark,2015,Gas,1.82
+Denmark,2015,Hydro,0.02
+Denmark,2015,Nuclear,0.0
+Denmark,2015,Other Fossil,0.92
+Denmark,2015,Other Renewables,0.0
+Denmark,2015,Solar,0.6
+Denmark,2015,Wind,14.13
+Denmark,2016,Bioenergy,4.85
+Denmark,2016,Coal,8.87
+Denmark,2016,Gas,2.26
+Denmark,2016,Hydro,0.02
+Denmark,2016,Nuclear,0.0
+Denmark,2016,Other Fossil,0.88
+Denmark,2016,Other Renewables,0.0
+Denmark,2016,Solar,0.74
+Denmark,2016,Wind,12.78
+Denmark,2017,Bioenergy,6.25
+Denmark,2017,Coal,6.21
+Denmark,2017,Gas,2.02
+Denmark,2017,Hydro,0.02
+Denmark,2017,Nuclear,0.0
+Denmark,2017,Other Fossil,0.87
+Denmark,2017,Other Renewables,0.0
+Denmark,2017,Solar,0.75
+Denmark,2017,Wind,14.78
+Denmark,2018,Bioenergy,5.89
+Denmark,2018,Coal,6.57
+Denmark,2018,Gas,2.07
+Denmark,2018,Hydro,0.01
+Denmark,2018,Nuclear,0.0
+Denmark,2018,Other Fossil,0.82
+Denmark,2018,Other Renewables,0.0
+Denmark,2018,Solar,0.95
+Denmark,2018,Wind,13.9
+Denmark,2019,Bioenergy,5.94
+Denmark,2019,Coal,3.31
+Denmark,2019,Gas,2.1
+Denmark,2019,Hydro,0.02
+Denmark,2019,Nuclear,0.0
+Denmark,2019,Other Fossil,0.89
+Denmark,2019,Other Renewables,0.0
+Denmark,2019,Solar,0.96
+Denmark,2019,Wind,16.15
+Denmark,2020,Bioenergy,5.92
+Denmark,2020,Coal,3.06
+Denmark,2020,Gas,1.18
+Denmark,2020,Hydro,0.02
+Denmark,2020,Nuclear,0.0
+Denmark,2020,Other Fossil,0.89
+Denmark,2020,Other Renewables,0.0
+Denmark,2020,Solar,1.18
+Denmark,2020,Wind,16.33
+Denmark,2021,Bioenergy,8.72
+Denmark,2021,Coal,4.37
+Denmark,2021,Gas,1.54
+Denmark,2021,Hydro,0.02
+Denmark,2021,Nuclear,0.0
+Denmark,2021,Other Fossil,0.91
+Denmark,2021,Other Renewables,0.0
+Denmark,2021,Solar,1.31
+Denmark,2021,Wind,16.05
+Denmark,2022,Bioenergy,7.27
+Denmark,2022,Coal,4.43
+Denmark,2022,Gas,1.02
+Denmark,2022,Hydro,0.01
+Denmark,2022,Nuclear,0.0
+Denmark,2022,Other Fossil,1.03
+Denmark,2022,Other Renewables,0.0
+Denmark,2022,Solar,2.2
+Denmark,2022,Wind,19.03
+Denmark,2023,Bioenergy,6.44
+Denmark,2023,Coal,2.53
+Denmark,2023,Gas,1.0
+Denmark,2023,Hydro,0.02
+Denmark,2023,Nuclear,0.0
+Denmark,2023,Other Fossil,0.85
+Denmark,2023,Other Renewables,0.0
+Denmark,2023,Solar,3.36
+Denmark,2023,Wind,19.51
+Denmark,2024,Bioenergy,6.68
+Denmark,2024,Coal,2.5
+Denmark,2024,Gas,0.9
+Denmark,2024,Hydro,0.02
+Denmark,2024,Nuclear,0.0
+Denmark,2024,Other Fossil,0.86
+Denmark,2024,Other Renewables,0.0
+Denmark,2024,Solar,3.99
+Denmark,2024,Wind,20.53
+Estonia,2000,Bioenergy,0.01
+Estonia,2000,Coal,0.0
+Estonia,2000,Gas,0.6
+Estonia,2000,Hydro,0.0
+Estonia,2000,Nuclear,0.0
+Estonia,2000,Other Fossil,7.9
+Estonia,2000,Other Renewables,0.0
+Estonia,2000,Solar,0.0
+Estonia,2001,Bioenergy,0.01
+Estonia,2001,Coal,0.0
+Estonia,2001,Gas,0.6
+Estonia,2001,Hydro,0.01
+Estonia,2001,Nuclear,0.0
+Estonia,2001,Other Fossil,7.87
+Estonia,2001,Other Renewables,0.0
+Estonia,2001,Solar,0.0
+Estonia,2002,Bioenergy,0.02
+Estonia,2002,Coal,0.0
+Estonia,2002,Gas,0.53
+Estonia,2002,Hydro,0.01
+Estonia,2002,Nuclear,0.0
+Estonia,2002,Other Fossil,7.97
+Estonia,2002,Other Renewables,0.0
+Estonia,2002,Solar,0.0
+Estonia,2002,Wind,0.0
+Estonia,2003,Bioenergy,0.03
+Estonia,2003,Coal,0.0
+Estonia,2003,Gas,0.5
+Estonia,2003,Hydro,0.01
+Estonia,2003,Nuclear,0.0
+Estonia,2003,Other Fossil,9.61
+Estonia,2003,Other Renewables,0.0
+Estonia,2003,Solar,0.0
+Estonia,2003,Wind,0.01
+Estonia,2004,Bioenergy,0.03
+Estonia,2004,Coal,0.0
+Estonia,2004,Gas,0.49
+Estonia,2004,Hydro,0.02
+Estonia,2004,Nuclear,0.0
+Estonia,2004,Other Fossil,9.76
+Estonia,2004,Other Renewables,0.0
+Estonia,2004,Solar,0.0
+Estonia,2004,Wind,0.01
+Estonia,2005,Bioenergy,0.04
+Estonia,2005,Coal,0.0
+Estonia,2005,Gas,0.54
+Estonia,2005,Hydro,0.02
+Estonia,2005,Nuclear,0.0
+Estonia,2005,Other Fossil,9.55
+Estonia,2005,Other Renewables,0.0
+Estonia,2005,Solar,0.0
+Estonia,2005,Wind,0.05
+Estonia,2006,Bioenergy,0.04
+Estonia,2006,Coal,0.0
+Estonia,2006,Gas,0.54
+Estonia,2006,Hydro,0.01
+Estonia,2006,Nuclear,0.0
+Estonia,2006,Other Fossil,9.06
+Estonia,2006,Other Renewables,0.0
+Estonia,2006,Solar,0.0
+Estonia,2006,Wind,0.08
+Estonia,2007,Bioenergy,0.03
+Estonia,2007,Coal,0.0
+Estonia,2007,Gas,0.34
+Estonia,2007,Hydro,0.02
+Estonia,2007,Nuclear,0.0
+Estonia,2007,Other Fossil,11.7
+Estonia,2007,Other Renewables,0.0
+Estonia,2007,Solar,0.0
+Estonia,2007,Wind,0.09
+Estonia,2008,Bioenergy,0.04
+Estonia,2008,Coal,0.0
+Estonia,2008,Gas,0.42
+Estonia,2008,Hydro,0.03
+Estonia,2008,Nuclear,0.0
+Estonia,2008,Other Fossil,9.96
+Estonia,2008,Other Renewables,0.0
+Estonia,2008,Solar,0.0
+Estonia,2008,Wind,0.13
+Estonia,2009,Bioenergy,0.31
+Estonia,2009,Coal,0.0
+Estonia,2009,Gas,0.11
+Estonia,2009,Hydro,0.03
+Estonia,2009,Nuclear,0.0
+Estonia,2009,Other Fossil,8.13
+Estonia,2009,Other Renewables,0.0
+Estonia,2009,Solar,0.0
+Estonia,2009,Wind,0.2
+Estonia,2010,Bioenergy,0.74
+Estonia,2010,Coal,0.0
+Estonia,2010,Gas,0.3
+Estonia,2010,Hydro,0.03
+Estonia,2010,Nuclear,0.0
+Estonia,2010,Other Fossil,11.62
+Estonia,2010,Other Renewables,0.0
+Estonia,2010,Solar,0.0
+Estonia,2010,Wind,0.28
+Estonia,2011,Bioenergy,0.78
+Estonia,2011,Coal,0.0
+Estonia,2011,Gas,0.25
+Estonia,2011,Hydro,0.03
+Estonia,2011,Nuclear,0.0
+Estonia,2011,Other Fossil,11.46
+Estonia,2011,Other Renewables,0.0
+Estonia,2011,Solar,0.0
+Estonia,2011,Wind,0.37
+Estonia,2012,Bioenergy,1.0
+Estonia,2012,Coal,0.0
+Estonia,2012,Gas,0.13
+Estonia,2012,Hydro,0.04
+Estonia,2012,Nuclear,0.0
+Estonia,2012,Other Fossil,10.36
+Estonia,2012,Other Renewables,0.0
+Estonia,2012,Solar,0.0
+Estonia,2012,Wind,0.43
+Estonia,2013,Bioenergy,0.67
+Estonia,2013,Coal,0.01
+Estonia,2013,Gas,0.09
+Estonia,2013,Hydro,0.03
+Estonia,2013,Nuclear,0.0
+Estonia,2013,Other Fossil,11.95
+Estonia,2013,Other Renewables,0.0
+Estonia,2013,Solar,0.0
+Estonia,2013,Wind,0.53
+Estonia,2014,Bioenergy,0.76
+Estonia,2014,Coal,0.01
+Estonia,2014,Gas,0.07
+Estonia,2014,Hydro,0.03
+Estonia,2014,Nuclear,0.0
+Estonia,2014,Other Fossil,10.98
+Estonia,2014,Other Renewables,0.0
+Estonia,2014,Solar,0.0
+Estonia,2014,Wind,0.6
+Estonia,2015,Bioenergy,0.82
+Estonia,2015,Coal,0.0
+Estonia,2015,Gas,0.06
+Estonia,2015,Hydro,0.03
+Estonia,2015,Nuclear,0.0
+Estonia,2015,Other Fossil,8.53
+Estonia,2015,Other Renewables,0.0
+Estonia,2015,Solar,0.0
+Estonia,2015,Wind,0.71
+Estonia,2016,Bioenergy,0.95
+Estonia,2016,Coal,0.0
+Estonia,2016,Gas,0.07
+Estonia,2016,Hydro,0.04
+Estonia,2016,Nuclear,0.0
+Estonia,2016,Other Fossil,10.51
+Estonia,2016,Other Renewables,0.0
+Estonia,2016,Solar,0.01
+Estonia,2016,Wind,0.59
+Estonia,2017,Bioenergy,1.1
+Estonia,2017,Coal,0.02
+Estonia,2017,Gas,0.06
+Estonia,2017,Hydro,0.03
+Estonia,2017,Nuclear,0.0
+Estonia,2017,Other Fossil,11.22
+Estonia,2017,Other Renewables,0.0
+Estonia,2017,Solar,0.01
+Estonia,2017,Wind,0.72
+Estonia,2018,Bioenergy,1.31
+Estonia,2018,Coal,0.0
+Estonia,2018,Gas,0.06
+Estonia,2018,Hydro,0.01
+Estonia,2018,Nuclear,0.0
+Estonia,2018,Other Fossil,10.32
+Estonia,2018,Other Renewables,0.0
+Estonia,2018,Solar,0.03
+Estonia,2018,Wind,0.64
+Estonia,2019,Bioenergy,1.36
+Estonia,2019,Coal,0.0
+Estonia,2019,Gas,0.04
+Estonia,2019,Hydro,0.02
+Estonia,2019,Nuclear,0.0
+Estonia,2019,Other Fossil,5.43
+Estonia,2019,Other Renewables,0.0
+Estonia,2019,Solar,0.07
+Estonia,2019,Wind,0.69
+Estonia,2020,Bioenergy,1.85
+Estonia,2020,Coal,0.0
+Estonia,2020,Gas,0.03
+Estonia,2020,Hydro,0.03
+Estonia,2020,Nuclear,0.0
+Estonia,2020,Other Fossil,3.08
+Estonia,2020,Other Renewables,0.0
+Estonia,2020,Solar,0.25
+Estonia,2020,Wind,0.84
+Estonia,2021,Bioenergy,1.77
+Estonia,2021,Coal,0.0
+Estonia,2021,Gas,0.04
+Estonia,2021,Hydro,0.02
+Estonia,2021,Nuclear,0.0
+Estonia,2021,Other Fossil,4.28
+Estonia,2021,Other Renewables,0.0
+Estonia,2021,Solar,0.35
+Estonia,2021,Wind,0.73
+Estonia,2022,Bioenergy,1.57
+Estonia,2022,Coal,0.0
+Estonia,2022,Gas,0.06
+Estonia,2022,Hydro,0.02
+Estonia,2022,Nuclear,0.0
+Estonia,2022,Other Fossil,6.02
+Estonia,2022,Other Renewables,0.0
+Estonia,2022,Solar,0.6
+Estonia,2022,Wind,0.67
+Estonia,2023,Bioenergy,1.38
+Estonia,2023,Coal,0.0
+Estonia,2023,Gas,0.02
+Estonia,2023,Hydro,0.02
+Estonia,2023,Nuclear,0.0
+Estonia,2023,Other Fossil,2.92
+Estonia,2023,Other Renewables,0.0
+Estonia,2023,Solar,0.72
+Estonia,2023,Wind,0.79
+Estonia,2024,Bioenergy,1.32
+Estonia,2024,Coal,0.0
+Estonia,2024,Gas,0.02
+Estonia,2024,Hydro,0.02
+Estonia,2024,Nuclear,0.0
+Estonia,2024,Other Fossil,2.61
+Estonia,2024,Other Renewables,0.0
+Estonia,2024,Solar,0.92
+Estonia,2024,Wind,1.16
+Finland,2000,Bioenergy,8.64
+Finland,2000,Coal,8.49
+Finland,2000,Gas,10.13
+Finland,2000,Hydro,14.66
+Finland,2000,Nuclear,22.48
+Finland,2000,Other Fossil,5.49
+Finland,2000,Other Renewables,0.0
+Finland,2000,Solar,0.0
+Finland,2000,Wind,0.08
+Finland,2001,Bioenergy,8.27
+Finland,2001,Coal,10.61
+Finland,2001,Gas,11.69
+Finland,2001,Hydro,13.2
+Finland,2001,Nuclear,22.77
+Finland,2001,Other Fossil,7.84
+Finland,2001,Other Renewables,0.0
+Finland,2001,Solar,0.0
+Finland,2001,Wind,0.07
+Finland,2002,Bioenergy,8.99
+Finland,2002,Coal,12.71
+Finland,2002,Gas,11.63
+Finland,2002,Hydro,10.78
+Finland,2002,Nuclear,22.3
+Finland,2002,Other Fossil,8.45
+Finland,2002,Other Renewables,0.0
+Finland,2002,Solar,0.0
+Finland,2002,Wind,0.06
+Finland,2003,Bioenergy,9.38
+Finland,2003,Coal,19.25
+Finland,2003,Gas,13.85
+Finland,2003,Hydro,9.59
+Finland,2003,Nuclear,22.73
+Finland,2003,Other Fossil,9.39
+Finland,2003,Other Renewables,0.0
+Finland,2003,Solar,0.0
+Finland,2003,Wind,0.09
+Finland,2004,Bioenergy,10.44
+Finland,2004,Coal,16.5
+Finland,2004,Gas,12.75
+Finland,2004,Hydro,15.07
+Finland,2004,Nuclear,22.72
+Finland,2004,Other Fossil,8.24
+Finland,2004,Other Renewables,0.0
+Finland,2004,Solar,0.0
+Finland,2004,Wind,0.12
+Finland,2005,Bioenergy,9.51
+Finland,2005,Coal,6.5
+Finland,2005,Gas,11.23
+Finland,2005,Hydro,13.78
+Finland,2005,Nuclear,23.27
+Finland,2005,Other Fossil,6.1
+Finland,2005,Other Renewables,0.0
+Finland,2005,Solar,0.0
+Finland,2005,Wind,0.17
+Finland,2006,Bioenergy,10.81
+Finland,2006,Coal,16.33
+Finland,2006,Gas,12.32
+Finland,2006,Hydro,11.49
+Finland,2006,Nuclear,22.91
+Finland,2006,Other Fossil,8.27
+Finland,2006,Other Renewables,0.0
+Finland,2006,Solar,0.0
+Finland,2006,Wind,0.16
+Finland,2007,Bioenergy,9.95
+Finland,2007,Coal,13.89
+Finland,2007,Gas,10.56
+Finland,2007,Hydro,14.18
+Finland,2007,Nuclear,23.42
+Finland,2007,Other Fossil,8.98
+Finland,2007,Other Renewables,0.0
+Finland,2007,Solar,0.0
+Finland,2007,Wind,0.19
+Finland,2008,Bioenergy,10.4
+Finland,2008,Coal,8.5
+Finland,2008,Gas,11.03
+Finland,2008,Hydro,17.11
+Finland,2008,Nuclear,22.96
+Finland,2008,Other Fossil,7.09
+Finland,2008,Other Renewables,0.0
+Finland,2008,Solar,0.0
+Finland,2008,Wind,0.26
+Finland,2009,Bioenergy,8.73
+Finland,2009,Coal,11.13
+Finland,2009,Gas,9.82
+Finland,2009,Hydro,12.69
+Finland,2009,Nuclear,23.53
+Finland,2009,Other Fossil,5.88
+Finland,2009,Other Renewables,0.0
+Finland,2009,Solar,0.0
+Finland,2009,Wind,0.28
+Finland,2010,Bioenergy,10.97
+Finland,2010,Coal,14.54
+Finland,2010,Gas,11.26
+Finland,2010,Hydro,12.92
+Finland,2010,Nuclear,22.8
+Finland,2010,Other Fossil,7.86
+Finland,2010,Other Renewables,0.0
+Finland,2010,Solar,0.0
+Finland,2010,Wind,0.29
+Finland,2011,Bioenergy,11.24
+Finland,2011,Coal,9.78
+Finland,2011,Gas,9.45
+Finland,2011,Hydro,12.45
+Finland,2011,Nuclear,23.19
+Finland,2011,Other Fossil,6.9
+Finland,2011,Other Renewables,0.0
+Finland,2011,Solar,0.01
+Finland,2011,Wind,0.48
+Finland,2012,Bioenergy,11.2
+Finland,2012,Coal,7.1
+Finland,2012,Gas,6.73
+Finland,2012,Hydro,16.86
+Finland,2012,Nuclear,22.99
+Finland,2012,Other Fossil,5.03
+Finland,2012,Other Renewables,0.0
+Finland,2012,Solar,0.01
+Finland,2012,Wind,0.49
+Finland,2013,Bioenergy,12.01
+Finland,2013,Coal,10.69
+Finland,2013,Gas,6.79
+Finland,2013,Hydro,12.84
+Finland,2013,Nuclear,23.61
+Finland,2013,Other Fossil,4.54
+Finland,2013,Other Renewables,0.0
+Finland,2013,Solar,0.01
+Finland,2013,Wind,0.77
+Finland,2014,Bioenergy,11.76
+Finland,2014,Coal,7.92
+Finland,2014,Gas,5.52
+Finland,2014,Hydro,13.4
+Finland,2014,Nuclear,23.58
+Finland,2014,Other Fossil,4.8
+Finland,2014,Other Renewables,0.0
+Finland,2014,Solar,0.01
+Finland,2014,Wind,1.11
+Finland,2015,Bioenergy,11.42
+Finland,2015,Coal,5.12
+Finland,2015,Gas,5.2
+Finland,2015,Hydro,16.77
+Finland,2015,Nuclear,23.25
+Finland,2015,Other Fossil,4.51
+Finland,2015,Other Renewables,0.0
+Finland,2015,Solar,0.01
+Finland,2015,Wind,2.33
+Finland,2016,Bioenergy,11.52
+Finland,2016,Coal,6.97
+Finland,2016,Gas,3.74
+Finland,2016,Hydro,15.8
+Finland,2016,Nuclear,23.2
+Finland,2016,Other Fossil,4.43
+Finland,2016,Other Renewables,0.0
+Finland,2016,Solar,0.02
+Finland,2016,Wind,3.07
+Finland,2017,Bioenergy,11.86
+Finland,2017,Coal,5.86
+Finland,2017,Gas,3.3
+Finland,2017,Hydro,14.77
+Finland,2017,Nuclear,22.48
+Finland,2017,Other Fossil,4.41
+Finland,2017,Other Renewables,0.0
+Finland,2017,Solar,0.05
+Finland,2017,Wind,4.79
+Finland,2018,Bioenergy,12.91
+Finland,2018,Coal,5.79
+Finland,2018,Gas,4.2
+Finland,2018,Hydro,13.3
+Finland,2018,Nuclear,22.79
+Finland,2018,Other Fossil,5.31
+Finland,2018,Other Renewables,0.0
+Finland,2018,Solar,0.09
+Finland,2018,Wind,5.84
+Finland,2019,Bioenergy,13.29
+Finland,2019,Coal,4.36
+Finland,2019,Gas,3.85
+Finland,2019,Hydro,12.42
+Finland,2019,Nuclear,23.87
+Finland,2019,Other Fossil,4.65
+Finland,2019,Other Renewables,0.0
+Finland,2019,Solar,0.15
+Finland,2019,Wind,6.02
+Finland,2020,Bioenergy,11.57
+Finland,2020,Coal,2.44
+Finland,2020,Gas,3.99
+Finland,2020,Hydro,15.88
+Finland,2020,Nuclear,23.29
+Finland,2020,Other Fossil,3.59
+Finland,2020,Other Renewables,0.0
+Finland,2020,Solar,0.22
+Finland,2020,Wind,8.26
+Finland,2021,Bioenergy,13.58
+Finland,2021,Coal,2.67
+Finland,2021,Gas,3.83
+Finland,2021,Hydro,15.79
+Finland,2021,Nuclear,23.6
+Finland,2021,Other Fossil,3.83
+Finland,2021,Other Renewables,0.0
+Finland,2021,Solar,0.3
+Finland,2021,Wind,8.51
+Finland,2022,Bioenergy,12.76
+Finland,2022,Coal,3.44
+Finland,2022,Gas,0.96
+Finland,2022,Hydro,13.49
+Finland,2022,Nuclear,25.34
+Finland,2022,Other Fossil,3.77
+Finland,2022,Other Renewables,0.0
+Finland,2022,Solar,0.39
+Finland,2022,Wind,12.02
+Finland,2023,Bioenergy,11.34
+Finland,2023,Coal,1.56
+Finland,2023,Gas,0.66
+Finland,2023,Hydro,15.2
+Finland,2023,Nuclear,34.31
+Finland,2023,Other Fossil,2.69
+Finland,2023,Other Renewables,0.0
+Finland,2023,Solar,0.72
+Finland,2023,Wind,14.93
+Finland,2024,Bioenergy,10.34
+Finland,2024,Coal,0.67
+Finland,2024,Gas,0.66
+Finland,2024,Hydro,14.3
+Finland,2024,Nuclear,32.68
+Finland,2024,Other Fossil,3.26
+Finland,2024,Other Renewables,0.09
+Finland,2024,Solar,1.23
+Finland,2024,Wind,20.37
+France,2000,Bioenergy,2.48
+France,2000,Coal,27.0
+France,2000,Gas,11.51
+France,2000,Hydro,64.78
+France,2000,Nuclear,415.16
+France,2000,Other Fossil,11.06
+France,2000,Other Renewables,0.51
+France,2000,Solar,0.01
+France,2000,Wind,0.05
+France,2001,Bioenergy,2.85
+France,2001,Coal,20.48
+France,2001,Gas,15.15
+France,2001,Hydro,72.62
+France,2001,Nuclear,421.08
+France,2001,Other Fossil,9.8
+France,2001,Other Renewables,0.48
+France,2001,Solar,0.01
+France,2001,Wind,0.13
+France,2002,Bioenergy,3.04
+France,2002,Coal,23.66
+France,2002,Gas,18.37
+France,2002,Hydro,58.88
+France,2002,Nuclear,436.76
+France,2002,Other Fossil,9.76
+France,2002,Other Renewables,0.49
+France,2002,Solar,0.01
+France,2002,Wind,0.27
+France,2003,Bioenergy,3.23
+France,2003,Coal,26.26
+France,2003,Gas,19.37
+France,2003,Hydro,57.35
+France,2003,Nuclear,441.07
+France,2003,Other Fossil,10.96
+France,2003,Other Renewables,0.49
+France,2003,Solar,0.01
+France,2003,Wind,0.39
+France,2004,Bioenergy,3.31
+France,2004,Coal,24.37
+France,2004,Gas,21.05
+France,2004,Hydro,58.04
+France,2004,Nuclear,448.24
+France,2004,Other Fossil,10.22
+France,2004,Other Renewables,0.47
+France,2004,Solar,0.01
+France,2004,Wind,0.59
+France,2005,Bioenergy,3.39
+France,2005,Coal,27.51
+France,2005,Gas,23.07
+France,2005,Hydro,50.14
+France,2005,Nuclear,451.53
+France,2005,Other Fossil,12.05
+France,2005,Other Renewables,0.48
+France,2005,Solar,0.01
+France,2005,Wind,0.96
+France,2006,Bioenergy,3.38
+France,2006,Coal,22.89
+France,2006,Gas,21.76
+France,2006,Hydro,54.88
+France,2006,Nuclear,450.19
+France,2006,Other Fossil,11.55
+France,2006,Other Renewables,0.46
+France,2006,Solar,0.01
+France,2006,Wind,2.18
+France,2007,Bioenergy,3.75
+France,2007,Coal,24.45
+France,2007,Gas,21.99
+France,2007,Hydro,55.99
+France,2007,Nuclear,439.73
+France,2007,Other Fossil,11.37
+France,2007,Other Renewables,0.47
+France,2007,Solar,0.02
+France,2007,Wind,4.07
+France,2008,Bioenergy,3.97
+France,2008,Coal,23.06
+France,2008,Gas,21.88
+France,2008,Hydro,62.16
+France,2008,Nuclear,439.45
+France,2008,Other Fossil,10.26
+France,2008,Other Renewables,0.47
+France,2008,Solar,0.04
+France,2008,Wind,5.69
+France,2009,Bioenergy,4.13
+France,2009,Coal,21.67
+France,2009,Gas,20.5
+France,2009,Hydro,55.49
+France,2009,Nuclear,409.74
+France,2009,Other Fossil,8.81
+France,2009,Other Renewables,0.45
+France,2009,Solar,0.17
+France,2009,Wind,7.91
+France,2010,Bioenergy,4.44
+France,2010,Coal,23.36
+France,2010,Gas,23.76
+France,2010,Hydro,61.2
+France,2010,Nuclear,428.52
+France,2010,Other Fossil,10.04
+France,2010,Other Renewables,0.48
+France,2010,Solar,0.62
+France,2010,Wind,9.94
+France,2011,Bioenergy,5.04
+France,2011,Coal,17.39
+France,2011,Gas,29.49
+France,2011,Hydro,45.74
+France,2011,Nuclear,442.39
+France,2011,Other Fossil,12.36
+France,2011,Other Renewables,0.54
+France,2011,Solar,2.33
+France,2011,Wind,12.37
+France,2012,Bioenergy,5.3
+France,2012,Coal,21.46
+France,2012,Gas,22.75
+France,2012,Hydro,59.83
+France,2012,Nuclear,425.41
+France,2012,Other Fossil,12.71
+France,2012,Other Renewables,0.51
+France,2012,Solar,4.43
+France,2012,Wind,15.18
+France,2013,Bioenergy,5.68
+France,2013,Coal,23.84
+France,2013,Gas,18.39
+France,2013,Hydro,71.92
+France,2013,Nuclear,423.68
+France,2013,Other Fossil,11.41
+France,2013,Other Renewables,0.5
+France,2013,Solar,5.19
+France,2013,Wind,16.14
+France,2014,Bioenergy,5.99
+France,2014,Coal,11.26
+France,2014,Gas,13.16
+France,2014,Hydro,63.77
+France,2014,Nuclear,436.48
+France,2014,Other Fossil,11.38
+France,2014,Other Renewables,0.56
+France,2014,Solar,6.39
+France,2014,Wind,17.32
+France,2015,Bioenergy,6.53
+France,2015,Coal,11.89
+France,2015,Gas,21.14
+France,2015,Hydro,55.56
+France,2015,Nuclear,437.43
+France,2015,Other Fossil,11.84
+France,2015,Other Renewables,0.58
+France,2015,Solar,7.75
+France,2015,Wind,21.42
+France,2016,Bioenergy,7.52
+France,2016,Coal,10.23
+France,2016,Gas,34.97
+France,2016,Hydro,60.84
+France,2016,Nuclear,403.2
+France,2016,Other Fossil,11.44
+France,2016,Other Renewables,0.6
+France,2016,Solar,8.66
+France,2016,Wind,21.38
+France,2017,Bioenergy,7.78
+France,2017,Coal,12.81
+France,2017,Gas,40.5
+France,2017,Hydro,50.0
+France,2017,Nuclear,398.36
+France,2017,Other Fossil,12.16
+France,2017,Other Renewables,0.65
+France,2017,Solar,9.59
+France,2017,Wind,24.61
+France,2018,Bioenergy,8.38
+France,2018,Coal,8.31
+France,2018,Gas,30.55
+France,2018,Hydro,65.11
+France,2018,Nuclear,412.94
+France,2018,Other Fossil,10.59
+France,2018,Other Renewables,0.61
+France,2018,Solar,10.81
+France,2018,Wind,28.6
+France,2019,Bioenergy,8.64
+France,2019,Coal,3.64
+France,2019,Gas,39.24
+France,2019,Hydro,56.91
+France,2019,Nuclear,399.01
+France,2019,Other Fossil,10.73
+France,2019,Other Renewables,0.61
+France,2019,Solar,12.17
+France,2019,Wind,34.72
+France,2020,Bioenergy,8.76
+France,2020,Coal,3.09
+France,2020,Gas,35.25
+France,2020,Hydro,62.59
+France,2020,Nuclear,353.83
+France,2020,Other Fossil,10.05
+France,2020,Other Renewables,0.61
+France,2020,Solar,13.19
+France,2020,Wind,40.05
+France,2021,Bioenergy,9.57
+France,2021,Coal,5.44
+France,2021,Gas,33.31
+France,2021,Hydro,59.62
+France,2021,Nuclear,379.36
+France,2021,Other Fossil,10.09
+France,2021,Other Renewables,0.58
+France,2021,Solar,15.36
+France,2021,Wind,37.12
+France,2022,Bioenergy,9.66
+France,2022,Coal,4.16
+France,2022,Gas,45.74
+France,2022,Hydro,45.52
+France,2022,Nuclear,294.73
+France,2022,Other Fossil,10.45
+France,2022,Other Renewables,0.6
+France,2022,Solar,19.63
+France,2022,Wind,38.0
+France,2023,Bioenergy,9.9
+France,2023,Coal,1.98
+France,2023,Gas,29.84
+France,2023,Hydro,56.66
+France,2023,Nuclear,338.2
+France,2023,Other Fossil,10.56
+France,2023,Other Renewables,0.58
+France,2023,Solar,21.82
+France,2023,Wind,48.05
+France,2024,Bioenergy,9.74
+France,2024,Coal,1.7
+France,2024,Gas,19.07
+France,2024,Hydro,69.29
+France,2024,Nuclear,379.31
+France,2024,Other Fossil,11.28
+France,2024,Other Renewables,0.58
+France,2024,Solar,23.57
+France,2024,Wind,43.03
+Germany,2000,Bioenergy,4.33
+Germany,2000,Coal,296.68
+Germany,2000,Gas,49.2
+Germany,2000,Hydro,21.73
+Germany,2000,Nuclear,169.61
+Germany,2000,Other Fossil,18.05
+Germany,2000,Other Renewables,0.0
+Germany,2000,Solar,0.0
+Germany,2000,Wind,9.35
+Germany,2001,Bioenergy,4.59
+Germany,2001,Coal,293.74
+Germany,2001,Gas,55.5
+Germany,2001,Hydro,22.73
+Germany,2001,Nuclear,171.3
+Germany,2001,Other Fossil,20.52
+Germany,2001,Other Renewables,0.0
+Germany,2001,Solar,0.1
+Germany,2001,Wind,10.46
+Germany,2002,Bioenergy,5.31
+Germany,2002,Coal,299.6
+Germany,2002,Gas,56.3
+Germany,2002,Hydro,23.12
+Germany,2002,Nuclear,164.84
+Germany,2002,Other Fossil,18.53
+Germany,2002,Other Renewables,0.0
+Germany,2002,Solar,0.2
+Germany,2002,Wind,15.86
+Germany,2003,Bioenergy,8.95
+Germany,2003,Coal,304.63
+Germany,2003,Gas,62.59
+Germany,2003,Hydro,18.32
+Germany,2003,Nuclear,165.06
+Germany,2003,Other Fossil,23.08
+Germany,2003,Other Renewables,0.0
+Germany,2003,Solar,0.31
+Germany,2003,Wind,19.09
+Germany,2004,Bioenergy,10.64
+Germany,2004,Coal,298.77
+Germany,2004,Gas,62.67
+Germany,2004,Hydro,20.75
+Germany,2004,Nuclear,167.07
+Germany,2004,Other Fossil,23.12
+Germany,2004,Other Renewables,0.0
+Germany,2004,Solar,0.56
+Germany,2004,Wind,26.02
+Germany,2005,Bioenergy,14.71
+Germany,2005,Coal,288.14
+Germany,2005,Gas,72.19
+Germany,2005,Hydro,19.64
+Germany,2005,Nuclear,163.05
+Germany,2005,Other Fossil,26.53
+Germany,2005,Other Renewables,0.0
+Germany,2005,Solar,1.31
+Germany,2005,Wind,27.77
+Germany,2006,Bioenergy,18.94
+Germany,2006,Coal,288.93
+Germany,2006,Gas,74.73
+Germany,2006,Hydro,20.03
+Germany,2006,Nuclear,167.27
+Germany,2006,Other Fossil,26.71
+Germany,2006,Other Renewables,0.0
+Germany,2006,Solar,2.27
+Germany,2006,Wind,31.32
+Germany,2007,Bioenergy,24.62
+Germany,2007,Coal,297.1
+Germany,2007,Gas,77.45
+Germany,2007,Hydro,21.17
+Germany,2007,Nuclear,140.53
+Germany,2007,Other Fossil,26.58
+Germany,2007,Other Renewables,0.0
+Germany,2007,Solar,3.14
+Germany,2007,Wind,40.51
+Germany,2008,Bioenergy,28.02
+Germany,2008,Coal,275.21
+Germany,2008,Gas,88.48
+Germany,2008,Hydro,20.44
+Germany,2008,Nuclear,148.49
+Germany,2008,Other Fossil,25.74
+Germany,2008,Other Renewables,0.02
+Germany,2008,Solar,4.51
+Germany,2008,Wind,41.38
+Germany,2009,Bioenergy,30.89
+Germany,2009,Coal,253.45
+Germany,2009,Gas,80.27
+Germany,2009,Hydro,19.03
+Germany,2009,Nuclear,134.93
+Germany,2009,Other Fossil,23.23
+Germany,2009,Other Renewables,0.02
+Germany,2009,Solar,6.72
+Germany,2009,Wind,39.42
+Germany,2010,Bioenergy,33.92
+Germany,2010,Coal,262.89
+Germany,2010,Gas,88.76
+Germany,2010,Hydro,20.95
+Germany,2010,Nuclear,140.56
+Germany,2010,Other Fossil,26.59
+Germany,2010,Other Renewables,0.03
+Germany,2010,Solar,11.96
+Germany,2010,Wind,38.55
+Germany,2011,Bioenergy,36.89
+Germany,2011,Coal,262.46
+Germany,2011,Gas,85.67
+Germany,2011,Hydro,17.67
+Germany,2011,Nuclear,107.97
+Germany,2011,Other Fossil,24.47
+Germany,2011,Other Renewables,0.02
+Germany,2011,Solar,19.99
+Germany,2011,Wind,49.86
+Germany,2012,Bioenergy,43.2
+Germany,2012,Coal,276.23
+Germany,2012,Gas,75.95
+Germany,2012,Hydro,21.75
+Germany,2012,Nuclear,99.46
+Germany,2012,Other Fossil,24.77
+Germany,2012,Other Renewables,0.03
+Germany,2012,Solar,26.74
+Germany,2012,Wind,51.68
+Germany,2013,Bioenergy,45.51
+Germany,2013,Coal,288.2
+Germany,2013,Gas,67.0
+Germany,2013,Hydro,23.0
+Germany,2013,Nuclear,97.29
+Germany,2013,Other Fossil,25.25
+Germany,2013,Other Renewables,0.08
+Germany,2013,Solar,30.62
+Germany,2013,Wind,52.74
+Germany,2014,Bioenergy,48.29
+Germany,2014,Coal,274.41
+Germany,2014,Gas,60.61
+Germany,2014,Hydro,19.59
+Germany,2014,Nuclear,97.13
+Germany,2014,Other Fossil,24.67
+Germany,2014,Other Renewables,0.1
+Germany,2014,Solar,35.45
+Germany,2014,Wind,58.5
+Germany,2015,Bioenergy,50.33
+Germany,2015,Coal,272.2
+Germany,2015,Gas,61.47
+Germany,2015,Hydro,18.98
+Germany,2015,Nuclear,91.79
+Germany,2015,Other Fossil,25.57
+Germany,2015,Other Renewables,0.13
+Germany,2015,Solar,38.08
+Germany,2015,Wind,80.62
+Germany,2016,Bioenergy,50.93
+Germany,2016,Coal,261.75
+Germany,2016,Gas,80.62
+Germany,2016,Hydro,20.55
+Germany,2016,Nuclear,84.63
+Germany,2016,Other Fossil,25.39
+Germany,2016,Other Renewables,0.17
+Germany,2016,Solar,37.56
+Germany,2016,Wind,79.92
+Germany,2017,Bioenergy,50.92
+Germany,2017,Coal,241.26
+Germany,2017,Gas,86.04
+Germany,2017,Hydro,20.15
+Germany,2017,Nuclear,76.32
+Germany,2017,Other Fossil,25.16
+Germany,2017,Other Renewables,0.16
+Germany,2017,Solar,38.76
+Germany,2017,Wind,105.69
+Germany,2018,Bioenergy,50.79
+Germany,2018,Coal,228.16
+Germany,2018,Gas,81.56
+Germany,2018,Hydro,17.69
+Germany,2018,Nuclear,76.0
+Germany,2018,Other Fossil,23.63
+Germany,2018,Other Renewables,0.18
+Germany,2018,Solar,44.32
+Germany,2018,Wind,109.95
+Germany,2019,Bioenergy,50.13
+Germany,2019,Coal,171.45
+Germany,2019,Gas,90.0
+Germany,2019,Hydro,19.73
+Germany,2019,Nuclear,75.07
+Germany,2019,Other Fossil,22.4
+Germany,2019,Other Renewables,0.2
+Germany,2019,Solar,45.22
+Germany,2019,Wind,125.89
+Germany,2020,Bioenergy,50.93
+Germany,2020,Coal,134.6
+Germany,2020,Gas,95.0
+Germany,2020,Hydro,18.72
+Germany,2020,Nuclear,64.38
+Germany,2020,Other Fossil,21.28
+Germany,2020,Other Renewables,0.23
+Germany,2020,Solar,49.5
+Germany,2020,Wind,132.11
+Germany,2021,Bioenergy,49.1
+Germany,2021,Coal,164.65
+Germany,2021,Gas,90.31
+Germany,2021,Hydro,19.66
+Germany,2021,Nuclear,69.13
+Germany,2021,Other Fossil,22.24
+Germany,2021,Other Renewables,0.24
+Germany,2021,Solar,49.34
+Germany,2021,Wind,114.16
+Germany,2022,Bioenergy,48.6
+Germany,2022,Coal,179.93
+Germany,2022,Gas,79.05
+Germany,2022,Hydro,17.62
+Germany,2022,Nuclear,34.71
+Germany,2022,Other Fossil,21.65
+Germany,2022,Other Renewables,0.21
+Germany,2022,Solar,60.3
+Germany,2022,Wind,124.81
+Germany,2023,Bioenergy,45.91
+Germany,2023,Coal,124.97
+Germany,2023,Gas,77.73
+Germany,2023,Hydro,19.89
+Germany,2023,Nuclear,7.22
+Germany,2023,Other Fossil,22.09
+Germany,2023,Other Renewables,0.19
+Germany,2023,Solar,61.22
+Germany,2023,Wind,137.48
+Germany,2024,Bioenergy,45.91
+Germany,2024,Coal,104.35
+Germany,2024,Gas,79.15
+Germany,2024,Hydro,23.41
+Germany,2024,Nuclear,0.0
+Germany,2024,Other Fossil,19.43
+Germany,2024,Other Renewables,0.19
+Germany,2024,Solar,70.99
+Germany,2024,Wind,133.44
+Greece,2000,Bioenergy,0.0
+Greece,2000,Coal,34.31
+Greece,2000,Gas,5.92
+Greece,2000,Hydro,3.69
+Greece,2000,Nuclear,0.0
+Greece,2000,Other Fossil,8.57
+Greece,2000,Other Renewables,0.0
+Greece,2000,Solar,0.0
+Greece,2000,Wind,0.45
+Greece,2001,Bioenergy,0.08
+Greece,2001,Coal,35.43
+Greece,2001,Gas,6.13
+Greece,2001,Hydro,2.1
+Greece,2001,Nuclear,0.0
+Greece,2001,Other Fossil,8.04
+Greece,2001,Other Renewables,0.0
+Greece,2001,Solar,0.0
+Greece,2001,Wind,0.76
+Greece,2002,Bioenergy,0.13
+Greece,2002,Coal,34.57
+Greece,2002,Gas,7.06
+Greece,2002,Hydro,2.8
+Greece,2002,Nuclear,0.0
+Greece,2002,Other Fossil,8.15
+Greece,2002,Other Renewables,0.0
+Greece,2002,Solar,0.0
+Greece,2002,Wind,0.65
+Greece,2003,Bioenergy,0.1
+Greece,2003,Coal,35.17
+Greece,2003,Gas,8.02
+Greece,2003,Hydro,4.77
+Greece,2003,Nuclear,0.0
+Greece,2003,Other Fossil,8.2
+Greece,2003,Other Renewables,0.0
+Greece,2003,Solar,0.0
+Greece,2003,Wind,1.02
+Greece,2004,Bioenergy,0.12
+Greece,2004,Coal,35.38
+Greece,2004,Gas,8.99
+Greece,2004,Hydro,4.67
+Greece,2004,Nuclear,0.0
+Greece,2004,Other Fossil,7.94
+Greece,2004,Other Renewables,0.0
+Greece,2004,Solar,0.0
+Greece,2004,Wind,1.12
+Greece,2005,Bioenergy,0.12
+Greece,2005,Coal,35.54
+Greece,2005,Gas,8.17
+Greece,2005,Hydro,5.02
+Greece,2005,Nuclear,0.0
+Greece,2005,Other Fossil,8.61
+Greece,2005,Other Renewables,0.0
+Greece,2005,Solar,0.0
+Greece,2005,Wind,1.27
+Greece,2006,Bioenergy,0.11
+Greece,2006,Coal,32.26
+Greece,2006,Gas,10.61
+Greece,2006,Hydro,5.86
+Greece,2006,Nuclear,0.0
+Greece,2006,Other Fossil,8.87
+Greece,2006,Other Renewables,0.0
+Greece,2006,Solar,0.0
+Greece,2006,Wind,1.7
+Greece,2007,Bioenergy,0.18
+Greece,2007,Coal,34.68
+Greece,2007,Gas,14.16
+Greece,2007,Hydro,2.59
+Greece,2007,Nuclear,0.0
+Greece,2007,Other Fossil,8.97
+Greece,2007,Other Renewables,0.0
+Greece,2007,Solar,0.0
+Greece,2007,Wind,1.82
+Greece,2008,Bioenergy,0.19
+Greece,2008,Coal,33.36
+Greece,2008,Gas,13.8
+Greece,2008,Hydro,3.31
+Greece,2008,Nuclear,0.0
+Greece,2008,Other Fossil,9.27
+Greece,2008,Other Renewables,0.0
+Greece,2008,Solar,0.01
+Greece,2008,Wind,2.24
+Greece,2009,Bioenergy,0.22
+Greece,2009,Coal,34.19
+Greece,2009,Gas,11.02
+Greece,2009,Hydro,5.35
+Greece,2009,Nuclear,0.0
+Greece,2009,Other Fossil,6.97
+Greece,2009,Other Renewables,0.0
+Greece,2009,Solar,0.05
+Greece,2009,Wind,2.54
+Greece,2010,Bioenergy,0.19
+Greece,2010,Coal,30.8
+Greece,2010,Gas,9.85
+Greece,2010,Hydro,7.47
+Greece,2010,Nuclear,0.0
+Greece,2010,Other Fossil,5.43
+Greece,2010,Other Renewables,0.0
+Greece,2010,Solar,0.16
+Greece,2010,Wind,2.71
+Greece,2011,Bioenergy,0.21
+Greece,2011,Coal,31.07
+Greece,2011,Gas,14.07
+Greece,2011,Hydro,4.01
+Greece,2011,Nuclear,0.0
+Greece,2011,Other Fossil,5.16
+Greece,2011,Other Renewables,0.0
+Greece,2011,Solar,0.61
+Greece,2011,Wind,3.32
+Greece,2012,Bioenergy,0.2
+Greece,2012,Coal,31.11
+Greece,2012,Gas,13.48
+Greece,2012,Hydro,4.39
+Greece,2012,Nuclear,0.0
+Greece,2012,Other Fossil,5.19
+Greece,2012,Other Renewables,0.0
+Greece,2012,Solar,1.69
+Greece,2012,Wind,3.85
+Greece,2013,Bioenergy,0.22
+Greece,2013,Coal,26.4
+Greece,2013,Gas,10.88
+Greece,2013,Hydro,6.35
+Greece,2013,Nuclear,0.0
+Greece,2013,Other Fossil,4.73
+Greece,2013,Other Renewables,0.0
+Greece,2013,Solar,3.65
+Greece,2013,Wind,4.14
+Greece,2014,Bioenergy,0.22
+Greece,2014,Coal,25.75
+Greece,2014,Gas,6.79
+Greece,2014,Hydro,4.48
+Greece,2014,Nuclear,0.0
+Greece,2014,Other Fossil,4.9
+Greece,2014,Other Renewables,0.0
+Greece,2014,Solar,3.79
+Greece,2014,Wind,3.69
+Greece,2015,Bioenergy,0.23
+Greece,2015,Coal,22.11
+Greece,2015,Gas,9.09
+Greece,2015,Hydro,6.1
+Greece,2015,Nuclear,0.0
+Greece,2015,Other Fossil,5.0
+Greece,2015,Other Renewables,0.0
+Greece,2015,Solar,3.9
+Greece,2015,Wind,4.62
+Greece,2016,Bioenergy,0.27
+Greece,2016,Coal,18.88
+Greece,2016,Gas,14.97
+Greece,2016,Hydro,5.54
+Greece,2016,Nuclear,0.0
+Greece,2016,Other Fossil,5.1
+Greece,2016,Other Renewables,0.0
+Greece,2016,Solar,3.93
+Greece,2016,Wind,5.15
+Greece,2017,Bioenergy,0.31
+Greece,2017,Coal,18.76
+Greece,2017,Gas,17.13
+Greece,2017,Hydro,3.96
+Greece,2017,Nuclear,0.0
+Greece,2017,Other Fossil,5.11
+Greece,2017,Other Renewables,0.0
+Greece,2017,Solar,3.99
+Greece,2017,Wind,5.54
+Greece,2018,Bioenergy,0.31
+Greece,2018,Coal,17.19
+Greece,2018,Gas,14.09
+Greece,2018,Hydro,5.74
+Greece,2018,Nuclear,0.0
+Greece,2018,Other Fossil,5.19
+Greece,2018,Other Renewables,0.0
+Greece,2018,Solar,3.79
+Greece,2018,Wind,6.3
+Greece,2019,Bioenergy,0.4
+Greece,2019,Coal,12.12
+Greece,2019,Gas,14.5
+Greece,2019,Hydro,4.0
+Greece,2019,Nuclear,0.0
+Greece,2019,Other Fossil,5.23
+Greece,2019,Other Renewables,0.0
+Greece,2019,Solar,4.43
+Greece,2019,Wind,7.27
+Greece,2020,Bioenergy,0.45
+Greece,2020,Coal,6.61
+Greece,2020,Gas,19.23
+Greece,2020,Hydro,3.34
+Greece,2020,Nuclear,0.0
+Greece,2020,Other Fossil,4.12
+Greece,2020,Other Renewables,0.0
+Greece,2020,Solar,4.45
+Greece,2020,Wind,9.31
+Greece,2021,Bioenergy,0.5
+Greece,2021,Coal,5.32
+Greece,2021,Gas,22.49
+Greece,2021,Hydro,5.9
+Greece,2021,Nuclear,0.0
+Greece,2021,Other Fossil,4.3
+Greece,2021,Other Renewables,0.0
+Greece,2021,Solar,5.25
+Greece,2021,Wind,10.48
+Greece,2022,Bioenergy,0.57
+Greece,2022,Coal,5.76
+Greece,2022,Gas,19.14
+Greece,2022,Hydro,3.86
+Greece,2022,Nuclear,0.0
+Greece,2022,Other Fossil,4.32
+Greece,2022,Other Renewables,0.0
+Greece,2022,Solar,7.14
+Greece,2022,Wind,10.88
+Greece,2023,Bioenergy,0.65
+Greece,2023,Coal,4.59
+Greece,2023,Gas,15.98
+Greece,2023,Hydro,3.82
+Greece,2023,Nuclear,0.0
+Greece,2023,Other Fossil,3.98
+Greece,2023,Other Renewables,0.0
+Greece,2023,Solar,8.89
+Greece,2023,Wind,10.92
+Greece,2024,Bioenergy,0.65
+Greece,2024,Coal,3.29
+Greece,2024,Gas,21.51
+Greece,2024,Hydro,3.08
+Greece,2024,Nuclear,0.0
+Greece,2024,Other Fossil,3.98
+Greece,2024,Other Renewables,0.0
+Greece,2024,Solar,12.34
+Greece,2024,Wind,12.45
+Hungary,2000,Bioenergy,0.06
+Hungary,2000,Coal,9.59
+Hungary,2000,Gas,6.6
+Hungary,2000,Hydro,0.18
+Hungary,2000,Nuclear,14.18
+Hungary,2000,Other Fossil,4.58
+Hungary,2000,Other Renewables,0.0
+Hungary,2000,Solar,0.0
+Hungary,2001,Bioenergy,0.07
+Hungary,2001,Coal,8.84
+Hungary,2001,Gas,8.86
+Hungary,2001,Hydro,0.19
+Hungary,2001,Nuclear,14.13
+Hungary,2001,Other Fossil,4.33
+Hungary,2001,Other Renewables,0.0
+Hungary,2001,Solar,0.0
+Hungary,2001,Wind,0.0
+Hungary,2002,Bioenergy,0.04
+Hungary,2002,Coal,8.98
+Hungary,2002,Gas,10.74
+Hungary,2002,Hydro,0.19
+Hungary,2002,Nuclear,13.95
+Hungary,2002,Other Fossil,2.25
+Hungary,2002,Other Renewables,0.0
+Hungary,2002,Solar,0.0
+Hungary,2002,Wind,0.0
+Hungary,2003,Bioenergy,0.16
+Hungary,2003,Coal,9.17
+Hungary,2003,Gas,11.88
+Hungary,2003,Hydro,0.17
+Hungary,2003,Nuclear,11.01
+Hungary,2003,Other Fossil,1.74
+Hungary,2003,Other Renewables,0.0
+Hungary,2003,Solar,0.0
+Hungary,2003,Wind,0.0
+Hungary,2004,Bioenergy,0.73
+Hungary,2004,Coal,8.18
+Hungary,2004,Gas,11.72
+Hungary,2004,Hydro,0.2
+Hungary,2004,Nuclear,11.91
+Hungary,2004,Other Fossil,0.96
+Hungary,2004,Other Renewables,0.0
+Hungary,2004,Solar,0.0
+Hungary,2004,Wind,0.01
+Hungary,2005,Bioenergy,1.66
+Hungary,2005,Coal,7.02
+Hungary,2005,Gas,12.38
+Hungary,2005,Hydro,0.2
+Hungary,2005,Nuclear,13.83
+Hungary,2005,Other Fossil,0.65
+Hungary,2005,Other Renewables,0.0
+Hungary,2005,Solar,0.0
+Hungary,2005,Wind,0.01
+Hungary,2006,Bioenergy,1.26
+Hungary,2006,Coal,7.0
+Hungary,2006,Gas,13.16
+Hungary,2006,Hydro,0.19
+Hungary,2006,Nuclear,13.46
+Hungary,2006,Other Fossil,0.74
+Hungary,2006,Other Renewables,0.0
+Hungary,2006,Solar,0.0
+Hungary,2006,Wind,0.04
+Hungary,2007,Bioenergy,1.56
+Hungary,2007,Coal,7.37
+Hungary,2007,Gas,15.23
+Hungary,2007,Hydro,0.21
+Hungary,2007,Nuclear,14.68
+Hungary,2007,Other Fossil,0.8
+Hungary,2007,Other Renewables,0.0
+Hungary,2007,Solar,0.0
+Hungary,2007,Wind,0.11
+Hungary,2008,Bioenergy,1.94
+Hungary,2008,Coal,7.08
+Hungary,2008,Gas,15.18
+Hungary,2008,Hydro,0.21
+Hungary,2008,Nuclear,14.82
+Hungary,2008,Other Fossil,0.59
+Hungary,2008,Other Renewables,0.0
+Hungary,2008,Solar,0.0
+Hungary,2008,Wind,0.2
+Hungary,2009,Bioenergy,2.33
+Hungary,2009,Coal,6.34
+Hungary,2009,Gas,10.42
+Hungary,2009,Hydro,0.23
+Hungary,2009,Nuclear,15.43
+Hungary,2009,Other Fossil,0.83
+Hungary,2009,Other Renewables,0.0
+Hungary,2009,Solar,0.0
+Hungary,2009,Wind,0.33
+Hungary,2010,Bioenergy,2.3
+Hungary,2010,Coal,6.23
+Hungary,2010,Gas,11.6
+Hungary,2010,Hydro,0.19
+Hungary,2010,Nuclear,15.76
+Hungary,2010,Other Fossil,0.75
+Hungary,2010,Other Renewables,0.0
+Hungary,2010,Solar,0.0
+Hungary,2010,Wind,0.53
+Hungary,2011,Bioenergy,1.86
+Hungary,2011,Coal,6.48
+Hungary,2011,Gas,10.74
+Hungary,2011,Hydro,0.22
+Hungary,2011,Nuclear,15.69
+Hungary,2011,Other Fossil,0.4
+Hungary,2011,Other Renewables,0.0
+Hungary,2011,Solar,0.0
+Hungary,2011,Wind,0.63
+Hungary,2012,Bioenergy,1.65
+Hungary,2012,Coal,6.34
+Hungary,2012,Gas,9.4
+Hungary,2012,Hydro,0.21
+Hungary,2012,Nuclear,15.79
+Hungary,2012,Other Fossil,0.45
+Hungary,2012,Other Renewables,0.0
+Hungary,2012,Solar,0.01
+Hungary,2012,Wind,0.77
+Hungary,2013,Bioenergy,1.83
+Hungary,2013,Coal,6.3
+Hungary,2013,Gas,5.54
+Hungary,2013,Hydro,0.21
+Hungary,2013,Nuclear,15.37
+Hungary,2013,Other Fossil,0.28
+Hungary,2013,Other Renewables,0.0
+Hungary,2013,Solar,0.02
+Hungary,2013,Wind,0.72
+Hungary,2014,Bioenergy,2.13
+Hungary,2014,Coal,5.99
+Hungary,2014,Gas,4.24
+Hungary,2014,Hydro,0.3
+Hungary,2014,Nuclear,15.65
+Hungary,2014,Other Fossil,0.35
+Hungary,2014,Other Renewables,0.0
+Hungary,2014,Solar,0.07
+Hungary,2014,Wind,0.66
+Hungary,2015,Bioenergy,2.16
+Hungary,2015,Coal,5.79
+Hungary,2015,Gas,5.11
+Hungary,2015,Hydro,0.23
+Hungary,2015,Nuclear,15.83
+Hungary,2015,Other Fossil,0.38
+Hungary,2015,Other Renewables,0.0
+Hungary,2015,Solar,0.14
+Hungary,2015,Wind,0.69
+Hungary,2016,Bioenergy,2.07
+Hungary,2016,Coal,5.63
+Hungary,2016,Gas,6.48
+Hungary,2016,Hydro,0.26
+Hungary,2016,Nuclear,16.05
+Hungary,2016,Other Fossil,0.47
+Hungary,2016,Other Renewables,0.0
+Hungary,2016,Solar,0.24
+Hungary,2016,Wind,0.68
+Hungary,2017,Bioenergy,2.15
+Hungary,2017,Coal,4.93
+Hungary,2017,Gas,7.87
+Hungary,2017,Hydro,0.22
+Hungary,2017,Nuclear,16.1
+Hungary,2017,Other Fossil,0.54
+Hungary,2017,Other Renewables,0.0
+Hungary,2017,Solar,0.35
+Hungary,2017,Wind,0.76
+Hungary,2018,Bioenergy,2.3
+Hungary,2018,Coal,4.67
+Hungary,2018,Gas,7.28
+Hungary,2018,Hydro,0.22
+Hungary,2018,Nuclear,15.73
+Hungary,2018,Other Fossil,0.6
+Hungary,2018,Other Renewables,0.01
+Hungary,2018,Solar,0.63
+Hungary,2018,Wind,0.61
+Hungary,2019,Bioenergy,2.23
+Hungary,2019,Coal,4.03
+Hungary,2019,Gas,8.7
+Hungary,2019,Hydro,0.22
+Hungary,2019,Nuclear,16.29
+Hungary,2019,Other Fossil,0.56
+Hungary,2019,Other Renewables,0.02
+Hungary,2019,Solar,1.5
+Hungary,2019,Wind,0.73
+Hungary,2020,Bioenergy,2.15
+Hungary,2020,Coal,3.71
+Hungary,2020,Gas,9.09
+Hungary,2020,Hydro,0.24
+Hungary,2020,Nuclear,16.06
+Hungary,2020,Other Fossil,0.54
+Hungary,2020,Other Renewables,0.02
+Hungary,2020,Solar,2.46
+Hungary,2020,Wind,0.65
+Hungary,2021,Bioenergy,2.23
+Hungary,2021,Coal,3.01
+Hungary,2021,Gas,9.65
+Hungary,2021,Hydro,0.21
+Hungary,2021,Nuclear,15.99
+Hungary,2021,Other Fossil,0.54
+Hungary,2021,Other Renewables,0.01
+Hungary,2021,Solar,3.8
+Hungary,2021,Wind,0.66
+Hungary,2022,Bioenergy,2.14
+Hungary,2022,Coal,2.99
+Hungary,2022,Gas,8.87
+Hungary,2022,Hydro,0.18
+Hungary,2022,Nuclear,15.81
+Hungary,2022,Other Fossil,0.45
+Hungary,2022,Other Renewables,0.0
+Hungary,2022,Solar,4.73
+Hungary,2022,Wind,0.61
+Hungary,2023,Bioenergy,1.56
+Hungary,2023,Coal,2.49
+Hungary,2023,Gas,7.28
+Hungary,2023,Hydro,0.22
+Hungary,2023,Nuclear,15.92
+Hungary,2023,Other Fossil,0.47
+Hungary,2023,Other Renewables,0.02
+Hungary,2023,Solar,6.93
+Hungary,2023,Wind,0.63
+Hungary,2024,Bioenergy,1.74
+Hungary,2024,Coal,2.41
+Hungary,2024,Gas,7.15
+Hungary,2024,Hydro,0.23
+Hungary,2024,Nuclear,16.04
+Hungary,2024,Other Fossil,0.45
+Hungary,2024,Other Renewables,0.09
+Hungary,2024,Solar,9.4
+Hungary,2024,Wind,0.67
+Ireland,2000,Bioenergy,0.09
+Ireland,2000,Coal,6.82
+Ireland,2000,Gas,9.26
+Ireland,2000,Hydro,0.85
+Ireland,2000,Nuclear,0.0
+Ireland,2000,Other Fossil,6.36
+Ireland,2000,Other Renewables,0.0
+Ireland,2000,Solar,0.0
+Ireland,2000,Wind,0.24
+Ireland,2001,Bioenergy,0.1
+Ireland,2001,Coal,7.06
+Ireland,2001,Gas,9.15
+Ireland,2001,Hydro,0.6
+Ireland,2001,Nuclear,0.0
+Ireland,2001,Other Fossil,7.34
+Ireland,2001,Other Renewables,0.0
+Ireland,2001,Solar,0.0
+Ireland,2001,Wind,0.33
+Ireland,2002,Bioenergy,0.08
+Ireland,2002,Coal,6.82
+Ireland,2002,Gas,10.83
+Ireland,2002,Hydro,0.91
+Ireland,2002,Nuclear,0.0
+Ireland,2002,Other Fossil,5.77
+Ireland,2002,Other Renewables,0.0
+Ireland,2002,Solar,0.0
+Ireland,2002,Wind,0.39
+Ireland,2003,Bioenergy,0.09
+Ireland,2003,Coal,6.2
+Ireland,2003,Gas,13.04
+Ireland,2003,Hydro,0.6
+Ireland,2003,Nuclear,0.0
+Ireland,2003,Other Fossil,4.44
+Ireland,2003,Other Renewables,0.0
+Ireland,2003,Solar,0.0
+Ireland,2003,Wind,0.45
+Ireland,2004,Bioenergy,0.11
+Ireland,2004,Coal,6.23
+Ireland,2004,Gas,12.9
+Ireland,2004,Hydro,0.63
+Ireland,2004,Nuclear,0.0
+Ireland,2004,Other Fossil,4.66
+Ireland,2004,Other Renewables,0.0
+Ireland,2004,Solar,0.0
+Ireland,2004,Wind,0.65
+Ireland,2005,Bioenergy,0.13
+Ireland,2005,Coal,6.39
+Ireland,2005,Gas,11.57
+Ireland,2005,Hydro,0.63
+Ireland,2005,Nuclear,0.0
+Ireland,2005,Other Fossil,5.75
+Ireland,2005,Other Renewables,0.0
+Ireland,2005,Solar,0.0
+Ireland,2005,Wind,1.11
+Ireland,2006,Bioenergy,0.13
+Ireland,2006,Coal,5.88
+Ireland,2006,Gas,13.79
+Ireland,2006,Hydro,0.72
+Ireland,2006,Nuclear,0.0
+Ireland,2006,Other Fossil,4.93
+Ireland,2006,Other Renewables,0.0
+Ireland,2006,Solar,0.0
+Ireland,2006,Wind,1.62
+Ireland,2007,Bioenergy,0.18
+Ireland,2007,Coal,5.44
+Ireland,2007,Gas,16.06
+Ireland,2007,Hydro,0.67
+Ireland,2007,Nuclear,0.0
+Ireland,2007,Other Fossil,4.02
+Ireland,2007,Other Renewables,0.0
+Ireland,2007,Solar,0.0
+Ireland,2007,Wind,1.96
+Ireland,2008,Bioenergy,0.22
+Ireland,2008,Coal,5.14
+Ireland,2008,Gas,16.72
+Ireland,2008,Hydro,0.97
+Ireland,2008,Nuclear,0.0
+Ireland,2008,Other Fossil,4.43
+Ireland,2008,Other Renewables,0.0
+Ireland,2008,Solar,0.0
+Ireland,2008,Wind,2.41
+Ireland,2009,Bioenergy,0.26
+Ireland,2009,Coal,4.0
+Ireland,2009,Gas,16.3
+Ireland,2009,Hydro,0.9
+Ireland,2009,Nuclear,0.0
+Ireland,2009,Other Fossil,3.52
+Ireland,2009,Other Renewables,0.0
+Ireland,2009,Solar,0.0
+Ireland,2009,Wind,2.96
+Ireland,2010,Bioenergy,0.31
+Ireland,2010,Coal,3.55
+Ireland,2010,Gas,18.11
+Ireland,2010,Hydro,0.6
+Ireland,2010,Nuclear,0.0
+Ireland,2010,Other Fossil,2.73
+Ireland,2010,Other Renewables,0.0
+Ireland,2010,Solar,0.0
+Ireland,2010,Wind,2.81
+Ireland,2011,Bioenergy,0.34
+Ireland,2011,Coal,3.94
+Ireland,2011,Gas,15.43
+Ireland,2011,Hydro,0.71
+Ireland,2011,Nuclear,0.0
+Ireland,2011,Other Fossil,2.33
+Ireland,2011,Other Renewables,0.0
+Ireland,2011,Solar,0.0
+Ireland,2011,Wind,4.38
+Ireland,2012,Bioenergy,0.44
+Ireland,2012,Coal,5.02
+Ireland,2012,Gas,14.14
+Ireland,2012,Hydro,0.8
+Ireland,2012,Nuclear,0.0
+Ireland,2012,Other Fossil,2.68
+Ireland,2012,Other Renewables,0.0
+Ireland,2012,Solar,0.0
+Ireland,2012,Wind,4.01
+Ireland,2013,Bioenergy,0.49
+Ireland,2013,Coal,4.28
+Ireland,2013,Gas,13.13
+Ireland,2013,Hydro,0.6
+Ireland,2013,Nuclear,0.0
+Ireland,2013,Other Fossil,2.5
+Ireland,2013,Other Renewables,0.0
+Ireland,2013,Solar,0.0
+Ireland,2013,Wind,4.54
+Ireland,2014,Bioenergy,0.54
+Ireland,2014,Coal,3.96
+Ireland,2014,Gas,12.64
+Ireland,2014,Hydro,0.71
+Ireland,2014,Nuclear,0.0
+Ireland,2014,Other Fossil,2.79
+Ireland,2014,Other Renewables,0.0
+Ireland,2014,Solar,0.0
+Ireland,2014,Wind,5.14
+Ireland,2015,Bioenergy,0.48
+Ireland,2015,Coal,4.87
+Ireland,2015,Gas,12.37
+Ireland,2015,Hydro,0.81
+Ireland,2015,Nuclear,0.0
+Ireland,2015,Other Fossil,2.94
+Ireland,2015,Other Renewables,0.0
+Ireland,2015,Solar,0.0
+Ireland,2015,Wind,6.57
+Ireland,2016,Bioenergy,0.68
+Ireland,2016,Coal,4.7
+Ireland,2016,Gas,15.33
+Ireland,2016,Hydro,0.68
+Ireland,2016,Nuclear,0.0
+Ireland,2016,Other Fossil,2.66
+Ireland,2016,Other Renewables,0.0
+Ireland,2016,Solar,0.0
+Ireland,2016,Wind,6.15
+Ireland,2017,Bioenergy,0.74
+Ireland,2017,Coal,3.64
+Ireland,2017,Gas,15.68
+Ireland,2017,Hydro,0.69
+Ireland,2017,Nuclear,0.0
+Ireland,2017,Other Fossil,2.46
+Ireland,2017,Other Renewables,0.0
+Ireland,2017,Solar,0.01
+Ireland,2017,Wind,7.44
+Ireland,2018,Bioenergy,0.85
+Ireland,2018,Coal,2.15
+Ireland,2018,Gas,16.02
+Ireland,2018,Hydro,0.69
+Ireland,2018,Nuclear,0.0
+Ireland,2018,Other Fossil,2.53
+Ireland,2018,Other Renewables,0.0
+Ireland,2018,Solar,0.02
+Ireland,2018,Wind,8.64
+Ireland,2019,Bioenergy,0.85
+Ireland,2019,Coal,0.51
+Ireland,2019,Gas,15.91
+Ireland,2019,Hydro,0.89
+Ireland,2019,Nuclear,0.0
+Ireland,2019,Other Fossil,2.5
+Ireland,2019,Other Renewables,0.0
+Ireland,2019,Solar,0.03
+Ireland,2019,Wind,10.02
+Ireland,2020,Bioenergy,0.92
+Ireland,2020,Coal,0.67
+Ireland,2020,Gas,16.24
+Ireland,2020,Hydro,0.93
+Ireland,2020,Nuclear,0.0
+Ireland,2020,Other Fossil,1.6
+Ireland,2020,Other Renewables,0.0
+Ireland,2020,Solar,0.06
+Ireland,2020,Wind,11.55
+Ireland,2021,Bioenergy,0.99
+Ireland,2021,Coal,2.72
+Ireland,2021,Gas,15.16
+Ireland,2021,Hydro,0.75
+Ireland,2021,Nuclear,0.0
+Ireland,2021,Other Fossil,2.1
+Ireland,2021,Other Renewables,0.0
+Ireland,2021,Solar,0.08
+Ireland,2021,Wind,9.78
+Ireland,2022,Bioenergy,1.01
+Ireland,2022,Coal,2.37
+Ireland,2022,Gas,16.53
+Ireland,2022,Hydro,0.7
+Ireland,2022,Nuclear,0.0
+Ireland,2022,Other Fossil,1.64
+Ireland,2022,Other Renewables,0.0
+Ireland,2022,Solar,0.15
+Ireland,2022,Wind,11.21
+Ireland,2023,Bioenergy,0.83
+Ireland,2023,Coal,1.21
+Ireland,2023,Gas,15.35
+Ireland,2023,Hydro,0.94
+Ireland,2023,Nuclear,0.0
+Ireland,2023,Other Fossil,0.7
+Ireland,2023,Other Renewables,0.0
+Ireland,2023,Solar,0.65
+Ireland,2023,Wind,11.68
+Ireland,2024,Bioenergy,0.83
+Ireland,2024,Coal,0.95
+Ireland,2024,Gas,15.14
+Ireland,2024,Hydro,0.76
+Ireland,2024,Nuclear,0.0
+Ireland,2024,Other Fossil,0.8
+Ireland,2024,Other Renewables,0.0
+Ireland,2024,Solar,0.97
+Ireland,2024,Wind,11.44
+Italy,2000,Bioenergy,1.39
+Italy,2000,Coal,26.28
+Italy,2000,Gas,101.36
+Italy,2000,Hydro,44.2
+Italy,2000,Nuclear,0.0
+Italy,2000,Other Fossil,91.43
+Italy,2000,Other Renewables,4.7
+Italy,2000,Solar,0.02
+Italy,2000,Wind,0.56
+Italy,2001,Bioenergy,1.83
+Italy,2001,Coal,31.73
+Italy,2001,Gas,104.19
+Italy,2001,Hydro,46.81
+Italy,2001,Nuclear,0.0
+Italy,2001,Other Fossil,81.63
+Italy,2001,Other Renewables,4.51
+Italy,2001,Solar,0.02
+Italy,2001,Wind,1.18
+Italy,2002,Bioenergy,2.71
+Italy,2002,Coal,35.45
+Italy,2002,Gas,99.41
+Italy,2002,Hydro,39.52
+Italy,2002,Nuclear,0.0
+Italy,2002,Other Fossil,94.36
+Italy,2002,Other Renewables,4.66
+Italy,2002,Solar,0.02
+Italy,2002,Wind,1.4
+Italy,2003,Bioenergy,3.37
+Italy,2003,Coal,38.81
+Italy,2003,Gas,117.3
+Italy,2003,Hydro,36.67
+Italy,2003,Nuclear,0.0
+Italy,2003,Other Fossil,83.3
+Italy,2003,Other Renewables,5.34
+Italy,2003,Solar,0.02
+Italy,2003,Wind,1.46
+Italy,2004,Bioenergy,4.22
+Italy,2004,Coal,45.52
+Italy,2004,Gas,129.84
+Italy,2004,Hydro,42.34
+Italy,2004,Nuclear,0.0
+Italy,2004,Other Fossil,64.48
+Italy,2004,Other Renewables,5.44
+Italy,2004,Solar,0.03
+Italy,2004,Wind,1.84
+Italy,2005,Bioenergy,4.67
+Italy,2005,Coal,43.61
+Italy,2005,Gas,149.33
+Italy,2005,Hydro,36.07
+Italy,2005,Nuclear,0.0
+Italy,2005,Other Fossil,53.26
+Italy,2005,Other Renewables,5.32
+Italy,2005,Solar,0.03
+Italy,2005,Wind,2.34
+Italy,2006,Bioenergy,5.11
+Italy,2006,Coal,44.21
+Italy,2006,Gas,158.14
+Italy,2006,Hydro,36.99
+Italy,2006,Nuclear,0.0
+Italy,2006,Other Fossil,52.62
+Italy,2006,Other Renewables,5.53
+Italy,2006,Solar,0.04
+Italy,2006,Wind,2.97
+Italy,2007,Bioenergy,5.26
+Italy,2007,Coal,44.11
+Italy,2007,Gas,172.71
+Italy,2007,Hydro,32.82
+Italy,2007,Nuclear,0.0
+Italy,2007,Other Fossil,41.63
+Italy,2007,Other Renewables,5.57
+Italy,2007,Solar,0.04
+Italy,2007,Wind,4.03
+Italy,2008,Bioenergy,5.97
+Italy,2008,Coal,43.07
+Italy,2008,Gas,172.77
+Italy,2008,Hydro,41.62
+Italy,2008,Nuclear,0.0
+Italy,2008,Other Fossil,37.57
+Italy,2008,Other Renewables,5.52
+Italy,2008,Solar,0.19
+Italy,2008,Wind,4.86
+Italy,2009,Bioenergy,7.56
+Italy,2009,Coal,39.74
+Italy,2009,Gas,147.36
+Italy,2009,Hydro,49.14
+Italy,2009,Nuclear,0.0
+Italy,2009,Other Fossil,30.0
+Italy,2009,Other Renewables,5.34
+Italy,2009,Solar,0.68
+Italy,2009,Wind,6.54
+Italy,2010,Bioenergy,9.44
+Italy,2010,Coal,39.73
+Italy,2010,Gas,152.81
+Italy,2010,Hydro,51.12
+Italy,2010,Nuclear,0.0
+Italy,2010,Other Fossil,27.12
+Italy,2010,Other Renewables,5.38
+Italy,2010,Solar,1.91
+Italy,2010,Wind,9.12
+Italy,2011,Bioenergy,10.83
+Italy,2011,Coal,44.73
+Italy,2011,Gas,144.6
+Italy,2011,Hydro,45.82
+Italy,2011,Nuclear,0.0
+Italy,2011,Other Fossil,26.09
+Italy,2011,Other Renewables,5.65
+Italy,2011,Solar,10.8
+Italy,2011,Wind,9.85
+Italy,2012,Bioenergy,12.49
+Italy,2012,Coal,49.14
+Italy,2012,Gas,129.14
+Italy,2012,Hydro,41.87
+Italy,2012,Nuclear,0.0
+Italy,2012,Other Fossil,24.75
+Italy,2012,Other Renewables,5.59
+Italy,2012,Solar,18.86
+Italy,2012,Wind,13.41
+Italy,2013,Bioenergy,17.08
+Italy,2013,Coal,45.1
+Italy,2013,Gas,108.91
+Italy,2013,Hydro,52.77
+Italy,2013,Nuclear,0.0
+Italy,2013,Other Fossil,20.01
+Italy,2013,Other Renewables,5.66
+Italy,2013,Solar,21.59
+Italy,2013,Wind,14.9
+Italy,2014,Bioenergy,18.72
+Italy,2014,Coal,43.45
+Italy,2014,Gas,93.66
+Italy,2014,Hydro,58.55
+Italy,2014,Nuclear,0.0
+Italy,2014,Other Fossil,18.74
+Italy,2014,Other Renewables,5.92
+Italy,2014,Solar,22.31
+Italy,2014,Wind,15.18
+Italy,2015,Bioenergy,19.39
+Italy,2015,Coal,43.2
+Italy,2015,Gas,110.88
+Italy,2015,Hydro,45.54
+Italy,2015,Nuclear,0.0
+Italy,2015,Other Fossil,16.73
+Italy,2015,Other Renewables,6.18
+Italy,2015,Solar,22.94
+Italy,2015,Wind,14.84
+Italy,2016,Bioenergy,19.5
+Italy,2016,Coal,35.61
+Italy,2016,Gas,126.17
+Italy,2016,Hydro,42.43
+Italy,2016,Nuclear,0.0
+Italy,2016,Other Fossil,16.16
+Italy,2016,Other Renewables,6.29
+Italy,2016,Solar,22.1
+Italy,2016,Wind,17.69
+Italy,2017,Bioenergy,19.37
+Italy,2017,Coal,32.63
+Italy,2017,Gas,140.36
+Italy,2017,Hydro,36.2
+Italy,2017,Nuclear,0.0
+Italy,2017,Other Fossil,15.21
+Italy,2017,Other Renewables,6.2
+Italy,2017,Solar,24.38
+Italy,2017,Wind,17.74
+Italy,2018,Bioenergy,19.14
+Italy,2018,Coal,28.47
+Italy,2018,Gas,128.56
+Italy,2018,Hydro,48.79
+Italy,2018,Nuclear,0.0
+Italy,2018,Other Fossil,14.62
+Italy,2018,Other Renewables,6.11
+Italy,2018,Solar,22.65
+Italy,2018,Wind,17.72
+Italy,2019,Bioenergy,19.55
+Italy,2019,Coal,18.84
+Italy,2019,Gas,141.7
+Italy,2019,Hydro,46.32
+Italy,2019,Nuclear,0.0
+Italy,2019,Other Fossil,13.62
+Italy,2019,Other Renewables,6.07
+Italy,2019,Solar,23.69
+Italy,2019,Wind,20.2
+Italy,2020,Bioenergy,19.62
+Italy,2020,Coal,13.38
+Italy,2020,Gas,133.7
+Italy,2020,Hydro,47.55
+Italy,2020,Nuclear,0.0
+Italy,2020,Other Fossil,12.83
+Italy,2020,Other Renewables,6.03
+Italy,2020,Solar,24.94
+Italy,2020,Wind,18.76
+Italy,2021,Bioenergy,19.06
+Italy,2021,Coal,14.02
+Italy,2021,Gas,144.01
+Italy,2021,Hydro,45.39
+Italy,2021,Nuclear,0.0
+Italy,2021,Other Fossil,11.13
+Italy,2021,Other Renewables,5.91
+Italy,2021,Solar,25.04
+Italy,2021,Wind,20.93
+Italy,2022,Bioenergy,17.61
+Italy,2022,Coal,22.61
+Italy,2022,Gas,141.47
+Italy,2022,Hydro,28.4
+Italy,2022,Nuclear,0.0
+Italy,2022,Other Fossil,15.63
+Italy,2022,Other Renewables,5.84
+Italy,2022,Solar,28.12
+Italy,2022,Wind,20.49
+Italy,2023,Bioenergy,16.01
+Italy,2023,Coal,13.22
+Italy,2023,Gas,119.02
+Italy,2023,Hydro,40.52
+Italy,2023,Nuclear,0.0
+Italy,2023,Other Fossil,12.79
+Italy,2023,Other Renewables,5.69
+Italy,2023,Solar,30.71
+Italy,2023,Wind,23.72
+Italy,2024,Bioenergy,15.95
+Italy,2024,Coal,4.64
+Italy,2024,Gas,116.63
+Italy,2024,Hydro,50.72
+Italy,2024,Nuclear,0.0
+Italy,2024,Other Fossil,12.38
+Italy,2024,Other Renewables,5.61
+Italy,2024,Solar,35.81
+Italy,2024,Wind,22.5
+Latvia,2000,Bioenergy,0.0
+Latvia,2000,Coal,0.0
+Latvia,2000,Gas,1.13
+Latvia,2000,Hydro,2.82
+Latvia,2000,Nuclear,0.0
+Latvia,2000,Other Fossil,0.19
+Latvia,2000,Other Renewables,0.0
+Latvia,2000,Solar,0.0
+Latvia,2000,Wind,0.0
+Latvia,2001,Bioenergy,0.0
+Latvia,2001,Coal,0.0
+Latvia,2001,Gas,1.3
+Latvia,2001,Hydro,2.83
+Latvia,2001,Nuclear,0.0
+Latvia,2001,Other Fossil,0.14
+Latvia,2001,Other Renewables,0.0
+Latvia,2001,Solar,0.0
+Latvia,2001,Wind,0.0
+Latvia,2002,Bioenergy,0.01
+Latvia,2002,Coal,0.0
+Latvia,2002,Gas,1.31
+Latvia,2002,Hydro,2.46
+Latvia,2002,Nuclear,0.0
+Latvia,2002,Other Fossil,0.18
+Latvia,2002,Other Renewables,0.0
+Latvia,2002,Solar,0.0
+Latvia,2002,Wind,0.01
+Latvia,2003,Bioenergy,0.02
+Latvia,2003,Coal,0.0
+Latvia,2003,Gas,1.53
+Latvia,2003,Hydro,2.27
+Latvia,2003,Nuclear,0.0
+Latvia,2003,Other Fossil,0.1
+Latvia,2003,Other Renewables,0.0
+Latvia,2003,Solar,0.0
+Latvia,2003,Wind,0.05
+Latvia,2004,Bioenergy,0.04
+Latvia,2004,Coal,0.0
+Latvia,2004,Gas,1.43
+Latvia,2004,Hydro,3.11
+Latvia,2004,Nuclear,0.0
+Latvia,2004,Other Fossil,0.06
+Latvia,2004,Other Renewables,0.0
+Latvia,2004,Solar,0.0
+Latvia,2004,Wind,0.05
+Latvia,2005,Bioenergy,0.04
+Latvia,2005,Coal,0.0
+Latvia,2005,Gas,1.49
+Latvia,2005,Hydro,3.33
+Latvia,2005,Nuclear,0.0
+Latvia,2005,Other Fossil,0.01
+Latvia,2005,Other Renewables,0.0
+Latvia,2005,Solar,0.0
+Latvia,2005,Wind,0.05
+Latvia,2006,Bioenergy,0.04
+Latvia,2006,Coal,0.0
+Latvia,2006,Gas,2.1
+Latvia,2006,Hydro,2.7
+Latvia,2006,Nuclear,0.0
+Latvia,2006,Other Fossil,0.0
+Latvia,2006,Other Renewables,0.0
+Latvia,2006,Solar,0.0
+Latvia,2006,Wind,0.05
+Latvia,2007,Bioenergy,0.04
+Latvia,2007,Coal,0.0
+Latvia,2007,Gas,1.92
+Latvia,2007,Hydro,2.73
+Latvia,2007,Nuclear,0.0
+Latvia,2007,Other Fossil,0.02
+Latvia,2007,Other Renewables,0.0
+Latvia,2007,Solar,0.0
+Latvia,2007,Wind,0.05
+Latvia,2008,Bioenergy,0.04
+Latvia,2008,Coal,0.0
+Latvia,2008,Gas,2.06
+Latvia,2008,Hydro,3.11
+Latvia,2008,Nuclear,0.0
+Latvia,2008,Other Fossil,0.0
+Latvia,2008,Other Renewables,0.0
+Latvia,2008,Solar,0.0
+Latvia,2008,Wind,0.06
+Latvia,2009,Bioenergy,0.05
+Latvia,2009,Coal,0.0
+Latvia,2009,Gas,2.01
+Latvia,2009,Hydro,3.46
+Latvia,2009,Nuclear,0.0
+Latvia,2009,Other Fossil,0.0
+Latvia,2009,Other Renewables,0.0
+Latvia,2009,Solar,0.0
+Latvia,2009,Wind,0.05
+Latvia,2010,Bioenergy,0.07
+Latvia,2010,Coal,0.0
+Latvia,2010,Gas,2.99
+Latvia,2010,Hydro,3.52
+Latvia,2010,Nuclear,0.0
+Latvia,2010,Other Fossil,0.0
+Latvia,2010,Other Renewables,0.0
+Latvia,2010,Solar,0.0
+Latvia,2010,Wind,0.05
+Latvia,2011,Bioenergy,0.12
+Latvia,2011,Coal,0.0
+Latvia,2011,Gas,3.01
+Latvia,2011,Hydro,2.89
+Latvia,2011,Nuclear,0.0
+Latvia,2011,Other Fossil,0.0
+Latvia,2011,Other Renewables,0.0
+Latvia,2011,Solar,0.0
+Latvia,2011,Wind,0.07
+Latvia,2012,Bioenergy,0.29
+Latvia,2012,Coal,0.0
+Latvia,2012,Gas,2.06
+Latvia,2012,Hydro,3.71
+Latvia,2012,Nuclear,0.0
+Latvia,2012,Other Fossil,0.0
+Latvia,2012,Other Renewables,0.0
+Latvia,2012,Solar,0.0
+Latvia,2012,Wind,0.11
+Latvia,2013,Bioenergy,0.5
+Latvia,2013,Coal,0.0
+Latvia,2013,Gas,2.67
+Latvia,2013,Hydro,2.91
+Latvia,2013,Nuclear,0.0
+Latvia,2013,Other Fossil,0.0
+Latvia,2013,Other Renewables,0.0
+Latvia,2013,Solar,0.0
+Latvia,2013,Wind,0.12
+Latvia,2014,Bioenergy,0.67
+Latvia,2014,Coal,0.0
+Latvia,2014,Gas,2.34
+Latvia,2014,Hydro,1.99
+Latvia,2014,Nuclear,0.0
+Latvia,2014,Other Fossil,0.0
+Latvia,2014,Other Renewables,0.0
+Latvia,2014,Solar,0.0
+Latvia,2014,Wind,0.14
+Latvia,2015,Bioenergy,0.77
+Latvia,2015,Coal,0.0
+Latvia,2015,Gas,2.76
+Latvia,2015,Hydro,1.86
+Latvia,2015,Nuclear,0.0
+Latvia,2015,Other Fossil,0.0
+Latvia,2015,Other Renewables,0.0
+Latvia,2015,Solar,0.0
+Latvia,2015,Wind,0.15
+Latvia,2016,Bioenergy,0.82
+Latvia,2016,Coal,0.0
+Latvia,2016,Gas,2.94
+Latvia,2016,Hydro,2.53
+Latvia,2016,Nuclear,0.0
+Latvia,2016,Other Fossil,0.0
+Latvia,2016,Other Renewables,0.0
+Latvia,2016,Solar,0.0
+Latvia,2016,Wind,0.13
+Latvia,2017,Bioenergy,0.93
+Latvia,2017,Coal,0.0
+Latvia,2017,Gas,2.07
+Latvia,2017,Hydro,4.38
+Latvia,2017,Nuclear,0.0
+Latvia,2017,Other Fossil,0.0
+Latvia,2017,Other Renewables,0.0
+Latvia,2017,Solar,0.0
+Latvia,2017,Wind,0.15
+Latvia,2018,Bioenergy,0.94
+Latvia,2018,Coal,0.0
+Latvia,2018,Gas,3.22
+Latvia,2018,Hydro,2.43
+Latvia,2018,Nuclear,0.0
+Latvia,2018,Other Fossil,0.01
+Latvia,2018,Other Renewables,0.0
+Latvia,2018,Solar,0.0
+Latvia,2018,Wind,0.12
+Latvia,2019,Bioenergy,0.93
+Latvia,2019,Coal,0.0
+Latvia,2019,Gas,3.25
+Latvia,2019,Hydro,2.11
+Latvia,2019,Nuclear,0.0
+Latvia,2019,Other Fossil,0.0
+Latvia,2019,Other Renewables,0.0
+Latvia,2019,Solar,0.0
+Latvia,2019,Wind,0.15
+Latvia,2020,Bioenergy,0.86
+Latvia,2020,Coal,0.0
+Latvia,2020,Gas,2.08
+Latvia,2020,Hydro,2.6
+Latvia,2020,Nuclear,0.0
+Latvia,2020,Other Fossil,0.0
+Latvia,2020,Other Renewables,0.0
+Latvia,2020,Solar,0.0
+Latvia,2020,Wind,0.18
+Latvia,2021,Bioenergy,0.86
+Latvia,2021,Coal,0.0
+Latvia,2021,Gas,2.13
+Latvia,2021,Hydro,2.71
+Latvia,2021,Nuclear,0.0
+Latvia,2021,Other Fossil,0.0
+Latvia,2021,Other Renewables,0.0
+Latvia,2021,Solar,0.01
+Latvia,2021,Wind,0.14
+Latvia,2022,Bioenergy,0.8
+Latvia,2022,Coal,0.0
+Latvia,2022,Gas,1.21
+Latvia,2022,Hydro,2.75
+Latvia,2022,Nuclear,0.0
+Latvia,2022,Other Fossil,0.0
+Latvia,2022,Other Renewables,0.0
+Latvia,2022,Solar,0.08
+Latvia,2022,Wind,0.19
+Latvia,2023,Bioenergy,0.66
+Latvia,2023,Coal,0.0
+Latvia,2023,Gas,1.42
+Latvia,2023,Hydro,3.79
+Latvia,2023,Nuclear,0.0
+Latvia,2023,Other Fossil,0.0
+Latvia,2023,Other Renewables,0.0
+Latvia,2023,Solar,0.24
+Latvia,2023,Wind,0.26
+Latvia,2024,Bioenergy,0.72
+Latvia,2024,Coal,0.0
+Latvia,2024,Gas,1.66
+Latvia,2024,Hydro,3.22
+Latvia,2024,Nuclear,0.0
+Latvia,2024,Other Fossil,0.0
+Latvia,2024,Other Renewables,0.0
+Latvia,2024,Solar,0.51
+Latvia,2024,Wind,0.26
+Lithuania,2000,Bioenergy,0.0
+Lithuania,2000,Coal,0.0
+Lithuania,2000,Gas,1.62
+Lithuania,2000,Hydro,0.34
+Lithuania,2000,Nuclear,8.42
+Lithuania,2000,Other Fossil,0.75
+Lithuania,2000,Other Renewables,0.0
+Lithuania,2000,Solar,0.0
+Lithuania,2001,Bioenergy,0.0
+Lithuania,2001,Coal,0.0
+Lithuania,2001,Gas,1.88
+Lithuania,2001,Hydro,0.33
+Lithuania,2001,Nuclear,11.36
+Lithuania,2001,Other Fossil,0.79
+Lithuania,2001,Other Renewables,0.0
+Lithuania,2001,Solar,0.0
+Lithuania,2002,Bioenergy,0.0
+Lithuania,2002,Coal,0.0
+Lithuania,2002,Gas,2.11
+Lithuania,2002,Hydro,0.35
+Lithuania,2002,Nuclear,14.14
+Lithuania,2002,Other Fossil,0.69
+Lithuania,2002,Other Renewables,0.0
+Lithuania,2002,Solar,0.0
+Lithuania,2003,Bioenergy,0.01
+Lithuania,2003,Coal,0.0
+Lithuania,2003,Gas,2.52
+Lithuania,2003,Hydro,0.32
+Lithuania,2003,Nuclear,15.48
+Lithuania,2003,Other Fossil,0.49
+Lithuania,2003,Other Renewables,0.0
+Lithuania,2003,Solar,0.0
+Lithuania,2004,Bioenergy,0.01
+Lithuania,2004,Coal,0.0
+Lithuania,2004,Gas,2.69
+Lithuania,2004,Hydro,0.42
+Lithuania,2004,Nuclear,15.1
+Lithuania,2004,Other Fossil,0.53
+Lithuania,2004,Other Renewables,0.0
+Lithuania,2004,Solar,0.0
+Lithuania,2004,Wind,0.0
+Lithuania,2005,Bioenergy,0.01
+Lithuania,2005,Coal,0.0
+Lithuania,2005,Gas,3.02
+Lithuania,2005,Hydro,0.45
+Lithuania,2005,Nuclear,10.34
+Lithuania,2005,Other Fossil,0.6
+Lithuania,2005,Other Renewables,0.0
+Lithuania,2005,Solar,0.0
+Lithuania,2005,Wind,0.0
+Lithuania,2006,Bioenergy,0.02
+Lithuania,2006,Coal,0.0
+Lithuania,2006,Gas,2.46
+Lithuania,2006,Hydro,0.4
+Lithuania,2006,Nuclear,8.65
+Lithuania,2006,Other Fossil,0.53
+Lithuania,2006,Other Renewables,0.0
+Lithuania,2006,Solar,0.0
+Lithuania,2006,Wind,0.01
+Lithuania,2007,Bioenergy,0.05
+Lithuania,2007,Coal,0.0
+Lithuania,2007,Gas,2.4
+Lithuania,2007,Hydro,0.42
+Lithuania,2007,Nuclear,9.83
+Lithuania,2007,Other Fossil,0.65
+Lithuania,2007,Other Renewables,0.0
+Lithuania,2007,Solar,0.0
+Lithuania,2007,Wind,0.11
+Lithuania,2008,Bioenergy,0.07
+Lithuania,2008,Coal,0.0
+Lithuania,2008,Gas,2.03
+Lithuania,2008,Hydro,0.4
+Lithuania,2008,Nuclear,9.89
+Lithuania,2008,Other Fossil,0.81
+Lithuania,2008,Other Renewables,0.0
+Lithuania,2008,Solar,0.0
+Lithuania,2008,Wind,0.13
+Lithuania,2009,Bioenergy,0.1
+Lithuania,2009,Coal,0.0
+Lithuania,2009,Gas,2.1
+Lithuania,2009,Hydro,0.42
+Lithuania,2009,Nuclear,10.85
+Lithuania,2009,Other Fossil,1.01
+Lithuania,2009,Other Renewables,0.0
+Lithuania,2009,Solar,0.0
+Lithuania,2009,Wind,0.16
+Lithuania,2010,Bioenergy,0.15
+Lithuania,2010,Coal,0.0
+Lithuania,2010,Gas,3.19
+Lithuania,2010,Hydro,0.54
+Lithuania,2010,Nuclear,0.0
+Lithuania,2010,Other Fossil,0.9
+Lithuania,2010,Other Renewables,0.0
+Lithuania,2010,Solar,0.0
+Lithuania,2010,Wind,0.22
+Lithuania,2011,Bioenergy,0.16
+Lithuania,2011,Coal,0.0
+Lithuania,2011,Gas,2.67
+Lithuania,2011,Hydro,0.48
+Lithuania,2011,Nuclear,0.0
+Lithuania,2011,Other Fossil,0.47
+Lithuania,2011,Other Renewables,0.0
+Lithuania,2011,Solar,0.0
+Lithuania,2011,Wind,0.47
+Lithuania,2012,Bioenergy,0.22
+Lithuania,2012,Coal,0.0
+Lithuania,2012,Gas,2.88
+Lithuania,2012,Hydro,0.42
+Lithuania,2012,Nuclear,0.0
+Lithuania,2012,Other Fossil,0.44
+Lithuania,2012,Other Renewables,0.0
+Lithuania,2012,Solar,0.0
+Lithuania,2012,Wind,0.54
+Lithuania,2013,Bioenergy,0.36
+Lithuania,2013,Coal,0.0
+Lithuania,2013,Gas,2.22
+Lithuania,2013,Hydro,0.52
+Lithuania,2013,Nuclear,0.0
+Lithuania,2013,Other Fossil,0.44
+Lithuania,2013,Other Renewables,0.0
+Lithuania,2013,Solar,0.05
+Lithuania,2013,Wind,0.6
+Lithuania,2014,Bioenergy,0.4
+Lithuania,2014,Coal,0.0
+Lithuania,2014,Gas,1.75
+Lithuania,2014,Hydro,0.4
+Lithuania,2014,Nuclear,0.0
+Lithuania,2014,Other Fossil,0.43
+Lithuania,2014,Other Renewables,0.0
+Lithuania,2014,Solar,0.07
+Lithuania,2014,Wind,0.64
+Lithuania,2015,Bioenergy,0.45
+Lithuania,2015,Coal,0.0
+Lithuania,2015,Gas,1.98
+Lithuania,2015,Hydro,0.35
+Lithuania,2015,Nuclear,0.0
+Lithuania,2015,Other Fossil,0.57
+Lithuania,2015,Other Renewables,0.0
+Lithuania,2015,Solar,0.07
+Lithuania,2015,Wind,0.81
+Lithuania,2016,Bioenergy,0.44
+Lithuania,2016,Coal,0.0
+Lithuania,2016,Gas,0.99
+Lithuania,2016,Hydro,0.45
+Lithuania,2016,Nuclear,0.0
+Lithuania,2016,Other Fossil,0.54
+Lithuania,2016,Other Renewables,0.0
+Lithuania,2016,Solar,0.07
+Lithuania,2016,Wind,1.14
+Lithuania,2017,Bioenergy,0.5
+Lithuania,2017,Coal,0.0
+Lithuania,2017,Gas,0.6
+Lithuania,2017,Hydro,0.6
+Lithuania,2017,Nuclear,0.0
+Lithuania,2017,Other Fossil,0.43
+Lithuania,2017,Other Renewables,0.0
+Lithuania,2017,Solar,0.07
+Lithuania,2017,Wind,1.36
+Lithuania,2018,Bioenergy,0.54
+Lithuania,2018,Coal,0.0
+Lithuania,2018,Gas,0.33
+Lithuania,2018,Hydro,0.43
+Lithuania,2018,Nuclear,0.0
+Lithuania,2018,Other Fossil,0.39
+Lithuania,2018,Other Renewables,0.0
+Lithuania,2018,Solar,0.09
+Lithuania,2018,Wind,1.14
+Lithuania,2019,Bioenergy,0.53
+Lithuania,2019,Coal,0.0
+Lithuania,2019,Gas,0.52
+Lithuania,2019,Hydro,0.35
+Lithuania,2019,Nuclear,0.0
+Lithuania,2019,Other Fossil,0.35
+Lithuania,2019,Other Renewables,0.0
+Lithuania,2019,Solar,0.09
+Lithuania,2019,Wind,1.5
+Lithuania,2020,Bioenergy,0.59
+Lithuania,2020,Coal,0.0
+Lithuania,2020,Gas,1.7
+Lithuania,2020,Hydro,0.3
+Lithuania,2020,Nuclear,0.0
+Lithuania,2020,Other Fossil,0.43
+Lithuania,2020,Other Renewables,0.0
+Lithuania,2020,Solar,0.13
+Lithuania,2020,Wind,1.55
+Lithuania,2021,Bioenergy,0.69
+Lithuania,2021,Coal,0.0
+Lithuania,2021,Gas,1.22
+Lithuania,2021,Hydro,0.38
+Lithuania,2021,Nuclear,0.0
+Lithuania,2021,Other Fossil,0.46
+Lithuania,2021,Other Renewables,0.0
+Lithuania,2021,Solar,0.19
+Lithuania,2021,Wind,1.36
+Lithuania,2022,Bioenergy,0.71
+Lithuania,2022,Coal,0.0
+Lithuania,2022,Gas,0.51
+Lithuania,2022,Hydro,0.46
+Lithuania,2022,Nuclear,0.0
+Lithuania,2022,Other Fossil,0.51
+Lithuania,2022,Other Renewables,0.0
+Lithuania,2022,Solar,0.34
+Lithuania,2022,Wind,1.51
+Lithuania,2023,Bioenergy,0.76
+Lithuania,2023,Coal,0.0
+Lithuania,2023,Gas,0.58
+Lithuania,2023,Hydro,0.45
+Lithuania,2023,Nuclear,0.0
+Lithuania,2023,Other Fossil,0.28
+Lithuania,2023,Other Renewables,0.0
+Lithuania,2023,Solar,0.69
+Lithuania,2023,Wind,2.45
+Lithuania,2024,Bioenergy,0.72
+Lithuania,2024,Coal,0.0
+Lithuania,2024,Gas,0.76
+Lithuania,2024,Hydro,0.43
+Lithuania,2024,Nuclear,0.0
+Lithuania,2024,Other Fossil,0.68
+Lithuania,2024,Other Renewables,0.0
+Lithuania,2024,Solar,1.41
+Lithuania,2024,Wind,3.32
+Luxembourg,2000,Bioenergy,0.02
+Luxembourg,2000,Coal,0.0
+Luxembourg,2000,Gas,0.21
+Luxembourg,2000,Hydro,0.12
+Luxembourg,2000,Nuclear,0.0
+Luxembourg,2000,Other Fossil,0.03
+Luxembourg,2000,Other Renewables,0.0
+Luxembourg,2000,Solar,0.0
+Luxembourg,2000,Wind,0.02
+Luxembourg,2001,Bioenergy,0.03
+Luxembourg,2001,Coal,0.0
+Luxembourg,2001,Gas,0.67
+Luxembourg,2001,Hydro,0.12
+Luxembourg,2001,Nuclear,0.0
+Luxembourg,2001,Other Fossil,0.03
+Luxembourg,2001,Other Renewables,0.0
+Luxembourg,2001,Solar,0.0
+Luxembourg,2001,Wind,0.02
+Luxembourg,2002,Bioenergy,0.03
+Luxembourg,2002,Coal,0.0
+Luxembourg,2002,Gas,2.62
+Luxembourg,2002,Hydro,0.1
+Luxembourg,2002,Nuclear,0.0
+Luxembourg,2002,Other Fossil,0.03
+Luxembourg,2002,Other Renewables,0.0
+Luxembourg,2002,Solar,0.0
+Luxembourg,2002,Wind,0.02
+Luxembourg,2003,Bioenergy,0.03
+Luxembourg,2003,Coal,0.0
+Luxembourg,2003,Gas,2.62
+Luxembourg,2003,Hydro,0.08
+Luxembourg,2003,Nuclear,0.0
+Luxembourg,2003,Other Fossil,0.03
+Luxembourg,2003,Other Renewables,0.0
+Luxembourg,2003,Solar,0.0
+Luxembourg,2003,Wind,0.03
+Luxembourg,2004,Bioenergy,0.04
+Luxembourg,2004,Coal,0.0
+Luxembourg,2004,Gas,3.15
+Luxembourg,2004,Hydro,0.1
+Luxembourg,2004,Nuclear,0.0
+Luxembourg,2004,Other Fossil,0.03
+Luxembourg,2004,Other Renewables,0.0
+Luxembourg,2004,Solar,0.01
+Luxembourg,2004,Wind,0.04
+Luxembourg,2005,Bioenergy,0.05
+Luxembourg,2005,Coal,0.0
+Luxembourg,2005,Gas,3.11
+Luxembourg,2005,Hydro,0.09
+Luxembourg,2005,Nuclear,0.0
+Luxembourg,2005,Other Fossil,0.03
+Luxembourg,2005,Other Renewables,0.0
+Luxembourg,2005,Solar,0.02
+Luxembourg,2005,Wind,0.05
+Luxembourg,2006,Bioenergy,0.06
+Luxembourg,2006,Coal,0.0
+Luxembourg,2006,Gas,3.25
+Luxembourg,2006,Hydro,0.11
+Luxembourg,2006,Nuclear,0.0
+Luxembourg,2006,Other Fossil,0.04
+Luxembourg,2006,Other Renewables,0.0
+Luxembourg,2006,Solar,0.02
+Luxembourg,2006,Wind,0.06
+Luxembourg,2007,Bioenergy,0.06
+Luxembourg,2007,Coal,0.0
+Luxembourg,2007,Gas,2.89
+Luxembourg,2007,Hydro,0.12
+Luxembourg,2007,Nuclear,0.0
+Luxembourg,2007,Other Fossil,0.04
+Luxembourg,2007,Other Renewables,0.0
+Luxembourg,2007,Solar,0.02
+Luxembourg,2007,Wind,0.06
+Luxembourg,2008,Bioenergy,0.07
+Luxembourg,2008,Coal,0.0
+Luxembourg,2008,Gas,2.4
+Luxembourg,2008,Hydro,0.13
+Luxembourg,2008,Nuclear,0.0
+Luxembourg,2008,Other Fossil,0.04
+Luxembourg,2008,Other Renewables,0.0
+Luxembourg,2008,Solar,0.02
+Luxembourg,2008,Wind,0.06
+Luxembourg,2009,Bioenergy,0.08
+Luxembourg,2009,Coal,0.0
+Luxembourg,2009,Gas,2.84
+Luxembourg,2009,Hydro,0.11
+Luxembourg,2009,Nuclear,0.0
+Luxembourg,2009,Other Fossil,0.04
+Luxembourg,2009,Other Renewables,0.0
+Luxembourg,2009,Solar,0.02
+Luxembourg,2009,Wind,0.06
+Luxembourg,2010,Bioenergy,0.08
+Luxembourg,2010,Coal,0.0
+Luxembourg,2010,Gas,2.92
+Luxembourg,2010,Hydro,0.11
+Luxembourg,2010,Nuclear,0.0
+Luxembourg,2010,Other Fossil,0.05
+Luxembourg,2010,Other Renewables,0.0
+Luxembourg,2010,Solar,0.02
+Luxembourg,2010,Wind,0.06
+Luxembourg,2011,Bioenergy,0.09
+Luxembourg,2011,Coal,0.0
+Luxembourg,2011,Gas,2.34
+Luxembourg,2011,Hydro,0.06
+Luxembourg,2011,Nuclear,0.0
+Luxembourg,2011,Other Fossil,0.06
+Luxembourg,2011,Other Renewables,0.0
+Luxembourg,2011,Solar,0.03
+Luxembourg,2011,Wind,0.06
+Luxembourg,2012,Bioenergy,0.09
+Luxembourg,2012,Coal,0.0
+Luxembourg,2012,Gas,2.39
+Luxembourg,2012,Hydro,0.1
+Luxembourg,2012,Nuclear,0.0
+Luxembourg,2012,Other Fossil,0.06
+Luxembourg,2012,Other Renewables,0.0
+Luxembourg,2012,Solar,0.04
+Luxembourg,2012,Wind,0.08
+Luxembourg,2013,Bioenergy,0.09
+Luxembourg,2013,Coal,0.0
+Luxembourg,2013,Gas,1.42
+Luxembourg,2013,Hydro,0.12
+Luxembourg,2013,Nuclear,0.0
+Luxembourg,2013,Other Fossil,0.06
+Luxembourg,2013,Other Renewables,0.0
+Luxembourg,2013,Solar,0.07
+Luxembourg,2013,Wind,0.08
+Luxembourg,2014,Bioenergy,0.12
+Luxembourg,2014,Coal,0.0
+Luxembourg,2014,Gas,1.45
+Luxembourg,2014,Hydro,0.11
+Luxembourg,2014,Nuclear,0.0
+Luxembourg,2014,Other Fossil,0.06
+Luxembourg,2014,Other Renewables,0.0
+Luxembourg,2014,Solar,0.09
+Luxembourg,2014,Wind,0.08
+Luxembourg,2015,Bioenergy,0.13
+Luxembourg,2015,Coal,0.0
+Luxembourg,2015,Gas,0.84
+Luxembourg,2015,Hydro,0.1
+Luxembourg,2015,Nuclear,0.0
+Luxembourg,2015,Other Fossil,0.07
+Luxembourg,2015,Other Renewables,0.0
+Luxembourg,2015,Solar,0.1
+Luxembourg,2015,Wind,0.1
+Luxembourg,2016,Bioenergy,0.14
+Luxembourg,2016,Coal,0.0
+Luxembourg,2016,Gas,0.26
+Luxembourg,2016,Hydro,0.12
+Luxembourg,2016,Nuclear,0.0
+Luxembourg,2016,Other Fossil,0.07
+Luxembourg,2016,Other Renewables,0.0
+Luxembourg,2016,Solar,0.1
+Luxembourg,2016,Wind,0.1
+Luxembourg,2017,Bioenergy,0.17
+Luxembourg,2017,Coal,0.0
+Luxembourg,2017,Gas,0.22
+Luxembourg,2017,Hydro,0.09
+Luxembourg,2017,Nuclear,0.0
+Luxembourg,2017,Other Fossil,0.08
+Luxembourg,2017,Other Renewables,0.0
+Luxembourg,2017,Solar,0.11
+Luxembourg,2017,Wind,0.23
+Luxembourg,2018,Bioenergy,0.22
+Luxembourg,2018,Coal,0.0
+Luxembourg,2018,Gas,0.2
+Luxembourg,2018,Hydro,0.09
+Luxembourg,2018,Nuclear,0.0
+Luxembourg,2018,Other Fossil,0.08
+Luxembourg,2018,Other Renewables,0.0
+Luxembourg,2018,Solar,0.12
+Luxembourg,2018,Wind,0.25
+Luxembourg,2019,Bioenergy,0.28
+Luxembourg,2019,Coal,0.0
+Luxembourg,2019,Gas,0.19
+Luxembourg,2019,Hydro,0.11
+Luxembourg,2019,Nuclear,0.0
+Luxembourg,2019,Other Fossil,0.08
+Luxembourg,2019,Other Renewables,0.0
+Luxembourg,2019,Solar,0.13
+Luxembourg,2019,Wind,0.28
+Luxembourg,2020,Bioenergy,0.37
+Luxembourg,2020,Coal,0.0
+Luxembourg,2020,Gas,0.18
+Luxembourg,2020,Hydro,0.09
+Luxembourg,2020,Nuclear,0.0
+Luxembourg,2020,Other Fossil,0.07
+Luxembourg,2020,Other Renewables,0.0
+Luxembourg,2020,Solar,0.16
+Luxembourg,2020,Wind,0.35
+Luxembourg,2021,Bioenergy,0.39
+Luxembourg,2021,Coal,0.0
+Luxembourg,2021,Gas,0.17
+Luxembourg,2021,Hydro,0.11
+Luxembourg,2021,Nuclear,0.0
+Luxembourg,2021,Other Fossil,0.07
+Luxembourg,2021,Other Renewables,0.0
+Luxembourg,2021,Solar,0.18
+Luxembourg,2021,Wind,0.31
+Luxembourg,2022,Bioenergy,0.38
+Luxembourg,2022,Coal,0.0
+Luxembourg,2022,Gas,0.1
+Luxembourg,2022,Hydro,0.06
+Luxembourg,2022,Nuclear,0.0
+Luxembourg,2022,Other Fossil,0.07
+Luxembourg,2022,Other Renewables,0.0
+Luxembourg,2022,Solar,0.28
+Luxembourg,2022,Wind,0.31
+Luxembourg,2023,Bioenergy,0.37
+Luxembourg,2023,Coal,0.0
+Luxembourg,2023,Gas,0.09
+Luxembourg,2023,Hydro,0.09
+Luxembourg,2023,Nuclear,0.0
+Luxembourg,2023,Other Fossil,0.06
+Luxembourg,2023,Other Renewables,0.0
+Luxembourg,2023,Solar,0.29
+Luxembourg,2023,Wind,0.49
+Luxembourg,2024,Bioenergy,0.47
+Luxembourg,2024,Coal,0.0
+Luxembourg,2024,Gas,0.08
+Luxembourg,2024,Hydro,0.14
+Luxembourg,2024,Nuclear,0.0
+Luxembourg,2024,Other Fossil,0.07
+Luxembourg,2024,Other Renewables,0.0
+Luxembourg,2024,Solar,0.35
+Luxembourg,2024,Wind,0.45
+Malta,2000,Bioenergy,0.0
+Malta,2000,Coal,0.0
+Malta,2000,Gas,0.0
+Malta,2000,Hydro,0.0
+Malta,2000,Nuclear,0.0
+Malta,2000,Other Fossil,1.92
+Malta,2000,Other Renewables,0.0
+Malta,2000,Solar,0.0
+Malta,2001,Bioenergy,0.0
+Malta,2001,Coal,0.0
+Malta,2001,Gas,0.0
+Malta,2001,Hydro,0.0
+Malta,2001,Nuclear,0.0
+Malta,2001,Other Fossil,1.94
+Malta,2001,Other Renewables,0.0
+Malta,2001,Solar,0.0
+Malta,2002,Bioenergy,0.0
+Malta,2002,Coal,0.0
+Malta,2002,Gas,0.0
+Malta,2002,Hydro,0.0
+Malta,2002,Nuclear,0.0
+Malta,2002,Other Fossil,2.05
+Malta,2002,Other Renewables,0.0
+Malta,2002,Solar,0.0
+Malta,2003,Bioenergy,0.0
+Malta,2003,Coal,0.0
+Malta,2003,Gas,0.0
+Malta,2003,Hydro,0.0
+Malta,2003,Nuclear,0.0
+Malta,2003,Other Fossil,2.24
+Malta,2003,Other Renewables,0.0
+Malta,2003,Solar,0.0
+Malta,2004,Bioenergy,0.0
+Malta,2004,Coal,0.0
+Malta,2004,Gas,0.0
+Malta,2004,Hydro,0.0
+Malta,2004,Nuclear,0.0
+Malta,2004,Other Fossil,2.22
+Malta,2004,Other Renewables,0.0
+Malta,2004,Solar,0.0
+Malta,2005,Bioenergy,0.0
+Malta,2005,Coal,0.0
+Malta,2005,Gas,0.0
+Malta,2005,Hydro,0.0
+Malta,2005,Nuclear,0.0
+Malta,2005,Other Fossil,2.24
+Malta,2005,Other Renewables,0.0
+Malta,2005,Solar,0.0
+Malta,2006,Bioenergy,0.0
+Malta,2006,Coal,0.0
+Malta,2006,Gas,0.0
+Malta,2006,Hydro,0.0
+Malta,2006,Nuclear,0.0
+Malta,2006,Other Fossil,2.26
+Malta,2006,Other Renewables,0.0
+Malta,2006,Solar,0.0
+Malta,2007,Bioenergy,0.0
+Malta,2007,Coal,0.0
+Malta,2007,Gas,0.0
+Malta,2007,Hydro,0.0
+Malta,2007,Nuclear,0.0
+Malta,2007,Other Fossil,2.3
+Malta,2007,Other Renewables,0.0
+Malta,2007,Solar,0.0
+Malta,2008,Bioenergy,0.0
+Malta,2008,Coal,0.0
+Malta,2008,Gas,0.0
+Malta,2008,Hydro,0.0
+Malta,2008,Nuclear,0.0
+Malta,2008,Other Fossil,2.31
+Malta,2008,Other Renewables,0.0
+Malta,2008,Solar,0.0
+Malta,2009,Bioenergy,0.0
+Malta,2009,Coal,0.0
+Malta,2009,Gas,0.0
+Malta,2009,Hydro,0.0
+Malta,2009,Nuclear,0.0
+Malta,2009,Other Fossil,2.17
+Malta,2009,Other Renewables,0.0
+Malta,2009,Solar,0.0
+Malta,2010,Bioenergy,0.0
+Malta,2010,Coal,0.0
+Malta,2010,Gas,0.0
+Malta,2010,Hydro,0.0
+Malta,2010,Nuclear,0.0
+Malta,2010,Other Fossil,2.11
+Malta,2010,Other Renewables,0.0
+Malta,2010,Solar,0.0
+Malta,2011,Bioenergy,0.0
+Malta,2011,Coal,0.0
+Malta,2011,Gas,0.0
+Malta,2011,Hydro,0.0
+Malta,2011,Nuclear,0.0
+Malta,2011,Other Fossil,2.17
+Malta,2011,Other Renewables,0.0
+Malta,2011,Solar,0.0
+Malta,2012,Bioenergy,0.01
+Malta,2012,Coal,0.0
+Malta,2012,Gas,0.0
+Malta,2012,Hydro,0.0
+Malta,2012,Nuclear,0.0
+Malta,2012,Other Fossil,2.27
+Malta,2012,Other Renewables,0.0
+Malta,2012,Solar,0.02
+Malta,2012,Wind,0.0
+Malta,2013,Bioenergy,0.01
+Malta,2013,Coal,0.0
+Malta,2013,Gas,0.0
+Malta,2013,Hydro,0.0
+Malta,2013,Nuclear,0.0
+Malta,2013,Other Fossil,2.22
+Malta,2013,Other Renewables,0.0
+Malta,2013,Solar,0.03
+Malta,2013,Wind,0.0
+Malta,2014,Bioenergy,0.01
+Malta,2014,Coal,0.0
+Malta,2014,Gas,0.0
+Malta,2014,Hydro,0.0
+Malta,2014,Nuclear,0.0
+Malta,2014,Other Fossil,2.17
+Malta,2014,Other Renewables,0.0
+Malta,2014,Solar,0.07
+Malta,2014,Wind,0.0
+Malta,2015,Bioenergy,0.01
+Malta,2015,Coal,0.0
+Malta,2015,Gas,0.0
+Malta,2015,Hydro,0.0
+Malta,2015,Nuclear,0.0
+Malta,2015,Other Fossil,1.2
+Malta,2015,Other Renewables,0.0
+Malta,2015,Solar,0.09
+Malta,2015,Wind,0.0
+Malta,2016,Bioenergy,0.01
+Malta,2016,Coal,0.0
+Malta,2016,Gas,0.0
+Malta,2016,Hydro,0.0
+Malta,2016,Nuclear,0.0
+Malta,2016,Other Fossil,0.72
+Malta,2016,Other Renewables,0.0
+Malta,2016,Solar,0.13
+Malta,2016,Wind,0.0
+Malta,2017,Bioenergy,0.01
+Malta,2017,Coal,0.0
+Malta,2017,Gas,1.29
+Malta,2017,Hydro,0.0
+Malta,2017,Nuclear,0.0
+Malta,2017,Other Fossil,0.19
+Malta,2017,Other Renewables,0.0
+Malta,2017,Solar,0.16
+Malta,2017,Wind,0.0
+Malta,2018,Bioenergy,0.01
+Malta,2018,Coal,0.0
+Malta,2018,Gas,1.75
+Malta,2018,Hydro,0.0
+Malta,2018,Nuclear,0.0
+Malta,2018,Other Fossil,0.02
+Malta,2018,Other Renewables,0.0
+Malta,2018,Solar,0.19
+Malta,2018,Wind,0.0
+Malta,2019,Bioenergy,0.01
+Malta,2019,Coal,0.0
+Malta,2019,Gas,1.83
+Malta,2019,Hydro,0.0
+Malta,2019,Nuclear,0.0
+Malta,2019,Other Fossil,0.03
+Malta,2019,Other Renewables,0.0
+Malta,2019,Solar,0.2
+Malta,2019,Wind,0.0
+Malta,2020,Bioenergy,0.01
+Malta,2020,Coal,0.0
+Malta,2020,Gas,1.84
+Malta,2020,Hydro,0.0
+Malta,2020,Nuclear,0.0
+Malta,2020,Other Fossil,0.06
+Malta,2020,Other Renewables,0.0
+Malta,2020,Solar,0.24
+Malta,2020,Wind,0.0
+Malta,2021,Bioenergy,0.01
+Malta,2021,Coal,0.0
+Malta,2021,Gas,1.91
+Malta,2021,Hydro,0.0
+Malta,2021,Nuclear,0.0
+Malta,2021,Other Fossil,0.04
+Malta,2021,Other Renewables,0.0
+Malta,2021,Solar,0.26
+Malta,2021,Wind,0.0
+Malta,2022,Bioenergy,0.01
+Malta,2022,Coal,0.0
+Malta,2022,Gas,1.94
+Malta,2022,Hydro,0.0
+Malta,2022,Nuclear,0.0
+Malta,2022,Other Fossil,0.06
+Malta,2022,Other Renewables,0.0
+Malta,2022,Solar,0.29
+Malta,2022,Wind,0.0
+Malta,2023,Bioenergy,0.01
+Malta,2023,Coal,0.0
+Malta,2023,Gas,2.01
+Malta,2023,Hydro,0.0
+Malta,2023,Nuclear,0.0
+Malta,2023,Other Fossil,0.02
+Malta,2023,Other Renewables,0.0
+Malta,2023,Solar,0.31
+Malta,2023,Wind,0.0
+Malta,2024,Bioenergy,0.01
+Malta,2024,Coal,0.0
+Malta,2024,Gas,1.83
+Malta,2024,Hydro,0.0
+Malta,2024,Nuclear,0.0
+Malta,2024,Other Fossil,0.01
+Malta,2024,Other Renewables,0.0
+Malta,2024,Solar,0.36
+Malta,2024,Wind,0.0
+Netherlands,2000,Bioenergy,1.99
+Netherlands,2000,Coal,24.28
+Netherlands,2000,Gas,51.52
+Netherlands,2000,Hydro,0.14
+Netherlands,2000,Nuclear,3.93
+Netherlands,2000,Other Fossil,5.36
+Netherlands,2000,Other Renewables,0.0
+Netherlands,2000,Solar,0.01
+Netherlands,2000,Wind,0.83
+Netherlands,2001,Bioenergy,2.35
+Netherlands,2001,Coal,25.48
+Netherlands,2001,Gas,53.77
+Netherlands,2001,Hydro,0.12
+Netherlands,2001,Nuclear,3.98
+Netherlands,2001,Other Fossil,5.6
+Netherlands,2001,Other Renewables,0.0
+Netherlands,2001,Solar,0.01
+Netherlands,2001,Wind,0.83
+Netherlands,2002,Bioenergy,2.9
+Netherlands,2002,Coal,25.99
+Netherlands,2002,Gas,55.28
+Netherlands,2002,Hydro,0.11
+Netherlands,2002,Nuclear,3.91
+Netherlands,2002,Other Fossil,5.48
+Netherlands,2002,Other Renewables,0.0
+Netherlands,2002,Solar,0.02
+Netherlands,2002,Wind,0.95
+Netherlands,2003,Bioenergy,2.54
+Netherlands,2003,Coal,26.57
+Netherlands,2003,Gas,55.02
+Netherlands,2003,Hydro,0.07
+Netherlands,2003,Nuclear,4.02
+Netherlands,2003,Other Fossil,5.9
+Netherlands,2003,Other Renewables,0.0
+Netherlands,2003,Solar,0.03
+Netherlands,2003,Wind,1.32
+Netherlands,2004,Bioenergy,3.31
+Netherlands,2004,Coal,24.95
+Netherlands,2004,Gas,59.99
+Netherlands,2004,Hydro,0.09
+Netherlands,2004,Nuclear,3.82
+Netherlands,2004,Other Fossil,5.76
+Netherlands,2004,Other Renewables,0.0
+Netherlands,2004,Solar,0.03
+Netherlands,2004,Wind,1.87
+Netherlands,2005,Bioenergy,5.26
+Netherlands,2005,Coal,23.5
+Netherlands,2005,Gas,57.6
+Netherlands,2005,Hydro,0.09
+Netherlands,2005,Nuclear,4.0
+Netherlands,2005,Other Fossil,5.97
+Netherlands,2005,Other Renewables,0.0
+Netherlands,2005,Solar,0.04
+Netherlands,2005,Wind,2.07
+Netherlands,2006,Bioenergy,5.17
+Netherlands,2006,Coal,23.74
+Netherlands,2006,Gas,57.14
+Netherlands,2006,Hydro,0.11
+Netherlands,2006,Nuclear,3.47
+Netherlands,2006,Other Fossil,5.11
+Netherlands,2006,Other Renewables,0.0
+Netherlands,2006,Solar,0.04
+Netherlands,2006,Wind,2.74
+Netherlands,2007,Bioenergy,4.0
+Netherlands,2007,Coal,24.92
+Netherlands,2007,Gas,61.01
+Netherlands,2007,Hydro,0.11
+Netherlands,2007,Nuclear,4.2
+Netherlands,2007,Other Fossil,5.96
+Netherlands,2007,Other Renewables,0.0
+Netherlands,2007,Solar,0.04
+Netherlands,2007,Wind,3.44
+Netherlands,2008,Bioenergy,5.13
+Netherlands,2008,Coal,23.48
+Netherlands,2008,Gas,63.36
+Netherlands,2008,Hydro,0.1
+Netherlands,2008,Nuclear,4.17
+Netherlands,2008,Other Fossil,5.67
+Netherlands,2008,Other Renewables,0.0
+Netherlands,2008,Solar,0.04
+Netherlands,2008,Wind,4.26
+Netherlands,2009,Bioenergy,6.11
+Netherlands,2009,Coal,24.28
+Netherlands,2009,Gas,68.87
+Netherlands,2009,Hydro,0.1
+Netherlands,2009,Nuclear,4.25
+Netherlands,2009,Other Fossil,4.12
+Netherlands,2009,Other Renewables,0.0
+Netherlands,2009,Solar,0.04
+Netherlands,2009,Wind,4.58
+Netherlands,2010,Bioenergy,7.04
+Netherlands,2010,Coal,22.59
+Netherlands,2010,Gas,75.33
+Netherlands,2010,Hydro,0.1
+Netherlands,2010,Nuclear,3.97
+Netherlands,2010,Other Fossil,5.02
+Netherlands,2010,Other Renewables,0.0
+Netherlands,2010,Solar,0.06
+Netherlands,2010,Wind,3.99
+Netherlands,2011,Bioenergy,7.06
+Netherlands,2011,Coal,21.39
+Netherlands,2011,Gas,69.47
+Netherlands,2011,Hydro,0.06
+Netherlands,2011,Nuclear,4.14
+Netherlands,2011,Other Fossil,5.32
+Netherlands,2011,Other Renewables,0.0
+Netherlands,2011,Solar,0.1
+Netherlands,2011,Wind,5.1
+Netherlands,2012,Bioenergy,7.2
+Netherlands,2012,Coal,24.21
+Netherlands,2012,Gas,56.56
+Netherlands,2012,Hydro,0.1
+Netherlands,2012,Nuclear,3.91
+Netherlands,2012,Other Fossil,5.12
+Netherlands,2012,Other Renewables,0.0
+Netherlands,2012,Solar,0.19
+Netherlands,2012,Wind,4.98
+Netherlands,2013,Bioenergy,5.95
+Netherlands,2013,Coal,24.61
+Netherlands,2013,Gas,56.07
+Netherlands,2013,Hydro,0.11
+Netherlands,2013,Nuclear,2.89
+Netherlands,2013,Other Fossil,4.89
+Netherlands,2013,Other Renewables,0.0
+Netherlands,2013,Solar,0.41
+Netherlands,2013,Wind,5.63
+Netherlands,2014,Bioenergy,5.01
+Netherlands,2014,Coal,29.49
+Netherlands,2014,Gas,51.52
+Netherlands,2014,Hydro,0.11
+Netherlands,2014,Nuclear,4.09
+Netherlands,2014,Other Fossil,5.35
+Netherlands,2014,Other Renewables,0.0
+Netherlands,2014,Solar,0.73
+Netherlands,2014,Wind,5.8
+Netherlands,2015,Bioenergy,4.94
+Netherlands,2015,Coal,39.39
+Netherlands,2015,Gas,45.81
+Netherlands,2015,Hydro,0.09
+Netherlands,2015,Nuclear,4.08
+Netherlands,2015,Other Fossil,6.02
+Netherlands,2015,Other Renewables,0.0
+Netherlands,2015,Solar,1.11
+Netherlands,2015,Wind,7.55
+Netherlands,2016,Bioenergy,4.91
+Netherlands,2016,Coal,36.82
+Netherlands,2016,Gas,52.53
+Netherlands,2016,Hydro,0.1
+Netherlands,2016,Nuclear,3.96
+Netherlands,2016,Other Fossil,5.87
+Netherlands,2016,Other Renewables,0.0
+Netherlands,2016,Solar,1.6
+Netherlands,2016,Wind,8.17
+Netherlands,2017,Bioenergy,4.6
+Netherlands,2017,Coal,31.38
+Netherlands,2017,Gas,57.73
+Netherlands,2017,Hydro,0.06
+Netherlands,2017,Nuclear,3.4
+Netherlands,2017,Other Fossil,6.1
+Netherlands,2017,Other Renewables,0.0
+Netherlands,2017,Solar,2.2
+Netherlands,2017,Wind,10.57
+Netherlands,2018,Bioenergy,4.55
+Netherlands,2018,Coal,27.58
+Netherlands,2018,Gas,57.63
+Netherlands,2018,Hydro,0.07
+Netherlands,2018,Nuclear,3.51
+Netherlands,2018,Other Fossil,5.5
+Netherlands,2018,Other Renewables,0.0
+Netherlands,2018,Solar,3.71
+Netherlands,2018,Wind,10.55
+Netherlands,2019,Bioenergy,5.82
+Netherlands,2019,Coal,17.69
+Netherlands,2019,Gas,70.72
+Netherlands,2019,Hydro,0.07
+Netherlands,2019,Nuclear,3.91
+Netherlands,2019,Other Fossil,4.93
+Netherlands,2019,Other Renewables,0.0
+Netherlands,2019,Solar,5.4
+Netherlands,2019,Wind,11.51
+Netherlands,2020,Bioenergy,8.84
+Netherlands,2020,Coal,7.62
+Netherlands,2020,Gas,72.52
+Netherlands,2020,Hydro,0.05
+Netherlands,2020,Nuclear,4.09
+Netherlands,2020,Other Fossil,5.0
+Netherlands,2020,Other Renewables,0.0
+Netherlands,2020,Solar,8.57
+Netherlands,2020,Wind,15.27
+Netherlands,2021,Bioenergy,10.92
+Netherlands,2021,Coal,14.6
+Netherlands,2021,Gas,56.69
+Netherlands,2021,Hydro,0.09
+Netherlands,2021,Nuclear,3.83
+Netherlands,2021,Other Fossil,5.33
+Netherlands,2021,Other Renewables,0.0
+Netherlands,2021,Solar,11.3
+Netherlands,2021,Wind,18.04
+Netherlands,2022,Bioenergy,9.82
+Netherlands,2022,Coal,14.8
+Netherlands,2022,Gas,47.74
+Netherlands,2022,Hydro,0.05
+Netherlands,2022,Nuclear,4.16
+Netherlands,2022,Other Fossil,5.16
+Netherlands,2022,Other Renewables,0.0
+Netherlands,2022,Solar,16.66
+Netherlands,2022,Wind,21.4
+Netherlands,2023,Bioenergy,7.61
+Netherlands,2023,Coal,8.71
+Netherlands,2023,Gas,45.95
+Netherlands,2023,Hydro,0.07
+Netherlands,2023,Nuclear,3.99
+Netherlands,2023,Other Fossil,4.33
+Netherlands,2023,Other Renewables,0.0
+Netherlands,2023,Solar,19.58
+Netherlands,2023,Wind,29.27
+Netherlands,2024,Bioenergy,7.26
+Netherlands,2024,Coal,8.18
+Netherlands,2024,Gas,44.03
+Netherlands,2024,Hydro,0.1
+Netherlands,2024,Nuclear,3.6
+Netherlands,2024,Other Fossil,4.4
+Netherlands,2024,Other Renewables,0.04
+Netherlands,2024,Solar,21.65
+Netherlands,2024,Wind,33.04
+Poland,2000,Bioenergy,0.22
+Poland,2000,Coal,135.89
+Poland,2000,Gas,0.93
+Poland,2000,Hydro,2.11
+Poland,2000,Nuclear,0.0
+Poland,2000,Other Fossil,4.03
+Poland,2000,Other Renewables,0.0
+Poland,2000,Solar,0.0
+Poland,2000,Wind,0.0
+Poland,2001,Bioenergy,0.44
+Poland,2001,Coal,134.97
+Poland,2001,Gas,1.36
+Poland,2001,Hydro,2.33
+Poland,2001,Nuclear,0.0
+Poland,2001,Other Fossil,4.61
+Poland,2001,Other Renewables,0.0
+Poland,2001,Solar,0.0
+Poland,2001,Wind,0.01
+Poland,2002,Bioenergy,0.43
+Poland,2002,Coal,132.94
+Poland,2002,Gas,2.2
+Poland,2002,Hydro,2.28
+Poland,2002,Nuclear,0.0
+Poland,2002,Other Fossil,4.58
+Poland,2002,Other Renewables,0.0
+Poland,2002,Solar,0.0
+Poland,2002,Wind,0.06
+Poland,2003,Bioenergy,0.46
+Poland,2003,Coal,140.66
+Poland,2003,Gas,2.42
+Poland,2003,Hydro,1.67
+Poland,2003,Nuclear,0.0
+Poland,2003,Other Fossil,4.68
+Poland,2003,Other Renewables,0.0
+Poland,2003,Solar,0.0
+Poland,2003,Wind,0.12
+Poland,2004,Bioenergy,0.98
+Poland,2004,Coal,141.12
+Poland,2004,Gas,3.22
+Poland,2004,Hydro,2.08
+Poland,2004,Nuclear,0.0
+Poland,2004,Other Fossil,5.0
+Poland,2004,Other Renewables,0.0
+Poland,2004,Solar,0.0
+Poland,2004,Wind,0.14
+Poland,2005,Bioenergy,1.51
+Poland,2005,Coal,141.88
+Poland,2005,Gas,5.16
+Poland,2005,Hydro,2.2
+Poland,2005,Nuclear,0.0
+Poland,2005,Other Fossil,4.4
+Poland,2005,Other Renewables,0.0
+Poland,2005,Solar,0.0
+Poland,2005,Wind,0.14
+Poland,2006,Bioenergy,1.99
+Poland,2006,Coal,147.01
+Poland,2006,Gas,4.58
+Poland,2006,Hydro,2.04
+Poland,2006,Nuclear,0.0
+Poland,2006,Other Fossil,4.82
+Poland,2006,Other Renewables,0.0
+Poland,2006,Solar,0.0
+Poland,2006,Wind,0.26
+Poland,2007,Bioenergy,2.56
+Poland,2007,Coal,144.01
+Poland,2007,Gas,4.48
+Poland,2007,Hydro,2.35
+Poland,2007,Nuclear,0.0
+Poland,2007,Other Fossil,4.6
+Poland,2007,Other Renewables,0.0
+Poland,2007,Solar,0.0
+Poland,2007,Wind,0.52
+Poland,2008,Bioenergy,3.62
+Poland,2008,Coal,138.89
+Poland,2008,Gas,4.68
+Poland,2008,Hydro,2.15
+Poland,2008,Nuclear,0.0
+Poland,2008,Other Fossil,4.32
+Poland,2008,Other Renewables,0.0
+Poland,2008,Solar,0.0
+Poland,2008,Wind,0.84
+Poland,2009,Bioenergy,5.23
+Poland,2009,Coal,133.38
+Poland,2009,Gas,4.79
+Poland,2009,Hydro,2.38
+Poland,2009,Nuclear,0.0
+Poland,2009,Other Fossil,4.0
+Poland,2009,Other Renewables,0.0
+Poland,2009,Solar,0.0
+Poland,2009,Wind,1.08
+Poland,2010,Bioenergy,6.3
+Poland,2010,Coal,136.51
+Poland,2010,Gas,4.8
+Poland,2010,Hydro,2.92
+Poland,2010,Nuclear,0.0
+Poland,2010,Other Fossil,4.58
+Poland,2010,Other Renewables,0.0
+Poland,2010,Solar,0.0
+Poland,2010,Wind,1.66
+Poland,2011,Bioenergy,7.6
+Poland,2011,Coal,139.76
+Poland,2011,Gas,5.82
+Poland,2011,Hydro,2.33
+Poland,2011,Nuclear,0.0
+Poland,2011,Other Fossil,4.16
+Poland,2011,Other Renewables,0.0
+Poland,2011,Solar,0.0
+Poland,2011,Wind,3.2
+Poland,2012,Bioenergy,10.09
+Poland,2012,Coal,134.57
+Poland,2012,Gas,6.26
+Poland,2012,Hydro,2.04
+Poland,2012,Nuclear,0.0
+Poland,2012,Other Fossil,3.77
+Poland,2012,Other Renewables,0.0
+Poland,2012,Solar,0.0
+Poland,2012,Wind,4.75
+Poland,2013,Bioenergy,8.62
+Poland,2013,Coal,137.72
+Poland,2013,Gas,5.27
+Poland,2013,Hydro,2.44
+Poland,2013,Nuclear,0.0
+Poland,2013,Other Fossil,3.73
+Poland,2013,Other Renewables,0.0
+Poland,2013,Solar,0.0
+Poland,2013,Wind,6.0
+Poland,2014,Bioenergy,9.98
+Poland,2014,Coal,129.52
+Poland,2014,Gas,5.33
+Poland,2014,Hydro,2.18
+Poland,2014,Nuclear,0.0
+Poland,2014,Other Fossil,3.65
+Poland,2014,Other Renewables,0.0
+Poland,2014,Solar,0.01
+Poland,2014,Wind,7.68
+Poland,2015,Bioenergy,9.94
+Poland,2015,Coal,130.52
+Poland,2015,Gas,6.39
+Poland,2015,Hydro,1.83
+Poland,2015,Nuclear,0.0
+Poland,2015,Other Fossil,4.7
+Poland,2015,Other Renewables,0.0
+Poland,2015,Solar,0.06
+Poland,2015,Wind,10.86
+Poland,2016,Bioenergy,7.96
+Poland,2016,Coal,130.32
+Poland,2016,Gas,7.83
+Poland,2016,Hydro,2.14
+Poland,2016,Nuclear,0.0
+Poland,2016,Other Fossil,5.04
+Poland,2016,Other Renewables,0.0
+Poland,2016,Solar,0.12
+Poland,2016,Wind,12.59
+Poland,2017,Bioenergy,6.49
+Poland,2017,Coal,131.16
+Poland,2017,Gas,10.03
+Poland,2017,Hydro,2.56
+Poland,2017,Nuclear,0.0
+Poland,2017,Other Fossil,4.59
+Poland,2017,Other Renewables,0.0
+Poland,2017,Solar,0.17
+Poland,2017,Wind,14.91
+Poland,2018,Bioenergy,6.55
+Poland,2018,Coal,130.56
+Poland,2018,Gas,12.63
+Poland,2018,Hydro,1.97
+Poland,2018,Nuclear,0.0
+Poland,2018,Other Fossil,4.62
+Poland,2018,Other Renewables,0.0
+Poland,2018,Solar,0.3
+Poland,2018,Wind,12.8
+Poland,2019,Bioenergy,7.68
+Poland,2019,Coal,118.14
+Poland,2019,Gas,14.8
+Poland,2019,Hydro,1.96
+Poland,2019,Nuclear,0.0
+Poland,2019,Other Fossil,4.82
+Poland,2019,Other Renewables,0.0
+Poland,2019,Solar,0.71
+Poland,2019,Wind,15.11
+Poland,2020,Bioenergy,8.35
+Poland,2020,Coal,107.4
+Poland,2020,Gas,17.29
+Poland,2020,Hydro,2.12
+Poland,2020,Nuclear,0.0
+Poland,2020,Other Fossil,4.23
+Poland,2020,Other Renewables,0.0
+Poland,2020,Solar,1.96
+Poland,2020,Wind,15.8
+Poland,2021,Bioenergy,8.06
+Poland,2021,Coal,127.57
+Poland,2021,Gas,15.82
+Poland,2021,Hydro,2.34
+Poland,2021,Nuclear,0.0
+Poland,2021,Other Fossil,4.84
+Poland,2021,Other Renewables,0.0
+Poland,2021,Solar,3.93
+Poland,2021,Wind,16.23
+Poland,2022,Bioenergy,7.63
+Poland,2022,Coal,124.73
+Poland,2022,Gas,11.36
+Poland,2022,Hydro,1.97
+Poland,2022,Nuclear,0.0
+Poland,2022,Other Fossil,4.82
+Poland,2022,Other Renewables,0.0
+Poland,2022,Solar,8.31
+Poland,2022,Wind,19.78
+Poland,2023,Bioenergy,8.16
+Poland,2023,Coal,98.85
+Poland,2023,Gas,16.49
+Poland,2023,Hydro,2.41
+Poland,2023,Nuclear,0.0
+Poland,2023,Other Fossil,4.32
+Poland,2023,Other Renewables,0.0
+Poland,2023,Solar,11.11
+Poland,2023,Wind,23.11
+Poland,2024,Bioenergy,8.39
+Poland,2024,Coal,91.05
+Poland,2024,Gas,20.52
+Poland,2024,Hydro,2.37
+Poland,2024,Nuclear,0.0
+Poland,2024,Other Fossil,7.87
+Poland,2024,Solar,15.24
+Poland,2024,Wind,24.49
+Portugal,2000,Bioenergy,1.3
+Portugal,2000,Coal,14.6
+Portugal,2000,Gas,7.14
+Portugal,2000,Hydro,11.32
+Portugal,2000,Nuclear,0.0
+Portugal,2000,Other Fossil,8.6
+Portugal,2000,Other Renewables,0.08
+Portugal,2000,Solar,0.0
+Portugal,2000,Wind,0.17
+Portugal,2001,Bioenergy,1.35
+Portugal,2001,Coal,13.61
+Portugal,2001,Gas,7.21
+Portugal,2001,Hydro,14.03
+Portugal,2001,Nuclear,0.0
+Portugal,2001,Other Fossil,9.5
+Portugal,2001,Other Renewables,0.1
+Portugal,2001,Solar,0.0
+Portugal,2001,Wind,0.26
+Portugal,2002,Bioenergy,1.47
+Portugal,2002,Coal,15.21
+Portugal,2002,Gas,9.04
+Portugal,2002,Hydro,7.8
+Portugal,2002,Nuclear,0.0
+Portugal,2002,Other Fossil,11.57
+Portugal,2002,Other Renewables,0.1
+Portugal,2002,Solar,0.0
+Portugal,2002,Wind,0.36
+Portugal,2003,Bioenergy,1.39
+Portugal,2003,Coal,14.53
+Portugal,2003,Gas,7.74
+Portugal,2003,Hydro,15.72
+Portugal,2003,Nuclear,0.0
+Portugal,2003,Other Fossil,6.42
+Portugal,2003,Other Renewables,0.09
+Portugal,2003,Solar,0.0
+Portugal,2003,Wind,0.5
+Portugal,2004,Bioenergy,1.54
+Portugal,2004,Coal,14.86
+Portugal,2004,Gas,11.69
+Portugal,2004,Hydro,9.87
+Portugal,2004,Nuclear,0.0
+Portugal,2004,Other Fossil,5.82
+Portugal,2004,Other Renewables,0.08
+Portugal,2004,Solar,0.0
+Portugal,2004,Wind,0.82
+Portugal,2005,Bioenergy,1.68
+Portugal,2005,Coal,15.23
+Portugal,2005,Gas,13.61
+Portugal,2005,Hydro,4.73
+Portugal,2005,Nuclear,0.0
+Portugal,2005,Other Fossil,8.92
+Portugal,2005,Other Renewables,0.07
+Portugal,2005,Solar,0.0
+Portugal,2005,Wind,1.77
+Portugal,2006,Bioenergy,1.7
+Portugal,2006,Coal,14.96
+Portugal,2006,Gas,12.34
+Portugal,2006,Hydro,11.0
+Portugal,2006,Nuclear,0.0
+Portugal,2006,Other Fossil,5.38
+Portugal,2006,Other Renewables,0.09
+Portugal,2006,Solar,0.0
+Portugal,2006,Wind,2.93
+Portugal,2007,Bioenergy,1.86
+Portugal,2007,Coal,12.4
+Portugal,2007,Gas,13.12
+Portugal,2007,Hydro,10.09
+Portugal,2007,Nuclear,0.0
+Portugal,2007,Other Fossil,4.98
+Portugal,2007,Other Renewables,0.2
+Portugal,2007,Solar,0.02
+Portugal,2007,Wind,4.04
+Portugal,2008,Bioenergy,1.85
+Portugal,2008,Coal,11.2
+Portugal,2008,Gas,15.2
+Portugal,2008,Hydro,6.8
+Portugal,2008,Nuclear,0.0
+Portugal,2008,Other Fossil,4.3
+Portugal,2008,Other Renewables,0.19
+Portugal,2008,Solar,0.04
+Portugal,2008,Wind,5.76
+Portugal,2009,Bioenergy,2.09
+Portugal,2009,Coal,12.9
+Portugal,2009,Gas,14.71
+Portugal,2009,Hydro,8.28
+Portugal,2009,Nuclear,0.0
+Portugal,2009,Other Fossil,3.48
+Portugal,2009,Other Renewables,0.18
+Portugal,2009,Solar,0.16
+Portugal,2009,Wind,7.58
+Portugal,2010,Bioenergy,2.61
+Portugal,2010,Coal,7.1
+Portugal,2010,Gas,14.9
+Portugal,2010,Hydro,16.15
+Portugal,2010,Nuclear,0.0
+Portugal,2010,Other Fossil,3.13
+Portugal,2010,Other Renewables,0.2
+Portugal,2010,Solar,0.21
+Portugal,2010,Wind,9.18
+Portugal,2011,Bioenergy,2.92
+Portugal,2011,Coal,9.85
+Portugal,2011,Gas,14.92
+Portugal,2011,Hydro,11.54
+Portugal,2011,Nuclear,0.0
+Portugal,2011,Other Fossil,2.9
+Portugal,2011,Other Renewables,0.21
+Portugal,2011,Solar,0.28
+Portugal,2011,Wind,9.16
+Portugal,2012,Bioenergy,2.95
+Portugal,2012,Coal,13.09
+Portugal,2012,Gas,10.67
+Portugal,2012,Hydro,5.62
+Portugal,2012,Nuclear,0.0
+Portugal,2012,Other Fossil,2.31
+Portugal,2012,Other Renewables,0.15
+Portugal,2012,Solar,0.39
+Portugal,2012,Wind,10.26
+Portugal,2013,Bioenergy,3.05
+Portugal,2013,Coal,11.84
+Portugal,2013,Gas,7.23
+Portugal,2013,Hydro,13.73
+Portugal,2013,Nuclear,0.0
+Portugal,2013,Other Fossil,1.81
+Portugal,2013,Other Renewables,0.2
+Portugal,2013,Solar,0.48
+Portugal,2013,Wind,12.01
+Portugal,2014,Bioenergy,3.05
+Portugal,2014,Coal,11.95
+Portugal,2014,Gas,6.83
+Portugal,2014,Hydro,15.57
+Portugal,2014,Nuclear,0.0
+Portugal,2014,Other Fossil,1.45
+Portugal,2014,Other Renewables,0.21
+Portugal,2014,Solar,0.63
+Portugal,2014,Wind,12.11
+Portugal,2015,Bioenergy,3.1
+Portugal,2015,Coal,14.73
+Portugal,2015,Gas,10.56
+Portugal,2015,Hydro,8.66
+Portugal,2015,Nuclear,0.0
+Portugal,2015,Other Fossil,1.49
+Portugal,2015,Other Renewables,0.2
+Portugal,2015,Solar,0.8
+Portugal,2015,Wind,11.6
+Portugal,2016,Bioenergy,3.07
+Portugal,2016,Coal,12.63
+Portugal,2016,Gas,12.58
+Portugal,2016,Hydro,15.72
+Portugal,2016,Nuclear,0.0
+Portugal,2016,Other Fossil,1.54
+Portugal,2016,Other Renewables,0.17
+Portugal,2016,Solar,0.87
+Portugal,2016,Wind,12.47
+Portugal,2017,Bioenergy,3.22
+Portugal,2017,Coal,14.67
+Portugal,2017,Gas,18.89
+Portugal,2017,Hydro,5.9
+Portugal,2017,Nuclear,0.0
+Portugal,2017,Other Fossil,1.45
+Portugal,2017,Other Renewables,0.22
+Portugal,2017,Solar,0.99
+Portugal,2017,Wind,12.25
+Portugal,2018,Bioenergy,3.16
+Portugal,2018,Coal,12.01
+Portugal,2018,Gas,15.61
+Portugal,2018,Hydro,12.39
+Portugal,2018,Nuclear,0.0
+Portugal,2018,Other Fossil,1.32
+Portugal,2018,Other Renewables,0.23
+Portugal,2018,Solar,1.01
+Portugal,2018,Wind,12.62
+Portugal,2019,Bioenergy,3.36
+Portugal,2019,Coal,5.53
+Portugal,2019,Gas,17.26
+Portugal,2019,Hydro,8.82
+Portugal,2019,Nuclear,0.0
+Portugal,2019,Other Fossil,1.4
+Portugal,2019,Other Renewables,0.22
+Portugal,2019,Solar,1.34
+Portugal,2019,Wind,13.67
+Portugal,2020,Bioenergy,3.79
+Portugal,2020,Coal,2.36
+Portugal,2020,Gas,17.6
+Portugal,2020,Hydro,12.08
+Portugal,2020,Nuclear,0.0
+Portugal,2020,Other Fossil,1.32
+Portugal,2020,Other Renewables,0.22
+Portugal,2020,Solar,1.72
+Portugal,2020,Wind,12.3
+Portugal,2021,Bioenergy,4.0
+Portugal,2021,Coal,0.8
+Portugal,2021,Gas,15.57
+Portugal,2021,Hydro,11.91
+Portugal,2021,Nuclear,0.0
+Portugal,2021,Other Fossil,1.31
+Portugal,2021,Other Renewables,0.18
+Portugal,2021,Solar,2.24
+Portugal,2021,Wind,13.21
+Portugal,2022,Bioenergy,4.11
+Portugal,2022,Coal,0.0
+Portugal,2022,Gas,17.39
+Portugal,2022,Hydro,6.54
+Portugal,2022,Nuclear,0.0
+Portugal,2022,Other Fossil,1.33
+Portugal,2022,Other Renewables,0.19
+Portugal,2022,Solar,3.52
+Portugal,2022,Wind,13.25
+Portugal,2023,Bioenergy,3.8
+Portugal,2023,Coal,0.0
+Portugal,2023,Gas,10.42
+Portugal,2023,Hydro,12.04
+Portugal,2023,Nuclear,0.0
+Portugal,2023,Other Fossil,1.36
+Portugal,2023,Other Renewables,0.21
+Portugal,2023,Solar,5.16
+Portugal,2023,Wind,13.2
+Portugal,2024,Bioenergy,3.97
+Portugal,2024,Coal,0.0
+Portugal,2024,Gas,5.45
+Portugal,2024,Hydro,14.17
+Portugal,2024,Nuclear,0.0
+Portugal,2024,Other Fossil,1.41
+Portugal,2024,Other Renewables,0.21
+Portugal,2024,Solar,6.71
+Portugal,2024,Wind,14.38
+Romania,2000,Bioenergy,0.0
+Romania,2000,Coal,18.92
+Romania,2000,Gas,9.0
+Romania,2000,Hydro,14.78
+Romania,2000,Nuclear,5.46
+Romania,2000,Other Fossil,3.4
+Romania,2000,Other Renewables,0.0
+Romania,2000,Solar,0.0
+Romania,2001,Bioenergy,0.0
+Romania,2001,Coal,19.7
+Romania,2001,Gas,8.07
+Romania,2001,Hydro,14.92
+Romania,2001,Nuclear,5.45
+Romania,2001,Other Fossil,5.41
+Romania,2001,Other Renewables,0.0
+Romania,2001,Solar,0.0
+Romania,2002,Bioenergy,0.0
+Romania,2002,Coal,20.31
+Romania,2002,Gas,8.97
+Romania,2002,Hydro,16.05
+Romania,2002,Nuclear,5.51
+Romania,2002,Other Fossil,3.58
+Romania,2002,Other Renewables,0.0
+Romania,2002,Solar,0.0
+Romania,2003,Bioenergy,0.0
+Romania,2003,Coal,23.34
+Romania,2003,Gas,9.7
+Romania,2003,Hydro,13.26
+Romania,2003,Nuclear,4.91
+Romania,2003,Other Fossil,3.63
+Romania,2003,Other Renewables,0.0
+Romania,2003,Solar,0.0
+Romania,2004,Bioenergy,0.0
+Romania,2004,Coal,21.48
+Romania,2004,Gas,10.46
+Romania,2004,Hydro,16.51
+Romania,2004,Nuclear,5.55
+Romania,2004,Other Fossil,2.47
+Romania,2004,Other Renewables,0.0
+Romania,2004,Solar,0.0
+Romania,2005,Bioenergy,0.01
+Romania,2005,Coal,21.91
+Romania,2005,Gas,9.61
+Romania,2005,Hydro,20.21
+Romania,2005,Nuclear,5.55
+Romania,2005,Other Fossil,2.04
+Romania,2005,Other Renewables,0.0
+Romania,2005,Solar,0.0
+Romania,2005,Wind,0.0
+Romania,2006,Bioenergy,0.0
+Romania,2006,Coal,25.15
+Romania,2006,Gas,11.83
+Romania,2006,Hydro,18.36
+Romania,2006,Nuclear,5.63
+Romania,2006,Other Fossil,1.59
+Romania,2006,Other Renewables,0.0
+Romania,2006,Solar,0.0
+Romania,2006,Wind,0.0
+Romania,2007,Bioenergy,0.04
+Romania,2007,Coal,25.1
+Romania,2007,Gas,11.56
+Romania,2007,Hydro,15.97
+Romania,2007,Nuclear,7.71
+Romania,2007,Other Fossil,1.18
+Romania,2007,Other Renewables,0.0
+Romania,2007,Solar,0.0
+Romania,2007,Wind,0.0
+Romania,2008,Bioenergy,0.02
+Romania,2008,Coal,25.82
+Romania,2008,Gas,9.92
+Romania,2008,Hydro,17.2
+Romania,2008,Nuclear,11.23
+Romania,2008,Other Fossil,0.67
+Romania,2008,Other Renewables,0.0
+Romania,2008,Solar,0.0
+Romania,2008,Wind,0.0
+Romania,2009,Bioenergy,0.01
+Romania,2009,Coal,21.74
+Romania,2009,Gas,7.63
+Romania,2009,Hydro,15.53
+Romania,2009,Nuclear,11.75
+Romania,2009,Other Fossil,0.92
+Romania,2009,Other Renewables,0.0
+Romania,2009,Solar,0.0
+Romania,2009,Wind,0.01
+Romania,2010,Bioenergy,0.11
+Romania,2010,Coal,20.68
+Romania,2010,Gas,7.26
+Romania,2010,Hydro,19.88
+Romania,2010,Nuclear,11.62
+Romania,2010,Other Fossil,0.56
+Romania,2010,Other Renewables,0.0
+Romania,2010,Solar,0.0
+Romania,2010,Wind,0.31
+Romania,2011,Bioenergy,0.2
+Romania,2011,Coal,24.78
+Romania,2011,Gas,8.36
+Romania,2011,Hydro,14.73
+Romania,2011,Nuclear,11.75
+Romania,2011,Other Fossil,0.59
+Romania,2011,Other Renewables,0.0
+Romania,2011,Solar,0.0
+Romania,2011,Wind,1.39
+Romania,2012,Bioenergy,0.21
+Romania,2012,Coal,22.9
+Romania,2012,Gas,8.72
+Romania,2012,Hydro,12.07
+Romania,2012,Nuclear,11.47
+Romania,2012,Other Fossil,0.52
+Romania,2012,Other Renewables,0.0
+Romania,2012,Solar,0.01
+Romania,2012,Wind,2.64
+Romania,2013,Bioenergy,0.25
+Romania,2013,Coal,16.94
+Romania,2013,Gas,9.26
+Romania,2013,Hydro,14.96
+Romania,2013,Nuclear,11.62
+Romania,2013,Other Fossil,0.22
+Romania,2013,Other Renewables,0.0
+Romania,2013,Solar,0.42
+Romania,2013,Wind,4.52
+Romania,2014,Bioenergy,0.5
+Romania,2014,Coal,17.76
+Romania,2014,Gas,8.1
+Romania,2014,Hydro,18.8
+Romania,2014,Nuclear,11.68
+Romania,2014,Other Fossil,0.26
+Romania,2014,Other Renewables,0.0
+Romania,2014,Solar,1.62
+Romania,2014,Wind,6.2
+Romania,2015,Bioenergy,0.52
+Romania,2015,Coal,18.13
+Romania,2015,Gas,9.39
+Romania,2015,Hydro,16.63
+Romania,2015,Nuclear,11.64
+Romania,2015,Other Fossil,0.31
+Romania,2015,Other Renewables,0.0
+Romania,2015,Solar,1.98
+Romania,2015,Wind,7.06
+Romania,2016,Bioenergy,0.53
+Romania,2016,Coal,15.88
+Romania,2016,Gas,9.65
+Romania,2016,Hydro,18.03
+Romania,2016,Nuclear,11.29
+Romania,2016,Other Fossil,0.43
+Romania,2016,Other Renewables,0.0
+Romania,2016,Solar,1.82
+Romania,2016,Wind,6.59
+Romania,2017,Bioenergy,0.53
+Romania,2017,Coal,16.78
+Romania,2017,Gas,10.66
+Romania,2017,Hydro,14.49
+Romania,2017,Nuclear,11.51
+Romania,2017,Other Fossil,0.3
+Romania,2017,Other Renewables,0.0
+Romania,2017,Solar,1.86
+Romania,2017,Wind,7.41
+Romania,2018,Bioenergy,0.44
+Romania,2018,Coal,15.65
+Romania,2018,Gas,10.52
+Romania,2018,Hydro,17.66
+Romania,2018,Nuclear,11.38
+Romania,2018,Other Fossil,0.33
+Romania,2018,Other Renewables,0.0
+Romania,2018,Solar,1.77
+Romania,2018,Wind,6.32
+Romania,2019,Bioenergy,0.5
+Romania,2019,Coal,13.61
+Romania,2019,Gas,8.95
+Romania,2019,Hydro,15.58
+Romania,2019,Nuclear,11.28
+Romania,2019,Other Fossil,0.29
+Romania,2019,Other Renewables,0.0
+Romania,2019,Solar,1.78
+Romania,2019,Wind,6.77
+Romania,2020,Bioenergy,0.55
+Romania,2020,Coal,9.36
+Romania,2020,Gas,9.46
+Romania,2020,Hydro,15.38
+Romania,2020,Nuclear,11.47
+Romania,2020,Other Fossil,0.31
+Romania,2020,Other Renewables,0.0
+Romania,2020,Solar,1.73
+Romania,2020,Wind,6.95
+Romania,2021,Bioenergy,0.65
+Romania,2021,Coal,10.69
+Romania,2021,Gas,9.91
+Romania,2021,Hydro,17.41
+Romania,2021,Nuclear,11.28
+Romania,2021,Other Fossil,0.34
+Romania,2021,Other Renewables,0.0
+Romania,2021,Solar,1.7
+Romania,2021,Wind,6.58
+Romania,2022,Bioenergy,0.65
+Romania,2022,Coal,10.37
+Romania,2022,Gas,9.33
+Romania,2022,Hydro,13.98
+Romania,2022,Nuclear,11.09
+Romania,2022,Other Fossil,0.33
+Romania,2022,Other Renewables,0.0
+Romania,2022,Solar,1.99
+Romania,2022,Wind,7.0
+Romania,2023,Bioenergy,0.44
+Romania,2023,Coal,8.06
+Romania,2023,Gas,9.15
+Romania,2023,Hydro,18.14
+Romania,2023,Nuclear,11.19
+Romania,2023,Other Fossil,0.19
+Romania,2023,Other Renewables,0.0
+Romania,2023,Solar,2.23
+Romania,2023,Wind,7.55
+Romania,2024,Bioenergy,0.51
+Romania,2024,Coal,6.86
+Romania,2024,Gas,9.84
+Romania,2024,Hydro,14.05
+Romania,2024,Nuclear,10.78
+Romania,2024,Other Fossil,0.19
+Romania,2024,Other Renewables,0.0
+Romania,2024,Solar,4.2
+Romania,2024,Wind,6.43
+Slovakia,2000,Bioenergy,0.0
+Slovakia,2000,Coal,5.58
+Slovakia,2000,Gas,3.34
+Slovakia,2000,Hydro,4.61
+Slovakia,2000,Nuclear,16.49
+Slovakia,2000,Other Fossil,0.76
+Slovakia,2000,Other Renewables,0.0
+Slovakia,2000,Solar,0.0
+Slovakia,2001,Bioenergy,0.15
+Slovakia,2001,Coal,5.82
+Slovakia,2001,Gas,2.7
+Slovakia,2001,Hydro,4.93
+Slovakia,2001,Nuclear,17.1
+Slovakia,2001,Other Fossil,1.12
+Slovakia,2001,Other Renewables,0.0
+Slovakia,2001,Solar,0.0
+Slovakia,2002,Bioenergy,0.15
+Slovakia,2002,Coal,5.15
+Slovakia,2002,Gas,2.51
+Slovakia,2002,Hydro,5.27
+Slovakia,2002,Nuclear,17.95
+Slovakia,2002,Other Fossil,1.15
+Slovakia,2002,Other Renewables,0.0
+Slovakia,2002,Solar,0.0
+Slovakia,2003,Bioenergy,0.1
+Slovakia,2003,Coal,5.96
+Slovakia,2003,Gas,2.4
+Slovakia,2003,Hydro,3.48
+Slovakia,2003,Nuclear,17.86
+Slovakia,2003,Other Fossil,1.18
+Slovakia,2003,Other Renewables,0.0
+Slovakia,2003,Solar,0.0
+Slovakia,2003,Wind,0.0
+Slovakia,2004,Bioenergy,0.02
+Slovakia,2004,Coal,5.68
+Slovakia,2004,Gas,2.42
+Slovakia,2004,Hydro,4.1
+Slovakia,2004,Nuclear,17.03
+Slovakia,2004,Other Fossil,1.2
+Slovakia,2004,Other Renewables,0.0
+Slovakia,2004,Solar,0.0
+Slovakia,2004,Wind,0.01
+Slovakia,2005,Bioenergy,0.03
+Slovakia,2005,Coal,5.54
+Slovakia,2005,Gas,2.18
+Slovakia,2005,Hydro,4.64
+Slovakia,2005,Nuclear,17.73
+Slovakia,2005,Other Fossil,1.21
+Slovakia,2005,Other Renewables,0.0
+Slovakia,2005,Solar,0.0
+Slovakia,2005,Wind,0.01
+Slovakia,2006,Bioenergy,0.4
+Slovakia,2006,Coal,5.31
+Slovakia,2006,Gas,1.91
+Slovakia,2006,Hydro,4.4
+Slovakia,2006,Nuclear,18.01
+Slovakia,2006,Other Fossil,1.21
+Slovakia,2006,Other Renewables,0.0
+Slovakia,2006,Solar,0.0
+Slovakia,2006,Wind,0.01
+Slovakia,2007,Bioenergy,0.47
+Slovakia,2007,Coal,4.8
+Slovakia,2007,Gas,1.62
+Slovakia,2007,Hydro,4.45
+Slovakia,2007,Nuclear,15.33
+Slovakia,2007,Other Fossil,1.17
+Slovakia,2007,Other Renewables,0.0
+Slovakia,2007,Solar,0.0
+Slovakia,2007,Wind,0.01
+Slovakia,2008,Bioenergy,0.52
+Slovakia,2008,Coal,4.67
+Slovakia,2008,Gas,1.61
+Slovakia,2008,Hydro,4.04
+Slovakia,2008,Nuclear,16.7
+Slovakia,2008,Other Fossil,1.15
+Slovakia,2008,Other Renewables,0.0
+Slovakia,2008,Solar,0.0
+Slovakia,2008,Wind,0.01
+Slovakia,2009,Bioenergy,0.54
+Slovakia,2009,Coal,3.86
+Slovakia,2009,Gas,1.97
+Slovakia,2009,Hydro,4.37
+Slovakia,2009,Nuclear,14.08
+Slovakia,2009,Other Fossil,1.1
+Slovakia,2009,Other Renewables,0.0
+Slovakia,2009,Solar,0.0
+Slovakia,2009,Wind,0.01
+Slovakia,2010,Bioenergy,0.66
+Slovakia,2010,Coal,3.56
+Slovakia,2010,Gas,2.21
+Slovakia,2010,Hydro,5.26
+Slovakia,2010,Nuclear,14.57
+Slovakia,2010,Other Fossil,1.17
+Slovakia,2010,Other Renewables,0.0
+Slovakia,2010,Solar,0.02
+Slovakia,2010,Wind,0.01
+Slovakia,2011,Bioenergy,0.82
+Slovakia,2011,Coal,3.55
+Slovakia,2011,Gas,3.15
+Slovakia,2011,Hydro,3.78
+Slovakia,2011,Nuclear,15.41
+Slovakia,2011,Other Fossil,1.17
+Slovakia,2011,Other Renewables,0.0
+Slovakia,2011,Solar,0.4
+Slovakia,2011,Wind,0.0
+Slovakia,2012,Bioenergy,0.94
+Slovakia,2012,Coal,3.41
+Slovakia,2012,Gas,2.85
+Slovakia,2012,Hydro,4.1
+Slovakia,2012,Nuclear,15.49
+Slovakia,2012,Other Fossil,1.08
+Slovakia,2012,Other Renewables,0.0
+Slovakia,2012,Solar,0.42
+Slovakia,2012,Wind,0.01
+Slovakia,2013,Bioenergy,0.91
+Slovakia,2013,Coal,3.07
+Slovakia,2013,Gas,2.39
+Slovakia,2013,Hydro,4.85
+Slovakia,2013,Nuclear,15.72
+Slovakia,2013,Other Fossil,0.96
+Slovakia,2013,Other Renewables,0.0
+Slovakia,2013,Solar,0.59
+Slovakia,2013,Wind,0.01
+Slovakia,2014,Bioenergy,1.42
+Slovakia,2014,Coal,2.87
+Slovakia,2014,Gas,1.62
+Slovakia,2014,Hydro,4.21
+Slovakia,2014,Nuclear,15.5
+Slovakia,2014,Other Fossil,0.9
+Slovakia,2014,Other Renewables,0.0
+Slovakia,2014,Solar,0.6
+Slovakia,2014,Wind,0.01
+Slovakia,2015,Bioenergy,1.66
+Slovakia,2015,Coal,2.83
+Slovakia,2015,Gas,1.6
+Slovakia,2015,Hydro,3.87
+Slovakia,2015,Nuclear,15.15
+Slovakia,2015,Other Fossil,0.99
+Slovakia,2015,Other Renewables,0.0
+Slovakia,2015,Solar,0.51
+Slovakia,2015,Wind,0.01
+Slovakia,2016,Bioenergy,1.73
+Slovakia,2016,Coal,2.8
+Slovakia,2016,Gas,1.52
+Slovakia,2016,Hydro,4.36
+Slovakia,2016,Nuclear,14.77
+Slovakia,2016,Other Fossil,1.08
+Slovakia,2016,Other Renewables,0.0
+Slovakia,2016,Solar,0.53
+Slovakia,2016,Wind,0.01
+Slovakia,2017,Bioenergy,1.7
+Slovakia,2017,Coal,2.99
+Slovakia,2017,Gas,1.67
+Slovakia,2017,Hydro,4.32
+Slovakia,2017,Nuclear,15.08
+Slovakia,2017,Other Fossil,1.14
+Slovakia,2017,Other Renewables,0.0
+Slovakia,2017,Solar,0.51
+Slovakia,2017,Wind,0.01
+Slovakia,2018,Bioenergy,1.63
+Slovakia,2018,Coal,3.01
+Slovakia,2018,Gas,1.86
+Slovakia,2018,Hydro,3.59
+Slovakia,2018,Nuclear,14.84
+Slovakia,2018,Other Fossil,1.14
+Slovakia,2018,Other Renewables,0.0
+Slovakia,2018,Solar,0.58
+Slovakia,2018,Wind,0.01
+Slovakia,2019,Bioenergy,1.69
+Slovakia,2019,Coal,2.34
+Slovakia,2019,Gas,3.07
+Slovakia,2019,Hydro,4.36
+Slovakia,2019,Nuclear,15.28
+Slovakia,2019,Other Fossil,0.87
+Slovakia,2019,Other Renewables,0.0
+Slovakia,2019,Solar,0.59
+Slovakia,2019,Wind,0.01
+Slovakia,2020,Bioenergy,1.67
+Slovakia,2020,Coal,1.86
+Slovakia,2020,Gas,3.57
+Slovakia,2020,Hydro,4.52
+Slovakia,2020,Nuclear,15.44
+Slovakia,2020,Other Fossil,0.79
+Slovakia,2020,Other Renewables,0.0
+Slovakia,2020,Solar,0.66
+Slovakia,2020,Wind,0.0
+Slovakia,2021,Bioenergy,1.84
+Slovakia,2021,Coal,1.7
+Slovakia,2021,Gas,4.37
+Slovakia,2021,Hydro,4.26
+Slovakia,2021,Nuclear,15.73
+Slovakia,2021,Other Fossil,1.13
+Slovakia,2021,Other Renewables,0.0
+Slovakia,2021,Solar,0.67
+Slovakia,2021,Wind,0.0
+Slovakia,2022,Bioenergy,1.49
+Slovakia,2022,Coal,1.62
+Slovakia,2022,Gas,2.1
+Slovakia,2022,Hydro,3.68
+Slovakia,2022,Nuclear,15.92
+Slovakia,2022,Other Fossil,1.08
+Slovakia,2022,Other Renewables,0.0
+Slovakia,2022,Solar,0.65
+Slovakia,2022,Wind,0.0
+Slovakia,2023,Bioenergy,1.41
+Slovakia,2023,Coal,1.22
+Slovakia,2023,Gas,2.28
+Slovakia,2023,Hydro,4.69
+Slovakia,2023,Nuclear,18.33
+Slovakia,2023,Other Fossil,0.99
+Slovakia,2023,Other Renewables,0.0
+Slovakia,2023,Solar,0.61
+Slovakia,2023,Wind,0.0
+Slovakia,2024,Bioenergy,1.49
+Slovakia,2024,Coal,0.53
+Slovakia,2024,Gas,2.68
+Slovakia,2024,Hydro,4.81
+Slovakia,2024,Nuclear,18.2
+Slovakia,2024,Other Fossil,0.88
+Slovakia,2024,Other Renewables,0.05
+Slovakia,2024,Solar,0.68
+Slovakia,2024,Wind,0.0
+Slovenia,2000,Bioenergy,0.07
+Slovenia,2000,Coal,4.61
+Slovenia,2000,Gas,0.29
+Slovenia,2000,Hydro,3.83
+Slovenia,2000,Nuclear,4.76
+Slovenia,2000,Other Fossil,0.05
+Slovenia,2000,Other Renewables,0.0
+Slovenia,2000,Solar,0.0
+Slovenia,2001,Bioenergy,0.07
+Slovenia,2001,Coal,4.92
+Slovenia,2001,Gas,0.3
+Slovenia,2001,Hydro,3.8
+Slovenia,2001,Nuclear,5.26
+Slovenia,2001,Other Fossil,0.13
+Slovenia,2001,Other Renewables,0.0
+Slovenia,2001,Solar,0.0
+Slovenia,2002,Bioenergy,0.1
+Slovenia,2002,Coal,5.3
+Slovenia,2002,Gas,0.29
+Slovenia,2002,Hydro,3.31
+Slovenia,2002,Nuclear,5.53
+Slovenia,2002,Other Fossil,0.07
+Slovenia,2002,Other Renewables,0.0
+Slovenia,2002,Solar,0.0
+Slovenia,2003,Bioenergy,0.12
+Slovenia,2003,Coal,5.11
+Slovenia,2003,Gas,0.37
+Slovenia,2003,Hydro,2.96
+Slovenia,2003,Nuclear,5.21
+Slovenia,2003,Other Fossil,0.06
+Slovenia,2003,Other Renewables,0.0
+Slovenia,2003,Solar,0.0
+Slovenia,2004,Bioenergy,0.12
+Slovenia,2004,Coal,5.19
+Slovenia,2004,Gas,0.36
+Slovenia,2004,Hydro,4.09
+Slovenia,2004,Nuclear,5.46
+Slovenia,2004,Other Fossil,0.05
+Slovenia,2004,Other Renewables,0.0
+Slovenia,2004,Solar,0.0
+Slovenia,2005,Bioenergy,0.11
+Slovenia,2005,Coal,5.27
+Slovenia,2005,Gas,0.34
+Slovenia,2005,Hydro,3.46
+Slovenia,2005,Nuclear,5.88
+Slovenia,2005,Other Fossil,0.05
+Slovenia,2005,Other Renewables,0.0
+Slovenia,2005,Solar,0.0
+Slovenia,2006,Bioenergy,0.11
+Slovenia,2006,Coal,5.43
+Slovenia,2006,Gas,0.37
+Slovenia,2006,Hydro,3.59
+Slovenia,2006,Nuclear,5.55
+Slovenia,2006,Other Fossil,0.06
+Slovenia,2006,Other Renewables,0.0
+Slovenia,2006,Solar,0.0
+Slovenia,2007,Bioenergy,0.11
+Slovenia,2007,Coal,5.48
+Slovenia,2007,Gas,0.45
+Slovenia,2007,Hydro,3.27
+Slovenia,2007,Nuclear,5.7
+Slovenia,2007,Other Fossil,0.03
+Slovenia,2007,Other Renewables,0.0
+Slovenia,2007,Solar,0.0
+Slovenia,2008,Bioenergy,0.29
+Slovenia,2008,Coal,5.33
+Slovenia,2008,Gas,0.48
+Slovenia,2008,Hydro,4.02
+Slovenia,2008,Nuclear,6.27
+Slovenia,2008,Other Fossil,0.02
+Slovenia,2008,Other Renewables,0.0
+Slovenia,2008,Solar,0.0
+Slovenia,2009,Bioenergy,0.19
+Slovenia,2009,Coal,5.13
+Slovenia,2009,Gas,0.59
+Slovenia,2009,Hydro,4.71
+Slovenia,2009,Nuclear,5.74
+Slovenia,2009,Other Fossil,0.03
+Slovenia,2009,Other Renewables,0.0
+Slovenia,2009,Solar,0.0
+Slovenia,2010,Bioenergy,0.22
+Slovenia,2010,Coal,5.29
+Slovenia,2010,Gas,0.55
+Slovenia,2010,Hydro,4.52
+Slovenia,2010,Nuclear,5.66
+Slovenia,2010,Other Fossil,0.01
+Slovenia,2010,Other Renewables,0.0
+Slovenia,2010,Solar,0.01
+Slovenia,2011,Bioenergy,0.25
+Slovenia,2011,Coal,5.31
+Slovenia,2011,Gas,0.49
+Slovenia,2011,Hydro,3.56
+Slovenia,2011,Nuclear,6.22
+Slovenia,2011,Other Fossil,0.02
+Slovenia,2011,Other Renewables,0.0
+Slovenia,2011,Solar,0.07
+Slovenia,2012,Bioenergy,0.27
+Slovenia,2012,Coal,5.14
+Slovenia,2012,Gas,0.53
+Slovenia,2012,Hydro,3.9
+Slovenia,2012,Nuclear,5.53
+Slovenia,2012,Other Fossil,0.02
+Slovenia,2012,Other Renewables,0.0
+Slovenia,2012,Solar,0.16
+Slovenia,2013,Bioenergy,0.26
+Slovenia,2013,Coal,4.87
+Slovenia,2013,Gas,0.51
+Slovenia,2013,Hydro,4.63
+Slovenia,2013,Nuclear,5.3
+Slovenia,2013,Other Fossil,0.01
+Slovenia,2013,Other Renewables,0.0
+Slovenia,2013,Solar,0.22
+Slovenia,2013,Wind,0.0
+Slovenia,2014,Bioenergy,0.25
+Slovenia,2014,Coal,3.76
+Slovenia,2014,Gas,0.37
+Slovenia,2014,Hydro,6.09
+Slovenia,2014,Nuclear,6.37
+Slovenia,2014,Other Fossil,0.05
+Slovenia,2014,Other Renewables,0.0
+Slovenia,2014,Solar,0.26
+Slovenia,2014,Wind,0.0
+Slovenia,2015,Bioenergy,0.26
+Slovenia,2015,Coal,4.38
+Slovenia,2015,Gas,0.4
+Slovenia,2015,Hydro,3.81
+Slovenia,2015,Nuclear,5.65
+Slovenia,2015,Other Fossil,0.02
+Slovenia,2015,Other Renewables,0.0
+Slovenia,2015,Solar,0.27
+Slovenia,2015,Wind,0.01
+Slovenia,2016,Bioenergy,0.28
+Slovenia,2016,Coal,5.01
+Slovenia,2016,Gas,0.42
+Slovenia,2016,Hydro,4.5
+Slovenia,2016,Nuclear,5.72
+Slovenia,2016,Other Fossil,0.02
+Slovenia,2016,Other Renewables,0.0
+Slovenia,2016,Solar,0.27
+Slovenia,2016,Wind,0.01
+Slovenia,2017,Bioenergy,0.28
+Slovenia,2017,Coal,4.82
+Slovenia,2017,Gas,0.48
+Slovenia,2017,Hydro,3.87
+Slovenia,2017,Nuclear,6.29
+Slovenia,2017,Other Fossil,0.02
+Slovenia,2017,Other Renewables,0.0
+Slovenia,2017,Solar,0.28
+Slovenia,2017,Wind,0.01
+Slovenia,2018,Bioenergy,0.26
+Slovenia,2018,Coal,4.62
+Slovenia,2018,Gas,0.48
+Slovenia,2018,Hydro,4.7
+Slovenia,2018,Nuclear,5.78
+Slovenia,2018,Other Fossil,0.02
+Slovenia,2018,Other Renewables,0.0
+Slovenia,2018,Solar,0.25
+Slovenia,2018,Wind,0.01
+Slovenia,2019,Bioenergy,0.25
+Slovenia,2019,Coal,4.48
+Slovenia,2019,Gas,0.54
+Slovenia,2019,Hydro,4.48
+Slovenia,2019,Nuclear,5.82
+Slovenia,2019,Other Fossil,0.01
+Slovenia,2019,Other Renewables,0.0
+Slovenia,2019,Solar,0.3
+Slovenia,2019,Wind,0.01
+Slovenia,2020,Bioenergy,0.27
+Slovenia,2020,Coal,4.36
+Slovenia,2020,Gas,0.58
+Slovenia,2020,Hydro,4.93
+Slovenia,2020,Nuclear,6.35
+Slovenia,2020,Other Fossil,0.02
+Slovenia,2020,Other Renewables,0.0
+Slovenia,2020,Solar,0.37
+Slovenia,2020,Wind,0.01
+Slovenia,2021,Bioenergy,0.27
+Slovenia,2021,Coal,3.85
+Slovenia,2021,Gas,0.52
+Slovenia,2021,Hydro,4.71
+Slovenia,2021,Nuclear,5.71
+Slovenia,2021,Other Fossil,0.07
+Slovenia,2021,Other Renewables,0.0
+Slovenia,2021,Solar,0.45
+Slovenia,2021,Wind,0.01
+Slovenia,2022,Bioenergy,0.26
+Slovenia,2022,Coal,3.13
+Slovenia,2022,Gas,0.49
+Slovenia,2022,Hydro,3.15
+Slovenia,2022,Nuclear,5.61
+Slovenia,2022,Other Fossil,0.06
+Slovenia,2022,Other Renewables,0.0
+Slovenia,2022,Solar,0.65
+Slovenia,2022,Wind,0.01
+Slovenia,2023,Bioenergy,0.29
+Slovenia,2023,Coal,3.14
+Slovenia,2023,Gas,0.5
+Slovenia,2023,Hydro,5.02
+Slovenia,2023,Nuclear,5.6
+Slovenia,2023,Other Fossil,0.01
+Slovenia,2023,Other Renewables,0.0
+Slovenia,2023,Solar,0.98
+Slovenia,2023,Wind,0.01
+Slovenia,2024,Bioenergy,0.35
+Slovenia,2024,Coal,3.45
+Slovenia,2024,Gas,0.6
+Slovenia,2024,Hydro,5.3
+Slovenia,2024,Nuclear,5.81
+Slovenia,2024,Other Fossil,0.0
+Slovenia,2024,Other Renewables,0.0
+Slovenia,2024,Solar,1.48
+Slovenia,2024,Wind,0.01
+Spain,2000,Bioenergy,1.49
+Spain,2000,Coal,79.09
+Spain,2000,Gas,20.18
+Spain,2000,Hydro,28.26
+Spain,2000,Nuclear,62.21
+Spain,2000,Other Fossil,24.95
+Spain,2000,Other Renewables,0.0
+Spain,2000,Solar,0.01
+Spain,2000,Wind,4.73
+Spain,2001,Bioenergy,1.63
+Spain,2001,Coal,70.27
+Spain,2001,Gas,23.36
+Spain,2001,Hydro,40.89
+Spain,2001,Nuclear,63.71
+Spain,2001,Other Fossil,26.43
+Spain,2001,Other Renewables,0.0
+Spain,2001,Solar,0.02
+Spain,2001,Wind,6.76
+Spain,2002,Bioenergy,2.59
+Spain,2002,Coal,81.18
+Spain,2002,Gas,32.39
+Spain,2002,Hydro,21.22
+Spain,2002,Nuclear,63.02
+Spain,2002,Other Fossil,30.15
+Spain,2002,Other Renewables,0.0
+Spain,2002,Solar,0.02
+Spain,2002,Wind,9.34
+Spain,2003,Bioenergy,3.18
+Spain,2003,Coal,74.73
+Spain,2003,Gas,39.37
+Spain,2003,Hydro,40.48
+Spain,2003,Nuclear,61.88
+Spain,2003,Other Fossil,25.57
+Spain,2003,Other Renewables,0.0
+Spain,2003,Solar,0.02
+Spain,2003,Wind,12.07
+Spain,2004,Bioenergy,3.33
+Spain,2004,Coal,79.1
+Spain,2004,Gas,55.46
+Spain,2004,Hydro,31.08
+Spain,2004,Nuclear,63.61
+Spain,2004,Other Fossil,28.31
+Spain,2004,Other Renewables,0.0
+Spain,2004,Solar,0.02
+Spain,2004,Wind,15.7
+Spain,2005,Bioenergy,2.65
+Spain,2005,Coal,79.06
+Spain,2005,Gas,79.01
+Spain,2005,Hydro,18.39
+Spain,2005,Nuclear,57.54
+Spain,2005,Other Fossil,31.58
+Spain,2005,Other Renewables,0.0
+Spain,2005,Solar,0.05
+Spain,2005,Wind,21.18
+Spain,2006,Bioenergy,2.77
+Spain,2006,Coal,66.74
+Spain,2006,Gas,90.57
+Spain,2006,Hydro,25.96
+Spain,2006,Nuclear,60.13
+Spain,2006,Other Fossil,26.0
+Spain,2006,Other Renewables,0.0
+Spain,2006,Solar,0.12
+Spain,2006,Wind,23.3
+Spain,2007,Bioenergy,2.9
+Spain,2007,Coal,72.8
+Spain,2007,Gas,94.8
+Spain,2007,Hydro,27.31
+Spain,2007,Nuclear,55.1
+Spain,2007,Other Fossil,20.86
+Spain,2007,Other Renewables,0.0
+Spain,2007,Solar,0.52
+Spain,2007,Wind,27.57
+Spain,2008,Bioenergy,3.26
+Spain,2008,Coal,48.71
+Spain,2008,Gas,120.8
+Spain,2008,Hydro,23.36
+Spain,2008,Nuclear,58.97
+Spain,2008,Other Fossil,19.16
+Spain,2008,Other Renewables,0.0
+Spain,2008,Solar,2.58
+Spain,2008,Wind,32.95
+Spain,2009,Bioenergy,3.49
+Spain,2009,Coal,35.91
+Spain,2009,Gas,107.75
+Spain,2009,Hydro,26.41
+Spain,2009,Nuclear,52.76
+Spain,2009,Other Fossil,20.22
+Spain,2009,Other Renewables,0.0
+Spain,2009,Solar,6.06
+Spain,2009,Wind,38.12
+Spain,2010,Bioenergy,4.01
+Spain,2010,Coal,25.33
+Spain,2010,Gas,94.85
+Spain,2010,Hydro,42.3
+Spain,2010,Nuclear,61.99
+Spain,2010,Other Fossil,17.86
+Spain,2010,Other Renewables,0.0
+Spain,2010,Solar,7.19
+Spain,2010,Wind,44.27
+Spain,2011,Bioenergy,4.61
+Spain,2011,Coal,43.98
+Spain,2011,Gas,85.51
+Spain,2011,Hydro,30.6
+Spain,2011,Nuclear,57.72
+Spain,2011,Other Fossil,16.8
+Spain,2011,Other Renewables,0.0
+Spain,2011,Solar,9.4
+Spain,2011,Wind,42.92
+Spain,2012,Bioenergy,4.98
+Spain,2012,Coal,55.07
+Spain,2012,Gas,73.31
+Spain,2012,Hydro,20.55
+Spain,2012,Nuclear,61.47
+Spain,2012,Other Fossil,17.13
+Spain,2012,Other Renewables,0.0
+Spain,2012,Solar,11.97
+Spain,2012,Wind,49.47
+Spain,2013,Bioenergy,5.8
+Spain,2013,Coal,39.94
+Spain,2013,Gas,57.54
+Spain,2013,Hydro,36.87
+Spain,2013,Nuclear,56.73
+Spain,2013,Other Fossil,15.84
+Spain,2013,Other Renewables,0.0
+Spain,2013,Solar,13.1
+Spain,2013,Wind,55.64
+Spain,2014,Bioenergy,5.41
+Spain,2014,Coal,43.81
+Spain,2014,Gas,47.27
+Spain,2014,Hydro,39.17
+Spain,2014,Nuclear,57.31
+Spain,2014,Other Fossil,15.79
+Spain,2014,Other Renewables,0.0
+Spain,2014,Solar,13.67
+Spain,2014,Wind,52.01
+Spain,2015,Bioenergy,5.76
+Spain,2015,Coal,51.37
+Spain,2015,Gas,52.5
+Spain,2015,Hydro,28.14
+Spain,2015,Nuclear,57.2
+Spain,2015,Other Fossil,19.02
+Spain,2015,Other Renewables,0.0
+Spain,2015,Solar,13.86
+Spain,2015,Wind,49.32
+Spain,2016,Bioenergy,5.69
+Spain,2016,Coal,36.43
+Spain,2016,Gas,52.83
+Spain,2016,Hydro,36.4
+Spain,2016,Nuclear,58.63
+Spain,2016,Other Fossil,18.18
+Spain,2016,Other Renewables,0.0
+Spain,2016,Solar,13.64
+Spain,2016,Wind,48.9
+Spain,2017,Bioenergy,6.08
+Spain,2017,Coal,45.13
+Spain,2017,Gas,64.04
+Spain,2017,Hydro,18.32
+Spain,2017,Nuclear,58.04
+Spain,2017,Other Fossil,17.24
+Spain,2017,Other Renewables,0.0
+Spain,2017,Solar,14.4
+Spain,2017,Wind,49.13
+Spain,2018,Bioenergy,5.91
+Spain,2018,Coal,37.34
+Spain,2018,Gas,58.0
+Spain,2018,Hydro,34.33
+Spain,2018,Nuclear,55.77
+Spain,2018,Other Fossil,16.42
+Spain,2018,Other Renewables,0.0
+Spain,2018,Solar,12.74
+Spain,2018,Wind,50.89
+Spain,2019,Bioenergy,5.57
+Spain,2019,Coal,12.86
+Spain,2019,Gas,83.71
+Spain,2019,Hydro,24.65
+Spain,2019,Nuclear,58.35
+Spain,2019,Other Fossil,14.61
+Spain,2019,Other Renewables,0.02
+Spain,2019,Solar,15.1
+Spain,2019,Wind,55.65
+Spain,2020,Bioenergy,6.14
+Spain,2020,Coal,5.52
+Spain,2020,Gas,69.74
+Spain,2020,Hydro,30.51
+Spain,2020,Nuclear,58.3
+Spain,2020,Other Fossil,12.12
+Spain,2020,Other Renewables,0.03
+Spain,2020,Solar,20.67
+Spain,2020,Wind,56.44
+Spain,2021,Bioenergy,6.94
+Spain,2021,Coal,4.86
+Spain,2021,Gas,71.5
+Spain,2021,Hydro,29.63
+Spain,2021,Nuclear,56.56
+Spain,2021,Other Fossil,12.08
+Spain,2021,Other Renewables,0.02
+Spain,2021,Solar,27.1
+Spain,2021,Wind,62.06
+Spain,2022,Bioenergy,6.8
+Spain,2022,Coal,7.86
+Spain,2022,Gas,86.1
+Spain,2022,Hydro,17.59
+Spain,2022,Nuclear,58.59
+Spain,2022,Other Fossil,11.69
+Spain,2022,Other Renewables,0.02
+Spain,2022,Solar,35.72
+Spain,2022,Wind,62.78
+Spain,2023,Bioenergy,5.9
+Spain,2023,Coal,3.62
+Spain,2023,Gas,64.36
+Spain,2023,Hydro,25.0
+Spain,2023,Nuclear,56.87
+Spain,2023,Other Fossil,10.48
+Spain,2023,Other Renewables,0.01
+Spain,2023,Solar,48.59
+Spain,2023,Wind,65.01
+Spain,2024,Bioenergy,6.25
+Spain,2024,Coal,2.65
+Spain,2024,Gas,52.39
+Spain,2024,Hydro,32.63
+Spain,2024,Nuclear,54.82
+Spain,2024,Other Fossil,10.12
+Spain,2024,Other Renewables,0.0
+Spain,2024,Solar,58.6
+Spain,2024,Wind,62.93
+Sweden,2000,Bioenergy,4.1
+Sweden,2000,Coal,1.64
+Sweden,2000,Gas,0.48
+Sweden,2000,Hydro,78.58
+Sweden,2000,Nuclear,57.32
+Sweden,2000,Other Fossil,2.65
+Sweden,2000,Other Renewables,0.0
+Sweden,2000,Solar,0.0
+Sweden,2000,Wind,0.46
+Sweden,2001,Bioenergy,3.78
+Sweden,2001,Coal,1.88
+Sweden,2001,Gas,0.4
+Sweden,2001,Hydro,79.06
+Sweden,2001,Nuclear,72.11
+Sweden,2001,Other Fossil,3.89
+Sweden,2001,Other Renewables,0.0
+Sweden,2001,Solar,0.0
+Sweden,2001,Wind,0.48
+Sweden,2002,Bioenergy,4.18
+Sweden,2002,Coal,2.37
+Sweden,2002,Gas,0.56
+Sweden,2002,Hydro,66.36
+Sweden,2002,Nuclear,68.11
+Sweden,2002,Other Fossil,4.51
+Sweden,2002,Other Renewables,0.0
+Sweden,2002,Solar,0.0
+Sweden,2002,Wind,0.61
+Sweden,2003,Bioenergy,4.51
+Sweden,2003,Coal,2.85
+Sweden,2003,Gas,0.73
+Sweden,2003,Hydro,53.54
+Sweden,2003,Nuclear,67.42
+Sweden,2003,Other Fossil,5.66
+Sweden,2003,Other Renewables,0.0
+Sweden,2003,Solar,0.0
+Sweden,2003,Wind,0.68
+Sweden,2004,Bioenergy,7.2
+Sweden,2004,Coal,1.01
+Sweden,2004,Gas,0.78
+Sweden,2004,Hydro,60.12
+Sweden,2004,Nuclear,77.49
+Sweden,2004,Other Fossil,4.1
+Sweden,2004,Other Renewables,0.0
+Sweden,2004,Solar,0.0
+Sweden,2004,Wind,0.86
+Sweden,2005,Bioenergy,7.49
+Sweden,2005,Coal,0.65
+Sweden,2005,Gas,0.6
+Sweden,2005,Hydro,72.8
+Sweden,2005,Nuclear,72.38
+Sweden,2005,Other Fossil,3.51
+Sweden,2005,Other Renewables,0.0
+Sweden,2005,Solar,0.0
+Sweden,2005,Wind,0.93
+Sweden,2006,Bioenergy,8.36
+Sweden,2006,Coal,0.88
+Sweden,2006,Gas,0.6
+Sweden,2006,Hydro,61.72
+Sweden,2006,Nuclear,66.98
+Sweden,2006,Other Fossil,3.76
+Sweden,2006,Other Renewables,0.0
+Sweden,2006,Solar,0.0
+Sweden,2006,Wind,0.98
+Sweden,2007,Bioenergy,9.84
+Sweden,2007,Coal,0.65
+Sweden,2007,Gas,0.83
+Sweden,2007,Hydro,66.16
+Sweden,2007,Nuclear,66.97
+Sweden,2007,Other Fossil,2.94
+Sweden,2007,Other Renewables,0.0
+Sweden,2007,Solar,0.0
+Sweden,2007,Wind,1.43
+Sweden,2008,Bioenergy,10.34
+Sweden,2008,Coal,0.51
+Sweden,2008,Gas,0.62
+Sweden,2008,Hydro,69.07
+Sweden,2008,Nuclear,63.89
+Sweden,2008,Other Fossil,3.47
+Sweden,2008,Other Renewables,0.0
+Sweden,2008,Solar,0.0
+Sweden,2008,Wind,2.0
+Sweden,2009,Bioenergy,11.46
+Sweden,2009,Coal,0.51
+Sweden,2009,Gas,1.56
+Sweden,2009,Hydro,65.85
+Sweden,2009,Nuclear,52.17
+Sweden,2009,Other Fossil,2.55
+Sweden,2009,Other Renewables,0.0
+Sweden,2009,Solar,0.01
+Sweden,2009,Wind,2.49
+Sweden,2010,Bioenergy,12.19
+Sweden,2010,Coal,1.02
+Sweden,2010,Gas,2.91
+Sweden,2010,Hydro,66.4
+Sweden,2010,Nuclear,57.83
+Sweden,2010,Other Fossil,4.6
+Sweden,2010,Other Renewables,0.0
+Sweden,2010,Solar,0.01
+Sweden,2010,Wind,3.49
+Sweden,2011,Bioenergy,11.54
+Sweden,2011,Coal,0.66
+Sweden,2011,Gas,1.58
+Sweden,2011,Hydro,66.43
+Sweden,2011,Nuclear,60.47
+Sweden,2011,Other Fossil,3.48
+Sweden,2011,Other Renewables,0.0
+Sweden,2011,Solar,0.01
+Sweden,2011,Wind,6.11
+Sweden,2012,Bioenergy,12.19
+Sweden,2012,Coal,0.48
+Sweden,2012,Gas,0.92
+Sweden,2012,Hydro,78.93
+Sweden,2012,Nuclear,64.04
+Sweden,2012,Other Fossil,2.69
+Sweden,2012,Other Renewables,0.0
+Sweden,2012,Solar,0.02
+Sweden,2012,Wind,7.17
+Sweden,2013,Bioenergy,11.45
+Sweden,2013,Coal,0.65
+Sweden,2013,Gas,0.85
+Sweden,2013,Hydro,61.36
+Sweden,2013,Nuclear,66.46
+Sweden,2013,Other Fossil,2.38
+Sweden,2013,Other Renewables,0.0
+Sweden,2013,Solar,0.04
+Sweden,2013,Wind,9.84
+Sweden,2014,Bioenergy,10.7
+Sweden,2014,Coal,0.37
+Sweden,2014,Gas,0.42
+Sweden,2014,Hydro,63.76
+Sweden,2014,Nuclear,64.88
+Sweden,2014,Other Fossil,2.14
+Sweden,2014,Other Renewables,0.0
+Sweden,2014,Solar,0.05
+Sweden,2014,Wind,11.24
+Sweden,2015,Bioenergy,10.77
+Sweden,2015,Coal,0.39
+Sweden,2015,Gas,0.45
+Sweden,2015,Hydro,75.31
+Sweden,2015,Nuclear,56.35
+Sweden,2015,Other Fossil,2.31
+Sweden,2015,Other Renewables,0.0
+Sweden,2015,Solar,0.1
+Sweden,2015,Wind,16.32
+Sweden,2016,Bioenergy,11.49
+Sweden,2016,Coal,0.26
+Sweden,2016,Gas,0.68
+Sweden,2016,Hydro,62.02
+Sweden,2016,Nuclear,63.1
+Sweden,2016,Other Fossil,2.72
+Sweden,2016,Other Renewables,0.0
+Sweden,2016,Solar,0.14
+Sweden,2016,Wind,15.48
+Sweden,2017,Bioenergy,12.08
+Sweden,2017,Coal,0.32
+Sweden,2017,Gas,0.33
+Sweden,2017,Hydro,65.14
+Sweden,2017,Nuclear,65.7
+Sweden,2017,Other Fossil,2.82
+Sweden,2017,Other Renewables,0.0
+Sweden,2017,Solar,0.23
+Sweden,2017,Wind,17.61
+Sweden,2018,Bioenergy,11.91
+Sweden,2018,Coal,0.34
+Sweden,2018,Gas,0.38
+Sweden,2018,Hydro,62.21
+Sweden,2018,Nuclear,68.55
+Sweden,2018,Other Fossil,2.94
+Sweden,2018,Other Renewables,0.0
+Sweden,2018,Solar,0.41
+Sweden,2018,Wind,16.62
+Sweden,2019,Bioenergy,13.04
+Sweden,2019,Coal,0.21
+Sweden,2019,Gas,0.29
+Sweden,2019,Hydro,65.37
+Sweden,2019,Nuclear,66.13
+Sweden,2019,Other Fossil,2.85
+Sweden,2019,Other Renewables,0.0
+Sweden,2019,Solar,0.68
+Sweden,2019,Wind,19.85
+Sweden,2020,Bioenergy,11.18
+Sweden,2020,Coal,0.0
+Sweden,2020,Gas,0.1
+Sweden,2020,Hydro,72.39
+Sweden,2020,Nuclear,49.2
+Sweden,2020,Other Fossil,2.34
+Sweden,2020,Other Renewables,0.0
+Sweden,2020,Solar,1.05
+Sweden,2020,Wind,27.52
+Sweden,2021,Bioenergy,13.08
+Sweden,2021,Coal,0.0
+Sweden,2021,Gas,0.29
+Sweden,2021,Hydro,73.89
+Sweden,2021,Nuclear,52.97
+Sweden,2021,Other Fossil,2.77
+Sweden,2021,Other Renewables,0.0
+Sweden,2021,Solar,1.53
+Sweden,2021,Wind,27.25
+Sweden,2022,Bioenergy,13.13
+Sweden,2022,Coal,0.0
+Sweden,2022,Gas,0.15
+Sweden,2022,Hydro,69.87
+Sweden,2022,Nuclear,51.94
+Sweden,2022,Other Fossil,2.73
+Sweden,2022,Other Renewables,0.0
+Sweden,2022,Solar,1.98
+Sweden,2022,Wind,33.25
+Sweden,2023,Bioenergy,11.7
+Sweden,2023,Coal,0.0
+Sweden,2023,Gas,0.16
+Sweden,2023,Hydro,66.19
+Sweden,2023,Nuclear,48.47
+Sweden,2023,Other Fossil,2.17
+Sweden,2023,Other Renewables,0.0
+Sweden,2023,Solar,3.11
+Sweden,2023,Wind,34.64
+Sweden,2024,Bioenergy,10.41
+Sweden,2024,Coal,0.0
+Sweden,2024,Gas,0.16
+Sweden,2024,Hydro,65.11
+Sweden,2024,Nuclear,50.45
+Sweden,2024,Other Fossil,2.17
+Sweden,2024,Other Renewables,0.0
+Sweden,2024,Solar,3.65
+Sweden,2024,Wind,40.84
