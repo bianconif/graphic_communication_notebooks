@@ -1,4 +1,20 @@
-Area,Year,Source,Value
+#===========================================================
+#Electricity production in the European Union by source
+#
+#Source:
+#[1] Yearly electricity data
+#
+#    EMBER
+#    https://ember-energy.org/data/yearly-electricity-data/
+#    (Accessed on 11 March 2025)
+#
+#Available under CC-BY-4.0
+#https://ember-energy.org/creative-commons/
+#https://creativecommons.org/licenses/by/4.0/deed.en
+#
+#Values are in TWh/Year
+#===========================================================
+Country,Year,Source,Value
 Austria,2000,Bioenergy,1.53
 Austria,2000,Coal,5.72
 Austria,2000,Gas,7.85
