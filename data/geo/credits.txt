@@ -1,0 +1,3 @@
+Source: Opendatasoft, https://public.opendatasoft.com/explore/dataset/georef-italy-regione/export/?disjunctive.rip_code&disjunctive.rip_name&disjunctive.reg_code&disjunctive.reg_name
+License: https://creativecommons.org/licenses/by/3.0/
+Accessed on 22 April 2025

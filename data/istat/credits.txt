@@ -1,0 +1,4 @@
+Source: Istituto Nazionale di Statistica (ISTAT), Conti economici territoriali - Anni 2021-2023
+URL: https://www.istat.it/comunicato-stampa/conti-economici-territoriali-anni-2021-2023/
+License: https://creativecommons.org/licenses/by/4.0/
+Accessed on 22 April 2025
